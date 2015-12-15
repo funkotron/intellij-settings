@@ -115,10 +115,10 @@
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1449766726738">
-        <mark key="[" line="54" column="45" />
-        <mark key="]" line="54" column="46" />
-        <mark key="." line="54" column="46" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450177115654">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
         <mark key="[" line="227" column="35" />
@@ -250,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA7OmJvcmRlciAgICAgICAgICAgezpzdHlsZSA6c29saWQKICAgICAgICAgICAgICA7ICAgICAgICAgICAgICAgICAgIDpjb2xvciA6YmxhY2t9Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiIGNvbnRlbnQ9InllcyI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
@@ -262,31 +262,31 @@
         <text encoding="base64">RmxpY2tpdHkucHJvdG90eXBlLnJlc2l6ZSA9IGZ1bmN0aW9uKCl7fTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA7OmJvcmRlciAgICAgICAgICAgezpzdHlsZSA6c29saWQKICAgICAgICAgICAgICA7ICAgICAgICAgICAgICAgICAgIDpjb2xvciA6YmxhY2t9Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiIGNvbnRlbnQ9InllcyI+Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>Title</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>resize</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA7OmJvcmRlciAgICAgICAgICAgezpzdHlsZSA6c29saWQKICAgICAgICAgICAgICA7ICAgICAgICAgICAgICAgICAgIDpjb2xvciA6YmxhY2t9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>filepicker</text>
+        <text>Title</text>
       </register>
       <register name="5" type="4">
+        <text>resize</text>
+      </register>
+      <register name="6" type="4">
+        <text>filepicker</text>
+      </register>
+      <register name="7" type="4">
         <text>B</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIDsobG9nL2RlYnVnIChzdHIgIjRTQUxFIiBAZm9yLXNhbGUtc3RhdHVzKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDsocmVhY3Rpb24gKGxvZy9kZWJ1ZyAiQ0hBTkdFRCBERUZBVUxUIiBAZGVmYXVsdC1maWx0ZXJzKSAocmVzZXQhIGZpbHRlcnMtc2VsZWN0ZWQgQGRlZmF1bHQtZmlsdGVycykgbmlsKQogICAgOyhyZWFjdGlvbiAocmVzZXQhIGZpbHRlcnMtc2VsZWN0ZWQgQGRlZmF1bHQtZmlsdGVycykgKGxvZy9kZWJ1ZyAiUkVTRVQhISEiKSBuaWwpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKGxvZy9kZWJ1ZyAiREVGQVVMVCIgQGRlZmF1bHQtZmlsdGVycykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm9uY2UgZm9yLXNhbGUtc3RhdHVzIChhdG9tIG5pbCkpCg==</text>
+        <text encoding="base64">ICAgIDsocmVhY3Rpb24gKGxvZy9kZWJ1ZyAiQ0hBTkdFRCBERUZBVUxUIiBAZGVmYXVsdC1maWx0ZXJzKSAocmVzZXQhIGZpbHRlcnMtc2VsZWN0ZWQgQGRlZmF1bHQtZmlsdGVycykgbmlsKQogICAgOyhyZWFjdGlvbiAocmVzZXQhIGZpbHRlcnMtc2VsZWN0ZWQgQGRlZmF1bHQtZmlsdGVycykgKGxvZy9kZWJ1ZyAiUkVTRVQhISEiKSBuaWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
