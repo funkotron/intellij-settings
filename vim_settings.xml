@@ -8,11 +8,6 @@
         <mark key="]" line="532" column="0" />
         <mark key="." line="532" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1450202657664">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1449754819271">
         <mark key="[" line="94" column="27" />
         <mark key="]" line="94" column="27" />
@@ -33,37 +28,16 @@
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1449767529281">
         <mark key="[" line="146" column="48" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1450182650505">
-        <mark key="'" line="236" column="25" />
-        <mark key="[" line="272" column="23" />
-        <mark key="]" line="272" column="23" />
-        <mark key="." line="272" column="23" />
-      </file>
       <file name="$USER_HOME$/w/cnc/resources/externs/flickity.js" timestamp="1449768005037">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1450202555675">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/form_components.cljs" timestamp="1449757485072">
         <mark key="[" line="188" column="8" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/organisations.cljs" timestamp="1450202632841">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1450202587450">
-        <mark key="[" line="505" column="0" />
-        <mark key="]" line="505" column="0" />
-        <mark key="." line="505" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/mdl_components.cljs" timestamp="1450181947367">
         <mark key="[" line="112" column="9" />
@@ -74,32 +48,11 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" timestamp="1449070207851">
         <mark key="[" line="74" column="47" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1450202689295">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/pendings.cljs" timestamp="1450202640408">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450202569781">
-        <mark key="'" line="282" column="97" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="98" column="25" />
+        <mark key="'" line="285" column="97" />
       </file>
       <file name="/a.regexp" timestamp="1450186949355">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1449770052482">
-        <mark key="'" line="37" column="3" />
-        <mark key="[" line="78" column="42" />
-        <mark key="]" line="78" column="41" />
-        <mark key="." line="78" column="41" />
-        <mark key="^" line="78" column="41" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
@@ -134,17 +87,6 @@
         <mark key="[" line="2" column="60" />
         <mark key="]" line="2" column="60" />
         <mark key="." line="2" column="60" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1450202607738">
-        <mark key="[" line="464" column="0" />
-        <mark key="]" line="464" column="0" />
-        <mark key="." line="464" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/core.cljs" timestamp="1450202680528">
-        <mark key="'" line="148" column="7" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450186349832">
         <mark key="[" line="216" column="22" />
