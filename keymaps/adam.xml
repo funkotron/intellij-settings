@@ -1,0 +1,5 @@
+<keymap version="1" name="adam" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
