@@ -86,11 +86,10 @@
         <mark key="^" line="335" column="29" />
         <mark key="." line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/navigation.cljs" timestamp="1450277021783">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/navigation.cljs" timestamp="1450279555753">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450270730145">
         <mark key="'" line="285" column="97" />
@@ -99,12 +98,12 @@
       <file name="/a.regexp" timestamp="1450186949355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1450277475412">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1450278993237">
         <mark key="'" line="37" column="3" />
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="80" column="41" />
-        <mark key="." line="80" column="41" />
-        <mark key="^" line="80" column="41" />
+        <mark key="[" line="106" column="40" />
+        <mark key="]" line="106" column="39" />
+        <mark key="." line="106" column="39" />
+        <mark key="^" line="106" column="39" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
@@ -146,11 +145,11 @@
         <mark key="]" line="369" column="0" />
         <mark key="." line="369" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450277893970">
-        <mark key="[" line="113" column="50" />
-        <mark key="]" line="112" column="19" />
-        <mark key="^" line="112" column="19" />
-        <mark key="." line="112" column="19" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450279479628">
+        <mark key="[" line="251" column="48" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="116" column="44" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/migrations.clj" timestamp="1450262366512">
         <mark key="[" line="137" column="140" />
@@ -261,7 +260,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKHN0YXRlL3NhdmUtaGVhZGVyLXNlYXJjaC10ZXh0IFs6Y29udGFjdHMtdmlldyA6c2VhcmNoLXN0cmluZ10pCg==</text>
+        <text encoding="base64">KGRlZm4gbmF2LXRvLXNlY3Rpb24tbGlzdCEKICAiSnVtcCB0byB0aGUgOmN1cnJlbnQtc2VjdGlvbi1saXN0IHBhZ2Ugb2YgYSBzZWN0aW9uIGlmIGl0IGlzIHNldCIKICBbXQogICAoLi1oYXNoICguLWxvY2F0aW9uIGpzL3dpbmRvdykpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>No matching contacts found</text>
@@ -273,31 +272,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6Y3VycmVudC1zZWN0aW9uLWxpc3QgIydhcnR3b3Jrcy9hcnR3b3JrKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgKHN0YXRlL3NhdmUtaGVhZGVyLXNlYXJjaC10ZXh0IFs6Y29udGFjdHMtdmlldyA6c2VhcmNoLXN0cmluZ10pCg==</text>
+        <text encoding="base64">KGRlZm4gbmF2LXRvLXNlY3Rpb24tbGlzdCEKICAiSnVtcCB0byB0aGUgOmN1cnJlbnQtc2VjdGlvbi1saXN0IHBhZ2Ugb2YgYSBzZWN0aW9uIGlmIGl0IGlzIHNldCIKICBbXQogICAoLi1oYXNoICguLWxvY2F0aW9uIGpzL3dpbmRvdykpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChzdGF0ZS9yZXN0b3JlLWhlYWRlci1zZWFyY2gtdGV4dCBbOmNvbnRhY3RzLXZpZXcgOnNlYXJjaC1zdHJpbmddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6Y3VycmVudC1zZWN0aW9uLWxpc3QgIydhcnR3b3Jrcy9hcnR3b3JrKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>No matching contacts found</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>second</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6Y3VycmVudC1zZWN0aW9uLWxpc3QgIydhcnR3b3Jrcy9hcnR3b3JrKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAta3ctbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6Y3VycmVudC1zZWN0aW9uLWxpc3QgIydhcnR3b3Jrcy9hcnR3b3JrKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>map-kw-ns</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgKHN0YXRlL3NhdmUtaGVhZGVyLXNlYXJjaC10ZXh0IFs6Y29udGFjdHMtdmlldyA6c2VhcmNoLXN0cmluZ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXAta3ctbnMK</text>
+        <text encoding="base64">ICAgIChzdGF0ZS9yZXN0b3JlLWhlYWRlci1zZWFyY2gtdGV4dCBbOmNvbnRhY3RzLXZpZXcgOnNlYXJjaC1zdHJpbmddKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBtYXAta3ctbnMK</text>
+      <register name="8" type="4">
+        <text>No matching contacts found</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBtYXAta3ctbnMK</text>
+      <register name="9" type="4">
+        <text>second</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
