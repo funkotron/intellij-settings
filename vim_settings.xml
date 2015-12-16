@@ -269,7 +269,7 @@
         <text>header-search</text>
       </register>
       <register name="/" type="4">
-        <text>\n</text>
+        <text>*images</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6Y3VycmVudC1zZWN0aW9uLWxpc3QgIydhcnR3b3Jrcy9hcnR3b3JrKQo=</text>
@@ -306,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>commen</last-search>
+      <last-search>*images</last-search>
       <last-offset />
-      <last-pattern>\n</last-pattern>
+      <last-pattern>*images</last-pattern>
       <last-replace />
       <last-substitute>\n</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYXZcPg==</entry>
         <entry>menu</entry>
         <entry>images*</entry>
         <entry>images</entry>
@@ -336,6 +335,7 @@
         <entry>width</entry>
         <entry>commen</entry>
         <entry>\n</entry>
+        <entry>*images</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vUmFpc2VkL0ZsYXQvZw==</entry>
