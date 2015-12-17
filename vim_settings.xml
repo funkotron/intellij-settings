@@ -3,10 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450202533183">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450355111725">
         <mark key="[" line="532" column="0" />
         <mark key="]" line="532" column="0" />
         <mark key="." line="532" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1450355074209">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1449754819271">
         <mark key="[" line="94" column="27" />
@@ -23,6 +29,9 @@
         <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/sync.clj" timestamp="1450271032081" />
+      <file name="/a.dummy" timestamp="1450354919552">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
       </file>
@@ -98,7 +107,7 @@
         <mark key="'" line="285" column="97" />
         <mark key="[" line="167" column="37" />
       </file>
-      <file name="/a.regexp" timestamp="1450186949355">
+      <file name="/a.regexp" timestamp="1450354901794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1450285127922">
@@ -263,43 +272,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cjs7IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo7OyBoZWFkZXIgc2VhcmNoCgo=</text>
+        <text encoding="base64">ICAoc3dhcCEgbGlzdCBhc3NvYyA6bGlzdC91cGRhdGVkLWF0IChqcy9EYXRlLikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>header-search</text>
+        <text>created</text>
       </register>
       <register name="/" type="4">
         <text>*images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6Y3VycmVudC1zZWN0aW9uLWxpc3QgIydhcnR3b3Jrcy9hcnR3b3JrKQo=</text>
+        <text encoding="base64">ICAoc3dhcCEgbGlzdCBhc3NvYyA6bGlzdC91cGRhdGVkLWF0IChqcy9EYXRlLikpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cjs7IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo7OyBoZWFkZXIgc2VhcmNoCgo=</text>
+      <register name="1" type="4">
+        <text>created</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cjs7IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo7OyBoZWFkZXIgc2VhcmNoCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OzsgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRlZm4gcmVzdG9yZS1oZWFkZXItc2VhcmNoLXRleHQgW3BhdGhdCiAgKGxvZy9kZWJ1ZyAiLS0+IHJlc3RvcmluZyBzZWFyY2ggc3RyaW5nLi4iKQogIChsb2cvZGVidWcgIndhczoiIChnZXQtaW4gQHN0YXRlIHBhdGgpKQogIChzd2FwISBzdGF0ZQogICAgICAgICAoZm4gW3NdCiAgICAgICAgICAgKGFzc29jIHMgOmhlYWRlci1zZWFyY2ggKGdldC1pbiBzIHBhdGgpKSkpKQoKKGRlZm4gc2F2ZS1oZWFkZXItc2VhcmNoLXRleHQgW3BhdGhdCiAgKHN3YXAhIHN0YXRlCiAgICAgICAgIChmbiBbc10KICAgICAgICAgICAoYXNzb2MtaW4gcyBwYXRoICg6aGVhZGVyLXNlYXJjaCBzKSkpKSkKCg==</text>
+        <text encoding="base64">OzsgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChzdGF0ZS9yZXN0b3JlLWhlYWRlci1zZWFyY2gtdGV4dCBbOnRhc2tzLXZpZXcgOnNlYXJjaC1zdHJpbmddKQo=</text>
+        <text encoding="base64">KGRlZm4gcmVzdG9yZS1oZWFkZXItc2VhcmNoLXRleHQgW3BhdGhdCiAgKGxvZy9kZWJ1ZyAiLS0+IHJlc3RvcmluZyBzZWFyY2ggc3RyaW5nLi4iKQogIChsb2cvZGVidWcgIndhczoiIChnZXQtaW4gQHN0YXRlIHBhdGgpKQogIChzd2FwISBzdGF0ZQogICAgICAgICAoZm4gW3NdCiAgICAgICAgICAgKGFzc29jIHMgOmhlYWRlci1zZWFyY2ggKGdldC1pbiBzIHBhdGgpKSkpKQoKKGRlZm4gc2F2ZS1oZWFkZXItc2VhcmNoLXRleHQgW3BhdGhdCiAgKHN3YXAhIHN0YXRlCiAgICAgICAgIChmbiBbc10KICAgICAgICAgICAoYXNzb2MtaW4gcyBwYXRoICg6aGVhZGVyLXNlYXJjaCBzKSkpKSkKCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIChzdGF0ZS9yZXN0b3JlLWhlYWRlci1zZWFyY2gtdGV4dCBbOnRhc2tzLXZpZXcgOnNlYXJjaC1zdHJpbmddKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CihkZWZuIGNsZWFyLWhlYWRlci1zZWFyY2ggW10KICAoc3dhcCEgc3RhdGUgYXNzb2MgOmhlYWRlci1zZWFyY2ggbmlsKSkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>header-search</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIChsb2cvZGVidWcgIlNFQ1RJT04iIHNlY3Rpb24pCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>:artworks</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
