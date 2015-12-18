@@ -3,37 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450355111725">
-        <mark key="[" line="532" column="0" />
-        <mark key="]" line="532" column="0" />
-        <mark key="." line="532" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1450355074209">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="48" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1449754819271">
-        <mark key="[" line="94" column="27" />
-        <mark key="]" line="94" column="27" />
-        <mark key="." line="94" column="27" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/user/auth.cljs" timestamp="1450188286060">
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="41" column="554" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="24" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1449438856030">
-        <mark key="[" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/sync.clj" timestamp="1450271032081" />
       <file name="/a.dummy" timestamp="1450354919552">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
-        <mark key="[" line="269" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1449767529281">
         <mark key="[" line="146" column="48" />
@@ -44,16 +15,6 @@
         <mark key="]" line="290" column="26" />
         <mark key="." line="290" column="26" />
         <mark key="^" line="290" column="26" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/transport.cljs" timestamp="1450282075729">
-        <mark key="[" line="184" column="39" />
-        <mark key="]" line="184" column="39" />
-        <mark key="." line="184" column="39" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/resources/externs/flickity.js" timestamp="1449768005037">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1450275926700">
         <mark key="[" line="237" column="12" />
@@ -76,8 +37,62 @@
         <mark key="." line="53" column="28" />
         <mark key="^" line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/mdl_components.cljs" timestamp="1450268893016">
-        <mark key="[" line="111" column="18" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1450285127922">
+        <mark key="'" line="37" column="3" />
+        <mark key="[" line="86" column="10" />
+        <mark key="]" line="86" column="10" />
+        <mark key="." line="86" column="10" />
+        <mark key="^" line="106" column="39" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
+        <mark key="[" line="227" column="35" />
+        <mark key="]" line="227" column="35" />
+        <mark key="^" line="224" column="0" />
+        <mark key="." line="227" column="35" />
+      </file>
+      <file name="/a.txt" timestamp="1450186953396">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450279479628">
+        <mark key="[" line="248" column="48" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="116" column="44" />
+        <mark key="." line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450355111725">
+        <mark key="[" line="532" column="0" />
+        <mark key="]" line="532" column="0" />
+        <mark key="." line="532" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1450355074209">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/user/auth.cljs" timestamp="1450188286060">
+        <mark key="[" line="48" column="23" />
+        <mark key="]" line="41" column="554" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="24" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1449438856030">
+        <mark key="[" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
+        <mark key="[" line="269" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/transport.cljs" timestamp="1450282075729">
+        <mark key="[" line="184" column="39" />
+        <mark key="]" line="184" column="39" />
+        <mark key="." line="184" column="39" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1450447844038">
+        <mark key="p" line="389" column="0" />
+        <mark key="'" line="59" column="22" />
+        <mark key="[" line="146" column="39" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1448638521505">
         <mark key="[" line="0" column="0" />
@@ -103,19 +118,15 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450284474801">
-        <mark key="'" line="285" column="97" />
-        <mark key="[" line="167" column="37" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450447450166">
+        <mark key="'" line="284" column="97" />
+        <mark key="[" line="228" column="5" />
+        <mark key="]" line="228" column="5" />
+        <mark key="^" line="228" column="121" />
+        <mark key="." line="228" column="5" />
       </file>
       <file name="/a.regexp" timestamp="1450354901794">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1450285127922">
-        <mark key="'" line="37" column="3" />
-        <mark key="[" line="86" column="10" />
-        <mark key="]" line="86" column="10" />
-        <mark key="." line="86" column="10" />
-        <mark key="^" line="106" column="39" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
@@ -123,50 +134,17 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/externs/baguettebox.js" timestamp="1449766816971">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/config.cljs" timestamp="1449500611945">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="." line="34" column="20" />
-      </file>
       <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450273306646">
         <mark key="[" line="31" column="53" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
-        <mark key="[" line="227" column="35" />
-        <mark key="]" line="227" column="35" />
-        <mark key="^" line="224" column="0" />
-        <mark key="." line="227" column="35" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1450448197672">
+        <mark key="[" line="380" column="20" />
+        <mark key="]" line="379" column="0" />
+        <mark key="." line="379" column="0" />
+        <mark key="^" line="380" column="21" />
       </file>
-      <file name="/a.txt" timestamp="1450186953396">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" timestamp="1450202613638">
-        <mark key="[" line="2" column="60" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1450280328752">
-        <mark key="[" line="322" column="51" />
-        <mark key="]" line="369" column="0" />
-        <mark key="." line="369" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450279479628">
-        <mark key="[" line="251" column="48" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="116" column="44" />
-        <mark key="." line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/migrations.clj" timestamp="1450262366512">
-        <mark key="[" line="137" column="140" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/macros.clj" timestamp="1450202490220" />
     </filemarks>
     <jumps>
       <jump line="10" column="12" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
@@ -272,43 +250,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAoc3dhcCEgbGlzdCBhc3NvYyA6bGlzdC91cGRhdGVkLWF0IChqcy9EYXRlLikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChqcy9hbGVydCAocHItc3RyIEBmaWx0ZXItc2VsZWN0ZWQtdHlwZSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>created</text>
+        <text>nil</text>
       </register>
       <register name="/" type="4">
         <text>*images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoc3dhcCEgbGlzdCBhc3NvYyA6bGlzdC91cGRhdGVkLWF0IChqcy9EYXRlLikpCg==</text>
+        <text encoding="base64">KGRlZiBzdGF0dXMtb3JkZXIgKHppcG1hcCBbOmFydHdvcmstc3RhdHVzLmtleS9wcm92aXNpb25hbCA6YXJ0d29yay1zdGF0dXMua2V5L2Zvci1zYWxlIDphcnR3b3JrLXN0YXR1cy5rZXkvc29sZCA6YXJ0d29yay1zdGF0dXMua2V5L2FyY2hpdmUgOmFydHdvcmstc3RhdHVzLmtleS91bmxhYmVsbGVkXSAocmFuZ2UpKSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>created</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChqcy9hbGVydCAocHItc3RyIEBmaWx0ZXItc2VsZWN0ZWQtdHlwZSkpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cjs7IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo7OyBoZWFkZXIgc2VhcmNoCgo=</text>
+      <register name="2" type="4">
+        <text>nil</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>nil</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OzsgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgOnRleHQtYWxpZ24gICAgICAgICA6Y2VudGVyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KGRlZm4gcmVzdG9yZS1oZWFkZXItc2VhcmNoLXRleHQgW3BhdGhdCiAgKGxvZy9kZWJ1ZyAiLS0+IHJlc3RvcmluZyBzZWFyY2ggc3RyaW5nLi4iKQogIChsb2cvZGVidWcgIndhczoiIChnZXQtaW4gQHN0YXRlIHBhdGgpKQogIChzd2FwISBzdGF0ZQogICAgICAgICAoZm4gW3NdCiAgICAgICAgICAgKGFzc29jIHMgOmhlYWRlci1zZWFyY2ggKGdldC1pbiBzIHBhdGgpKSkpKQoKKGRlZm4gc2F2ZS1oZWFkZXItc2VhcmNoLXRleHQgW3BhdGhdCiAgKHN3YXAhIHN0YXRlCiAgICAgICAgIChmbiBbc10KICAgICAgICAgICAoYXNzb2MtaW4gcyBwYXRoICg6aGVhZGVyLXNlYXJjaCBzKSkpKSkKCg==</text>
+      <register name="5" type="4">
+        <text>status</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIChzdGF0ZS9yZXN0b3JlLWhlYWRlci1zZWFyY2gtdGV4dCBbOnRhc2tzLXZpZXcgOnNlYXJjaC1zdHJpbmddKQo=</text>
+      <register name="6" type="4">
+        <text>:artwork-status.key/provisional :artwork-status.key/for-sale :artwork-status.key/sold :artwork-status.key/archive :artwork-status.key/unlabelled</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CihkZWZuIGNsZWFyLWhlYWRlci1zZWFyY2ggW10KICAoc3dhcCEgc3RhdGUgYXNzb2MgOmhlYWRlci1zZWFyY2ggbmlsKSkK</text>
+      <register name="7" type="4">
+        <text>created</text>
       </register>
-      <register name="8" type="4">
-        <text>header-search</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cjs7IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo7OyBoZWFkZXIgc2VhcmNoCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIChsb2cvZGVidWcgIlNFQ1RJT04iIHNlY3Rpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
