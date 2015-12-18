@@ -115,12 +115,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450452708313">
-        <mark key="'" line="296" column="97" />
-        <mark key="[" line="213" column="14" />
-        <mark key="]" line="212" column="15" />
-        <mark key="^" line="216" column="14" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450455511811">
+        <mark key="'" line="46" column="54" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="^" line="46" column="54" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1450354901794">
         <mark key="[" line="0" column="0" />
@@ -144,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
       <jump line="28" column="25" filename="$USER_HOME$/w/cnc/src/clj/styles/views/stock.clj" />
       <jump line="21" column="35" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
       <jump line="96" column="12" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
@@ -244,10 +243,11 @@
       <jump line="37" column="18" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="285" column="97" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="21" column="46" filename="$USER_HOME$/w/cnc/src/cljs/cnc/navigation.cljs" />
+      <jump line="46" column="54" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgezpoZWFkZXIgIiMiCiAgICA6Zml4ZWQgdHJ1ZQogICAgOmNlbGwgKGMvbWFrZS1pbmRleGVkLWNlbGwgLT50aHVtYm5haWwgYXJ0d29ya3MpCiAgICA6d2lkdGggMTAwfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJNZWRpdW0iIEBtZWRpdW1zIDptZWRpdW0vbmFtZSA6YXJ0d29yay9tZWRpdW1zXQo=</text>
       </register>
       <register name="-" type="4">
         <text>main</text>
@@ -258,32 +258,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgezpoZWFkZXIgIiMiCiAgICA6Zml4ZWQgdHJ1ZQogICAgOmNlbGwgKGMvbWFrZS1pbmRleGVkLWNlbGwgLT50aHVtYm5haWwgYXJ0d29ya3MpCiAgICA6d2lkdGggMTAwfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>main</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJNZWRpdW0iIEBtZWRpdW1zIDptZWRpdW0vbmFtZSA6YXJ0d29yay9tZWRpdW1zXQo=</text>
       </register>
       <register name="2" type="4">
+        <text>main</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">MTUwcHgKICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIChqcy9hbGVydCAocHItc3RyIEBmaWx0ZXItc2VsZWN0ZWQtdHlwZSkpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>nil</text>
       </register>
       <register name="5" type="4">
         <text>nil</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
+        <text>nil</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgOnRleHQtYWxpZ24gICAgICAgICA6Y2VudGVyCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>status</text>
       </register>
-      <register name="8" type="4">
-        <text>:artwork-status.key/provisional :artwork-status.key/for-sale :artwork-status.key/sold :artwork-status.key/archive :artwork-status.key/unlabelled</text>
-      </register>
       <register name="9" type="4">
-        <text>created</text>
+        <text>:artwork-status.key/provisional :artwork-status.key/for-sale :artwork-status.key/sold :artwork-status.key/archive :artwork-status.key/unlabelled</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
