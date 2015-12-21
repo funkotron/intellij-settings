@@ -15,14 +15,17 @@
         <mark key="^" line="21" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/taoensso/encore/2.18.0/encore-2.18.0.jar!/taoensso/encore.cljs" timestamp="1450710220994" />
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/user/auth.cljs" timestamp="1450710636127">
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="41" column="554" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="24" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/user/auth.cljs" timestamp="1450712657908">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1449438856030">
         <mark key="[" line="26" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1450713056913">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1450708297209">
         <mark key="[" line="20" column="0" />
@@ -44,8 +47,11 @@
         <mark key="]" line="184" column="39" />
         <mark key="." line="184" column="39" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450708010126">
-        <mark key="[" line="11" column="75" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450713297124">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="53" column="53" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1450275926700">
         <mark key="[" line="237" column="12" />
@@ -77,7 +83,7 @@
         <mark key="^" line="49" column="37" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/features.cljs" timestamp="1450707107662" />
-      <file name="/Dummy.txt" timestamp="1448638521505">
+      <file name="/Dummy.txt" timestamp="1450713056903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" timestamp="1449070207851">
@@ -108,7 +114,7 @@
         <mark key="^" line="46" column="54" />
         <mark key="." line="309" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1450710628401">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1450711914129">
         <mark key="[" line="20" column="106" />
       </file>
       <file name="/a.regexp" timestamp="1450354901794">
@@ -146,8 +152,8 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="380" column="21" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450707485259">
-        <mark key="[" line="304" column="59" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450712563866">
+        <mark key="[" line="305" column="41" />
         <mark key="]" line="301" column="38" />
         <mark key="^" line="301" column="38" />
         <mark key="." line="301" column="38" />
@@ -257,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmluZy1jb3JzICIwLjEuNyJdCg==</text>
+        <text encoding="base64">ICAgIChwcmludGxuICdERUJVRyByZXF1ZXN0KQo=</text>
       </register>
       <register name="-" type="4">
         <text>1.3.2</text>
@@ -269,31 +275,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmluZy9yaW5nLWNvcmUgIjEuMy4yIl0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIChwcmludGxuICdERUJVRyByZXF1ZXN0KQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmluZy1jb3JzICIwLjEuNyJdCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>1.3.2</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>nav</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>link</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJNZWRpdW0iIEBtZWRpdW1zIDptZWRpdW0vbmFtZSA6YXJ0d29yay9tZWRpdW1zXQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>main</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">MTUwcHgKICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIChqcy9hbGVydCAocHItc3RyIEBmaWx0ZXItc2VsZWN0ZWQtdHlwZSkpCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>nil</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
