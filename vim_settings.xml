@@ -132,10 +132,11 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450716940939">
-        <mark key="[" line="92" column="20" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450718652967">
+        <mark key="[" line="88" column="53" />
+        <mark key="]" line="88" column="25" />
+        <mark key="." line="88" column="25" />
+        <mark key="^" line="88" column="25" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
         <mark key="[" line="227" column="35" />
@@ -267,11 +268,11 @@
       <jump line="46" column="54" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// these files are loaded in your index.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgcy5zcmMgPSAiaHR0cDovL3NvbWVkb21haW4uY29tL3NvbWVzY3JpcHQiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>// these files are loaded in your index.html</text>
+        <text>script</text>
       </register>
       <register name="/" type="4">
         <text>*images</text>
@@ -279,32 +280,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICg9ICJkZXYiICJkZXYuY29sbGNvcnRlcy5jb20iKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>// these files are loaded in your index.html</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgcy5zcmMgPSAiaHR0cDovL3NvbWVkb21haW4uY29tL3NvbWVzY3JpcHQiOwo=</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>script</text>
       </register>
       <register name="3" type="4">
+        <text>// these files are loaded in your index.html</text>
+      </register>
+      <register name="4" type="4">
+        <text />
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IC8vIHRoZXNlIGZpbGVzIGFyZSBkb3dubG9hZGVk</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiIGNvbnRlbnQ9InllcyIgLz4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
-      </register>
-      <register name="6" type="4">
-        <text>,</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhcHAuanMiLAogICAgInN0eWxlLmNzcyIK</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
       </register>
       <register name="8" type="4">
         <text>,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0ZW1wbGF0ZSI6IHsKICAgICAgInZlcnNpb24iOiAiM2U3MGYyODczZGUzZDljOTFlMzEyNzFjMWE1OWIzMmU4MDAyYWMyMyIsCiAgICAgICJmaWxlbmFtZSI6ICJ0ZW1wbGF0ZS5odG1sIgogICAgfSwKICAgICJhcHAiOiB7CiAgICAgICJ2ZXJzaW9uIjogIjhjOTkzNjlhODI1NjQ0ZTY4ZTIxNDMzZDc4ZWQ4YjM5NjM1MWNjN2QiLAogICAgICAiZmlsZW5hbWUiOiAiYXBwLmpzIgogICAgfSwKICAgICJzdHlsZSI6IHsKICAgICAgInZlcnNpb24iOiAiNmU3NmYzNmYyN2JmMjk0MDJhNzBjOGFkZmVlMGY4NGI4YTU5NTk3MyIsCiAgICAgICJmaWxlbmFtZSI6ICJzdHlsZS5jc3MiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICJhcHAuanMiLAogICAgInN0eWxlLmNzcyIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
