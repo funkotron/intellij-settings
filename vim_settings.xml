@@ -44,11 +44,15 @@
         <mark key="]" line="184" column="39" />
         <mark key="." line="184" column="39" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450713297124">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="53" column="53" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450716859392">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450715778027">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1450275926700">
         <mark key="[" line="237" column="12" />
@@ -103,12 +107,6 @@
         <mark key="^" line="335" column="29" />
         <mark key="." line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/navigation.cljs" timestamp="1450285011468">
-        <mark key="'" line="22" column="46" />
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1450455511811">
         <mark key="'" line="46" column="54" />
         <mark key="[" line="309" column="0" />
@@ -134,10 +132,10 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450714166634">
-        <mark key="[" line="86" column="13" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450716940939">
+        <mark key="[" line="92" column="20" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
         <mark key="[" line="227" column="35" />
@@ -155,10 +153,15 @@
         <mark key="^" line="380" column="21" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450712563866">
-        <mark key="[" line="305" column="41" />
-        <mark key="]" line="301" column="38" />
-        <mark key="^" line="301" column="38" />
-        <mark key="." line="301" column="38" />
+        <mark key="[" line="306" column="41" />
+        <mark key="]" line="302" column="38" />
+        <mark key="^" line="302" column="38" />
+        <mark key="." line="302" column="38" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/resources/www/js/out/manifest.json" timestamp="1450716079206">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -265,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev.collcortes.com</text>
+        <text>// these files are loaded in your index.html</text>
       </register>
       <register name="-" type="4">
-        <text>dev.collcortes.com</text>
+        <text>// these files are loaded in your index.html</text>
       </register>
       <register name="/" type="4">
         <text>*images</text>
@@ -277,31 +280,31 @@
         <text encoding="base64">ICAgICAgICAgICg9ICJkZXYiICJkZXYuY29sbGNvcnRlcy5jb20iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>dev.collcortes.com</text>
+        <text>// these files are loaded in your index.html</text>
       </register>
       <register name="2" type="4">
-        <text>dev</text>
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuICdERUJVRyByZXF1ZXN0KQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC8vIHRoZXNlIGZpbGVzIGFyZSBkb3dubG9hZGVk</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcmluZy1jb3JzICIwLjEuNyJdCg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiIGNvbnRlbnQ9InllcyIgLz4K</text>
       </register>
-      <register name="5" type="4">
-        <text>1.3.2</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4K</text>
       </register>
       <register name="6" type="4">
-        <text>nav</text>
+        <text>,</text>
       </register>
-      <register name="7" type="4">
-        <text>link</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJhcHAuanMiLAogICAgInN0eWxlLmNzcyIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyJNZWRpdW0iIEBtZWRpdW1zIDptZWRpdW0vbmFtZSA6YXJ0d29yay9tZWRpdW1zXQo=</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
-      <register name="9" type="4">
-        <text>main</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJ0ZW1wbGF0ZSI6IHsKICAgICAgInZlcnNpb24iOiAiM2U3MGYyODczZGUzZDljOTFlMzEyNzFjMWE1OWIzMmU4MDAyYWMyMyIsCiAgICAgICJmaWxlbmFtZSI6ICJ0ZW1wbGF0ZS5odG1sIgogICAgfSwKICAgICJhcHAiOiB7CiAgICAgICJ2ZXJzaW9uIjogIjhjOTkzNjlhODI1NjQ0ZTY4ZTIxNDMzZDc4ZWQ4YjM5NjM1MWNjN2QiLAogICAgICAiZmlsZW5hbWUiOiAiYXBwLmpzIgogICAgfSwKICAgICJzdHlsZSI6IHsKICAgICAgInZlcnNpb24iOiAiNmU3NmYzNmYyN2JmMjk0MDJhNzBjOGFkZmVlMGY4NGI4YTU5NTk3MyIsCiAgICAgICJmaWxlbmFtZSI6ICJzdHlsZS5jc3MiCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
