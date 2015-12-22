@@ -17,9 +17,6 @@
   <action id=":cursive.actions.paredit/close-curly-and-newline">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
-  <action id=":cursive.actions.paredit/close-paren-and-newline">
-    <keyboard-shortcut first-keystroke="shift meta 0" />
-  </action>
   <action id=":cursive.actions.paredit/close-square-and-newline">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -58,6 +55,7 @@
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
   <action id=":cursive.actions.paredit/splice">
     <keyboard-shortcut first-keystroke="alt s" />
