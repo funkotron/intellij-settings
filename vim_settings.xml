@@ -79,10 +79,10 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/js/out/bootstrap.js" timestamp="1450791649596">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/w/cnc/resources/www/js/out/bootstrap.js" timestamp="1450797657584">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" timestamp="1449844924020">
         <mark key="[" line="73" column="26" />
@@ -96,7 +96,7 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/js/cnc.js" timestamp="1450795599516">
+      <file name="$USER_HOME$/w/cnc/resources/www/js/cnc.js" timestamp="1450797644056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="197" />
       </file>
@@ -106,8 +106,8 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" timestamp="1449070207851">
         <mark key="[" line="74" column="47" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/manifest.clj" timestamp="1450795147958">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/manifest.clj" timestamp="1450797766367">
+        <mark key="[" line="13" column="0" />
         <mark key="]" line="8" column="46" />
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="46" />
@@ -279,7 +279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJMT0FERVI6IENIRUNLIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -288,34 +288,34 @@
         <text>*images</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJMT0FERVI6IENIRUNLIikK</text>
+        <text encoding="base64">dmFyIENMT1NVUkVfVU5DT01QSUxFRF9ERUZJTkVTID0gbnVsbDsKaWYodHlwZW9mIGdvb2cgPT0gInVuZGVmaW5lZCIpIGRvY3VtZW50LndyaXRlKCc8c2NyaXB0IHNyYz0ianMvb3V0L2dvb2cvYmFzZS5qcyI+PC9zY3JpcHQ+Jyk7CmRvY3VtZW50LndyaXRlKCc8c2NyaXB0IHNyYz0ianMvb3V0L2NsanNfZGVwcy5qcyI+PC9zY3JpcHQ+Jyk7Cgpkb2N1bWVudC53cml0ZSgiPHNjcmlwdD5pZiAodHlwZW9mIGdvb2cgIT0gXCJ1bmRlZmluZWRcIikgeyBnb29nLnJlcXVpcmUoXCJmaWd3aGVlbC5jb25uZWN0XCIpOyB9PC9zY3JpcHQ+Iik7CmRvY3VtZW50LndyaXRlKCc8c2NyaXB0PmlmICh0eXBlb2YgZ29vZyAhPSAidW5kZWZpbmVkIikgeyBnb29nLnJlcXVpcmUoImNuYy5hcHAiKTsgfSBlbHNlIHsgY29uc29sZS53YXJuKCJDbG9qdXJlU2NyaXB0IGNvdWxkIG5vdCBsb2FkIDptYWluLCBkaWQgeW91IGZvcmdldCB0byBzcGVjaWZ5IDphc3NldC1wYXRoPyIpOyB9Ozwvc2NyaXB0PicpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>out</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>/app</text>
+        <text>out</text>
       </register>
       <register name="4" type="4">
+        <text>/app</text>
+      </register>
+      <register name="5" type="4">
         <text>}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW2Nsb2p1cmUuZGF0YS5qc29uIDphcyBqc29uXQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coIkhPV0RZIik7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIHMuc2VydmVyPSJodHRwOi8vMDEwNmM3ZWYubmdyb2suaW8iOwogICAgICAgICAgcy5tYW5pZmVzdD0ibWFuaWZlc3QuanNvbiI7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQoIkhFTExPIik7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoIkhFTExPIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
