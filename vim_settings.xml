@@ -24,8 +24,8 @@
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1449438856030">
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1450708297209">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1450786342660">
+        <mark key="[" line="114" column="46" />
         <mark key="]" line="20" column="36" />
         <mark key="." line="20" column="0" />
       </file>
@@ -153,11 +153,11 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="380" column="21" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450785172912">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1450787517564">
         <mark key="[" line="306" column="41" />
-        <mark key="]" line="302" column="38" />
-        <mark key="^" line="302" column="38" />
-        <mark key="." line="302" column="38" />
+        <mark key="]" line="308" column="21" />
+        <mark key="^" line="308" column="21" />
+        <mark key="." line="308" column="21" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/manifest.json" timestamp="1450716079206">
         <mark key="[" line="13" column="19" />
