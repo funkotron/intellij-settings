@@ -25,9 +25,9 @@
         <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1450786342660">
-        <mark key="[" line="114" column="46" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="115" column="46" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
@@ -44,15 +44,14 @@
         <mark key="]" line="184" column="39" />
         <mark key="." line="184" column="39" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450716859392">
+      <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
         <mark key="[" line="4" column="19" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450715778027">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450791075648">
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1450275926700">
         <mark key="[" line="237" column="12" />
@@ -77,7 +76,11 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/js/out/bootstrap.js" timestamp="1450782593272" />
+      <file name="$USER_HOME$/w/cnc/resources/www/js/out/bootstrap.js" timestamp="1450791649596">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" timestamp="1449844924020">
         <mark key="[" line="73" column="26" />
         <mark key="]" line="53" column="28" />
@@ -133,10 +136,11 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450782894533">
-        <mark key="[" line="89" column="42" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450790621715">
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
         <mark key="[" line="227" column="35" />
@@ -269,7 +273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIkhPV0RZIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>script</text>
@@ -281,31 +285,31 @@
         <text encoding="base64">ICAgICAgICAgICg9ICJkZXYiICJkZXYuY29sbGNvcnRlcy5jb20iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coIkhPV0RZIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgbWFuaWZlc3Q9Im1hbmlmZXN0Lmpzb24iPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHMuc2VydmVyPSJodHRwOi8vMDEwNmM3ZWYubmdyb2suaW8iOwogICAgICAgICAgcy5tYW5pZmVzdD0ibWFuaWZlc3QuanNvbiI7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYWxlcnQoIkhFTExPIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgcy5zcmMgPSAiaHR0cDovL3NvbWVkb21haW4uY29tL3NvbWVzY3JpcHQiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>script</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgbWFuaWZlc3Q9Im1hbmlmZXN0Lmpzb24iPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="4">
-        <text>// these files are loaded in your index.html</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgcy5zcmMgPSAiaHR0cDovL3NvbWVkb21haW4uY29tL3NvbWVzY3JpcHQiOwo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IC8vIHRoZXNlIGZpbGVzIGFyZSBkb3dubG9hZGVk</text>
+        <text>script</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9ImFwcGxlLW1vYmlsZS13ZWItYXBwLWNhcGFibGUiIGNvbnRlbnQ9InllcyIgLz4K</text>
+      <register name="9" type="4">
+        <text>// these files are loaded in your index.html</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xuLy9n</text>
