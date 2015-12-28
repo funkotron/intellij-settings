@@ -90,8 +90,11 @@
         <mark key="^" line="12" column="9" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/pendings.cljs" timestamp="1451325976848">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/pendings.cljs" timestamp="1451335414278">
         <mark key="[" line="45" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+        <mark key="." line="44" column="24" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/ws.clj" timestamp="1449754729378">
         <mark key="[" line="59" column="14" />
