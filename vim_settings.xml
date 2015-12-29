@@ -9,6 +9,9 @@
         <mark key="." line="53" column="28" />
         <mark key="^" line="49" column="37" />
       </file>
+      <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
+        <mark key="[" line="13" column="12" />
+      </file>
       <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1450800117531">
         <mark key="[" line="110" column="47" />
         <mark key="]" line="104" column="72" />
@@ -19,11 +22,11 @@
         <mark key="]" line="5" column="38" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451411089255">
-        <mark key="[" line="144" column="29" />
-        <mark key="]" line="144" column="40" />
-        <mark key="." line="144" column="40" />
-        <mark key="^" line="144" column="40" />
+      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
+        <mark key="[" line="100" column="36" />
+        <mark key="]" line="100" column="68" />
+        <mark key="." line="100" column="68" />
+        <mark key="^" line="100" column="68" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
@@ -132,14 +135,6 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1450461000030">
-        <mark key="p" line="389" column="0" />
-        <mark key="'" line="59" column="22" />
-        <mark key="[" line="260" column="22" />
-        <mark key="]" line="260" column="22" />
-        <mark key="." line="260" column="22" />
-        <mark key="^" line="209" column="5" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/manifest.clj" timestamp="1450799910676">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="29" />
@@ -163,6 +158,12 @@
       </file>
       <file name="/a.txt" timestamp="1450186953396">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/README.md" timestamp="1451423534243">
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+        <mark key="^" line="54" column="2" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/state.cljs" timestamp="1450285604865">
         <mark key="[" line="34" column="35" />
@@ -291,44 +292,44 @@
       <jump line="6" column="0" filename="$USER_HOME$/w/cnc/src/electron/core.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZiBUcmF5ICAgICAgICAgICAoLi1UcmF5IGVsZWN0cm9uKSkKKGRlZiBNZW51ICAgICAgICAgICAoLi1NZW51IGVsZWN0cm9uKSkK</text>
+      <register name="&quot;" type="4">
+        <text>Starter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>Starter</text>
       </register>
       <register name="/" type="4">
         <text>Tray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZiBUcmF5ICAgICAgICAgICAoanMvcmVxdWlyZSAiVHJheSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpjbGpzYnVpbGQgOmJ1aWxkIDplbGVjdHJvbi1kZXYgOmNvbXBpbGVyIDpvdXRwdXQtdG9dCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">KGRlZiBUcmF5ICAgICAgICAgICAoLi1UcmF5IGVsZWN0cm9uKSkKKGRlZiBNZW51ICAgICAgICAgICAoLi1NZW51IGVsZWN0cm9uKSkK</text>
+      <register name="1" type="4">
+        <text>Starter</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAoZGVmIGFwcC1pY29uICh0cmF5ICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZiB0cmF5ICAgICAgICAgICAoanMvcmVxdWlyZSAidHJheSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGRlZiBhcHAtaWNvbiAoanMvVHJheS4gKHN0ciBqcy9fX2Rpcm5hbWUgIi93d3cvaW1nL2NuY19pY29uX3JvdW5kZWQvSWNvbi5wbmciKSkK</text>
+        <text encoding="base64">ZWxlY3Ryb24gLiAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFydCBlbGVjdHJvbgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bmV3IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yZW1hbiBzdGFydCAmICAgICAgICAgICAgICAgICAgIyBjb21waWxlIGNsanMgYW5kIHN0YXJ0IGZpZ3doZWVsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>;</text>
+      <register name="6" type="2">
+        <text encoding="base64">YGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>8</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIyBUbyBydW4gZWxlY3Ryb24KYGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
       </register>
       <register name="8" type="4">
-        <text>electron_src</text>
+        <text>dev</text>
       </register>
       <register name="9" type="4">
-        <text>electron_src</text>
+        <text>main</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
