@@ -14,10 +14,10 @@
         <mark key="]" line="104" column="72" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451411176809">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="41" />
-        <mark key="." line="10" column="41" />
+      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451412701618">
+        <mark key="[" line="15" column="82" />
+        <mark key="]" line="15" column="82" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451411089255">
         <mark key="[" line="144" column="29" />
@@ -288,11 +288,11 @@
       <jump line="46" column="54" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGRlZiBhcHAtaWNvbiAoanMvVHJheS4gKHN0ciBqcy9fX2Rpcm5hbWUgIi93d3cvaW1nL2NuY19pY29uX3JvdW5kZWQvSWNvbi5wbmciKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>*images</text>
@@ -300,32 +300,32 @@
       <register name="0" type="4">
         <text>js/out/cljs_deps.js</text>
       </register>
-      <register name="1" type="4">
-        <text>8</text>
+      <register name="1" type="2">
+        <text encoding="base64">KGRlZiBhcHAtaWNvbiAoanMvVHJheS4gKHN0ciBqcy9fX2Rpcm5hbWUgIi93d3cvaW1nL2NuY19pY29uX3JvdW5kZWQvSWNvbi5wbmciKSkK</text>
       </register>
       <register name="2" type="4">
-        <text>electron_src</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="3" type="4">
-        <text>electron_src</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>public</text>
+        <text>8</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>electron_src</text>
       </register>
       <register name="6" type="4">
-        <text>hello-world</text>
+        <text>electron_src</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBDTE9TVVJFX1VOQ09NUElMRURfREVGSU5FUyA9IG51bGw7Cg==</text>
+      <register name="7" type="4">
+        <text>public</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImpzL2NuYy5qcz97e1ZFUlNJT059fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKHR5cGVvZiBnb29nID09ICJ1bmRlZmluZWQiKSBkb2N1bWVudC53cml0ZSgnPHNjcmlwdCBzcmM9ImpzL291dC9nb29nL2Jhc2UuanMiPjwvc2NyaXB0PicpOwogICAgZG9jdW1lbnQud3JpdGUoIjxzY3JpcHQ+aWYgKHR5cGVvZiBnb29nICE9IFwidW5kZWZpbmVkXCIpIHsgZ29vZy5yZXF1aXJlKFwiZmlnd2hlZWwuY29ubmVjdFwiKTsgfTwvc2NyaXB0PiIpOwogICAgZG9jdW1lbnQud3JpdGUoJzxzY3JpcHQ+aWYgKHR5cGVvZiBnb29nICE9ICJ1bmRlZmluZWQiKSB7IGdvb2cucmVxdWlyZSgiY25jLmFwcCIpOyB9IGVsc2UgeyBjb25zb2xlLndhcm4oIkNsb2p1cmVTY3JpcHQgY291bGQgbm90IGxvYWQgOm1haW4sIGRpZCB5b3UgZm9yZ2V0IHRvIHNwZWNpZnkgOmFzc2V0LXBhdGg/Iik7IH07PC9zY3JpcHQ+Jyk7Cg==</text>
+      <register name="9" type="4">
+        <text>hello-world</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
