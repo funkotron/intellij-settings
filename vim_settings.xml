@@ -14,10 +14,10 @@
         <mark key="]" line="104" column="72" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451412701618">
-        <mark key="[" line="15" column="82" />
-        <mark key="]" line="15" column="82" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451414898361">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451411089255">
         <mark key="[" line="144" column="29" />
@@ -170,6 +170,9 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/Procfile" timestamp="1451414815210">
+        <mark key="[" line="1" column="66" />
+      </file>
       <file name="$USER_HOME$/w/cnc/package.json" timestamp="1451409141352">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -186,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="25" filename="$USER_HOME$/w/cnc/src/clj/styles/views/stock.clj" />
       <jump line="21" column="35" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
       <jump line="96" column="12" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
       <jump line="97" column="10" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
@@ -286,63 +288,63 @@
       <jump line="285" column="97" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="21" column="46" filename="$USER_HOME$/w/cnc/src/cljs/cnc/navigation.cljs" />
       <jump line="46" column="54" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
+      <jump line="6" column="0" filename="$USER_HOME$/w/cnc/src/electron/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZiBhcHAtaWNvbiAoanMvVHJheS4gKHN0ciBqcy9fX2Rpcm5hbWUgIi93d3cvaW1nL2NuY19pY29uX3JvdW5kZWQvSWNvbi5wbmciKSkK</text>
+        <text encoding="base64">KGRlZiBUcmF5ICAgICAgICAgICAoLi1UcmF5IGVsZWN0cm9uKSkKKGRlZiBNZW51ICAgICAgICAgICAoLi1NZW51IGVsZWN0cm9uKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text>*images</text>
+        <text>Tray</text>
       </register>
-      <register name="0" type="4">
-        <text>js/out/cljs_deps.js</text>
+      <register name="0" type="2">
+        <text encoding="base64">KGRlZiBUcmF5ICAgICAgICAgICAoanMvcmVxdWlyZSAiVHJheSIpKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">KGRlZiBUcmF5ICAgICAgICAgICAoLi1UcmF5IGVsZWN0cm9uKSkKKGRlZiBNZW51ICAgICAgICAgICAoLi1NZW51IGVsZWN0cm9uKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAoZGVmIGFwcC1pY29uICh0cmF5ICkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">KGRlZiB0cmF5ICAgICAgICAgICAoanMvcmVxdWlyZSAidHJheSIpKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">KGRlZiBhcHAtaWNvbiAoanMvVHJheS4gKHN0ciBqcy9fX2Rpcm5hbWUgIi93d3cvaW1nL2NuY19pY29uX3JvdW5kZWQvSWNvbi5wbmciKSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>;</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>8</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>electron_src</text>
-      </register>
-      <register name="6" type="4">
-        <text>electron_src</text>
-      </register>
-      <register name="7" type="4">
-        <text>public</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>hello-world</text>
+        <text>electron_src</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
       </register>
     </registers>
     <search>
       <last-search>*images</last-search>
       <last-offset />
-      <last-pattern>*images</last-pattern>
-      <last-replace />
-      <last-substitute>\n</last-substitute>
+      <last-pattern>Tray</last-pattern>
+      <last-replace>Menu</last-replace>
+      <last-substitute>Tray</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>menu</entry>
         <entry>images*</entry>
         <entry>images</entry>
         <entry>mdl-menu</entry>
@@ -362,9 +364,9 @@
         <entry>commen</entry>
         <entry>\n</entry>
         <entry>*images</entry>
+        <entry>Tray</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4vUmFpc2VkL0ZsYXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1JhaXNlZC9GbGF0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvRXJyb3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvUHJvZ3Jlc3MvZw==</entry>
@@ -384,6 +386,7 @@
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2hlaWdodC9n</entry>
         <entry encoding="base64">JzwsJz5zL1xuLy9n</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
