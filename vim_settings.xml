@@ -17,10 +17,10 @@
         <mark key="]" line="104" column="72" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451414898361">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="64" />
+        <mark key="." line="18" column="64" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
@@ -76,8 +76,10 @@
         <mark key="^" line="335" column="29" />
         <mark key="." line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1451411717991">
-        <mark key="[" line="21" column="38" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1451475119853">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/ws.clj" timestamp="1449754729378">
         <mark key="[" line="59" column="14" />
@@ -293,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Starter</text>
+        <text>Hello</text>
       </register>
       <register name="-" type="4">
-        <text>Starter</text>
+        <text>Hello</text>
       </register>
       <register name="/" type="4">
         <text>Tray</text>
@@ -305,31 +307,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpjbGpzYnVpbGQgOmJ1aWxkIDplbGVjdHJvbi1kZXYgOmNvbXBpbGVyIDpvdXRwdXQtdG9dCg==</text>
       </register>
       <register name="1" type="4">
-        <text>Starter</text>
+        <text>Hello</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWxlY3Ryb24gLiAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFydCBlbGVjdHJvbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Zm9yZW1hbiBzdGFydCAmICAgICAgICAgICAgICAgICAgIyBjb21waWxlIGNsanMgYW5kIHN0YXJ0IGZpZ3doZWVsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyMjIyBUbyBydW4gZWxlY3Ryb24KYGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
-      </register>
-      <register name="8" type="4">
+      <register name="2" type="4">
         <text>dev</text>
       </register>
-      <register name="9" type="4">
-        <text>main</text>
+      <register name="3" type="4">
+        <text>Starter</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZWxlY3Ryb24gLiAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFydCBlbGVjdHJvbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zm9yZW1hbiBzdGFydCAmICAgICAgICAgICAgICAgICAgIyBjb21waWxlIGNsanMgYW5kIHN0YXJ0IGZpZ3doZWVsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyMjIyBUbyBydW4gZWxlY3Ryb24KYGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
