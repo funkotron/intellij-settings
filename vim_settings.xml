@@ -12,15 +12,15 @@
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1451484964888">
-        <mark key="[" line="84" column="35" />
-        <mark key="]" line="105" column="72" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1451491842735">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="18" column="64" />
-        <mark key="." line="18" column="64" />
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="64" />
+        <mark key="." line="19" column="64" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
@@ -76,11 +76,7 @@
         <mark key="^" line="335" column="29" />
         <mark key="." line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1451475119853">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1451492033902" />
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/ws.clj" timestamp="1449754729378">
         <mark key="[" line="59" column="14" />
         <mark key="]" line="59" column="11" />
@@ -181,6 +177,7 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/config.clj" timestamp="1451491816804" />
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
       </file>
@@ -294,11 +291,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/w/cnc/src/electron/core.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Hello</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcG9ydCA4MAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Hello</text>
+        <text>if (isCordovaApp)</text>
       </register>
       <register name="/" type="4">
         <text>Tray</text>
@@ -306,32 +303,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpjbGpzYnVpbGQgOmJ1aWxkIDplbGVjdHJvbi1kZXYgOmNvbXBpbGVyIDpvdXRwdXQtdG9dCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Hello</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcG9ydCA4MAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>dev</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaG9zdG5hbWUgInN0YWdpbmcuY29sbGNvcnRlcy5jb20iCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Starter</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcG9ydCAocG9ydCBsb2NhdGlvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaG9zdG5hbWUgKC4uIGxvY2F0aW9uIC1ob3N0bmFtZSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWxlY3Ryb24gLiAgICAgICAgICAgICAgICAgICAgICAgIyBzdGFydCBlbGVjdHJvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yZW1hbiBzdGFydCAmICAgICAgICAgICAgICAgICAgIyBjb21waWxlIGNsanMgYW5kIHN0YXJ0IGZpZ3doZWVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIyBUbyBydW4gZWxlY3Ryb24KYGdlbSBpbnN0YWxsIGZvcmVtYW5gICAgICAgICAgICAgICAjIGluc3RhbGwgZm9yZW1hbiBnZW0gKHNlZSBQcm9jZmlsZSkK</text>
+        <text encoding="base64">ICAgIC8vIG9yIGNvcmRvdmEgb3IgZWxlY3Ryb24K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
