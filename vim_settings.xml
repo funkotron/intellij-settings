@@ -12,11 +12,10 @@
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1451495107277">
-        <mark key="[" line="87" column="4" />
-        <mark key="]" line="87" column="4" />
-        <mark key="." line="87" column="4" />
-        <mark key="^" line="93" column="4" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1451564712960">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
         <mark key="[" line="19" column="64" />
@@ -295,11 +294,11 @@
       <jump line="35" column="20" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwhLS08cD5Mb2FkaW5nLi4uPC9wPi0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">IGFzIHBsYXRmb3JtIHZhcg==</text>
       </register>
       <register name="/" type="4">
         <text>fast</text>
@@ -307,32 +306,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpjbGpzYnVpbGQgOmJ1aWxkIDplbGVjdHJvbi1kZXYgOmNvbXBpbGVyIDpvdXRwdXQtdG9dCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>var</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwhLS08cD5Mb2FkaW5nLi4uPC9wPi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYganMvZW52Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS08ZGl2IGlkPSJkZXZpY2VyZWFkeSIgY2xhc3M9ImJsaW5rIj4tLT4KICAgICAgICAgICAgICA8IS0tPHAgY2xhc3M9ImV2ZW50IGxpc3RlbmluZyI+Q29ubmVjdGluZyB0byBEZXZpY2U8L3A+LS0+CiAgICAgICAgICAgICAgPCEtLTxwIGNsYXNzPSJldmVudCByZWNlaXZlZCI+RGV2aWNlIGlzIFJlYWR5PC9wPi0tPgogICAgICAgICAgPCEtLTwvZGl2Pi0tPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>staging</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIE90aGVyd2lzZSBzZXQgaXQgdG8gImJyb3dzZXIiCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcG9ydCA4MAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGFzIHBsYXRmb3JtIHZhcg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaG9zdG5hbWUgInN0YWdpbmcuY29sbGNvcnRlcy5jb20iCg==</text>
+      <register name="5" type="4">
+        <text>var</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcG9ydCAocG9ydCBsb2NhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBlbnYganMvZW52Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaG9zdG5hbWUgKC4uIGxvY2F0aW9uIC1ob3N0bmFtZSkK</text>
+      <register name="7" type="4">
+        <text>staging</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9ydCA4MAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaG9zdG5hbWUgInN0YWdpbmcuY29sbGNvcnRlcy5jb20iCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
