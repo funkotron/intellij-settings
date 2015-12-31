@@ -9,13 +9,18 @@
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id=":cursive.actions.paredit/barf-backwards">
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id=":cursive.actions.paredit/barf-forwards">
-    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id=":cursive.actions.paredit/close-curly-and-newline">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id=":cursive.actions.paredit/close-paren-and-newline">
+    <keyboard-shortcut first-keystroke="shift alt 0" />
   </action>
   <action id=":cursive.actions.paredit/close-square-and-newline">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -51,11 +56,12 @@
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id=":cursive.actions.paredit/slurp-backwards">
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
-    <keyboard-shortcut first-keystroke="shift meta k" />
-    <keyboard-shortcut first-keystroke="shift meta 0" />
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id=":cursive.actions.paredit/splice">
     <keyboard-shortcut first-keystroke="alt s" />
