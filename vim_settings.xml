@@ -13,9 +13,9 @@
         <mark key="[" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1451564712960">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
         <mark key="[" line="19" column="64" />
@@ -75,12 +75,6 @@
         <mark key="]" line="335" column="29" />
         <mark key="^" line="335" column="29" />
         <mark key="." line="335" column="29" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1451495184511">
-        <mark key="'" line="27" column="40" />
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/ws.clj" timestamp="1449754729378">
         <mark key="[" line="59" column="14" />
