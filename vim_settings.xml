@@ -46,8 +46,10 @@
         <mark key="^" line="224" column="0" />
         <mark key="." line="227" column="35" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452184827462">
-        <mark key="[" line="75" column="33" />
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452188096344">
+        <mark key="[" line="83" column="6" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/autoupdate.js" timestamp="1450795637858">
         <mark key="[" line="35" column="0" />
@@ -96,6 +98,7 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="24" />
       </file>
+      <file name="/REPL.clj" timestamp="1452188105300" />
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="16" column="12" />
@@ -280,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
+        <text encoding="base64">CihkZWZuIGFsbC11c2Vycy1lbWFpbHMgW10KICAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>td</text>
+        <text>:db/add ]</text>
       </register>
       <register name="/" type="4">
         <text>fast</text>
@@ -292,31 +295,37 @@
         <text>)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
+        <text encoding="base64">CihkZWZuIGFsbC11c2Vycy1lbWFpbHMgW10KICAgKQo=</text>
       </register>
       <register name="2" type="4">
-        <text>td</text>
+        <text>(defn- restart
+  ([]
+   (repl/reset))
+  
+  (d/release (db/get-conn))
+  v-system :config (config/make-config env)
+  (restart))</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICBbOnRkLmJyYW5kIFs6c3BhbiAobWFwIDpicmFuZC9uYW1lICg6Y29udGFjdC9icmFuZHMgYykpXV0K</text>
+      <register name="3" type="4">
+        <text>:db/add ]</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CihkZWYgdGV4dC1hcmVhCiAgKG1ha2Utc2NoZW1hLWlucHV0CiAgICBbOmxhYmVsIDp0eXBlIDpjbGFzcyA6c3R5bGVdCiAgICAoZm4gW3s6YXMgbSA6a2V5cyBbbGFiZWwgZXJyb3ItdGV4dF19XQogICAgICBbbWRsL3RleHQtaW5wdXQKICAgICAgIChtZXJnZSB7Om5hbWUgbGFiZWwKICAgICAgICAgICAgICAgOnR5cGUgInRleHQifQogICAgICAgICAgICAgIG0pCiAgICAgICBsYWJlbCBlcnJvci10ZXh0XSkpKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>markdown-editor</text>
+        <text>td</text>
       </register>
-      <register name="6" type="4">
-        <text>markdown</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICBbOnRkLmJyYW5kIFs6c3BhbiAobWFwIDpicmFuZC9uYW1lICg6Y29udGFjdC9icmFuZHMgYykpXV0K</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text encoding="base64">CihkZWYgdGV4dC1hcmVhCiAgKG1ha2Utc2NoZW1hLWlucHV0CiAgICBbOmxhYmVsIDp0eXBlIDpjbGFzcyA6c3R5bGVdCiAgICAoZm4gW3s6YXMgbSA6a2V5cyBbbGFiZWwgZXJyb3ItdGV4dF19XQogICAgICBbbWRsL3RleHQtaW5wdXQKICAgICAgIChtZXJnZSB7Om5hbWUgbGFiZWwKICAgICAgICAgICAgICAgOnR5cGUgInRleHQifQogICAgICAgICAgICAgIG0pCiAgICAgICBsYWJlbCBlcnJvci10ZXh0XSkpKQ==</text>
       </register>
       <register name="8" type="4">
-        <text>Depends on</text>
+        <text>markdown-editor</text>
       </register>
       <register name="9" type="4">
-        <text>Depends on</text>
+        <text>markdown</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
