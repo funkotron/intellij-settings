@@ -1,6 +1,6 @@
 <keymap version="1" name="adam" parent="Mac OS X 10.5+">
   <action id=":cursive.actions.paredit/backward">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id=":cursive.actions.paredit/backward-down">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
@@ -26,10 +26,10 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id=":cursive.actions.paredit/copy-as-kill">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id=":cursive.actions.paredit/forward">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id=":cursive.actions.paredit/forward-down">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -95,7 +95,13 @@
   </action>
   <action id=":cursive.repl.actions/execute-immediately" />
   <action id=":cursive.repl.actions/load-file">
-    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id=":cursive.repl.actions/next-history-item">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id=":cursive.repl.actions/prev-history-item">
+    <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id=":cursive.repl.actions/run-last-sexp">
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -103,14 +109,11 @@
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id=":cursive.repl.actions/search-history">
-    <keyboard-shortcut first-keystroke="meta alt e" />
-  </action>
   <action id=":cursive.repl.actions/switch-namespace">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id=":cursive.repl.actions/sync-files">
-    <keyboard-shortcut first-keystroke="shift meta m" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
