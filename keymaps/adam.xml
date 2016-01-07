@@ -109,6 +109,9 @@
   <action id=":cursive.repl.actions/run-top-sexp">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id=":cursive.repl.actions/search-history">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id=":cursive.repl.actions/switch-namespace">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
