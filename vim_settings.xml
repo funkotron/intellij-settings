@@ -46,6 +46,9 @@
         <mark key="^" line="224" column="0" />
         <mark key="." line="227" column="35" />
       </file>
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452184827462">
+        <mark key="[" line="75" column="33" />
+      </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/autoupdate.js" timestamp="1450795637858">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="32" />
@@ -118,24 +121,7 @@
       <file name="/Dummy.txt" timestamp="1450713056903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1452170461136">
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="78" column="23" />
-        <mark key="." line="78" column="23" />
-        <mark key="^" line="78" column="23" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1450448197672">
-        <mark key="[" line="380" column="20" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
-        <mark key="^" line="380" column="21" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452170378782">
-        <mark key="[" line="117" column="49" />
-        <mark key="]" line="117" column="49" />
-        <mark key="^" line="117" column="49" />
-        <mark key="." line="117" column="49" />
-      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1452184532753" />
       <file name="/a.regexp" timestamp="1451578919096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,9 +154,6 @@
         <mark key="]" line="63" column="28" />
         <mark key="." line="63" column="28" />
         <mark key="^" line="54" column="2" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/form_components.cljs" timestamp="1452170328622">
-        <mark key="[" line="324" column="39" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/search.cljs" timestamp="1451576695709">
         <mark key="[" line="51" column="14" />
@@ -296,11 +279,11 @@
       <jump line="50" column="14" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CihkZWYgdGV4dC1hcmVhCiAgKG1ha2Utc2NoZW1hLWlucHV0CiAgICBbOmxhYmVsIDp0eXBlIDpjbGFzcyA6c3R5bGVdCiAgICAoZm4gW3s6YXMgbSA6a2V5cyBbbGFiZWwgZXJyb3ItdGV4dF19XQogICAgICBbbWRsL3RleHQtaW5wdXQKICAgICAgIChtZXJnZSB7Om5hbWUgbGFiZWwKICAgICAgICAgICAgICAgOnR5cGUgInRleHQifQogICAgICAgICAgICAgIG0pCiAgICAgICBsYWJlbCBlcnJvci10ZXh0XSkpKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>markdown-editor</text>
+        <text>td</text>
       </register>
       <register name="/" type="4">
         <text>fast</text>
@@ -308,32 +291,32 @@
       <register name="0" type="4">
         <text>)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CihkZWYgdGV4dC1hcmVhCiAgKG1ha2Utc2NoZW1hLWlucHV0CiAgICBbOmxhYmVsIDp0eXBlIDpjbGFzcyA6c3R5bGVdCiAgICAoZm4gW3s6YXMgbSA6a2V5cyBbbGFiZWwgZXJyb3ItdGV4dF19XQogICAgICBbbWRsL3RleHQtaW5wdXQKICAgICAgIChtZXJnZSB7Om5hbWUgbGFiZWwKICAgICAgICAgICAgICAgOnR5cGUgInRleHQifQogICAgICAgICAgICAgIG0pCiAgICAgICBsYWJlbCBlcnJvci10ZXh0XSkpKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>markdown-editor</text>
+        <text>td</text>
       </register>
-      <register name="3" type="4">
-        <text>markdown</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICBbOnRkLmJyYW5kIFs6c3BhbiAobWFwIDpicmFuZC9uYW1lICg6Y29udGFjdC9icmFuZHMgYykpXV0K</text>
       </register>
       <register name="4" type="4">
-        <text>]</text>
+        <text encoding="base64">CihkZWYgdGV4dC1hcmVhCiAgKG1ha2Utc2NoZW1hLWlucHV0CiAgICBbOmxhYmVsIDp0eXBlIDpjbGFzcyA6c3R5bGVdCiAgICAoZm4gW3s6YXMgbSA6a2V5cyBbbGFiZWwgZXJyb3ItdGV4dF19XQogICAgICBbbWRsL3RleHQtaW5wdXQKICAgICAgIChtZXJnZSB7Om5hbWUgbGFiZWwKICAgICAgICAgICAgICAgOnR5cGUgInRleHQifQogICAgICAgICAgICAgIG0pCiAgICAgICBsYWJlbCBlcnJvci10ZXh0XSkpKQ==</text>
       </register>
       <register name="5" type="4">
-        <text>Depends on</text>
+        <text>markdown-editor</text>
       </register>
       <register name="6" type="4">
+        <text>markdown</text>
+      </register>
+      <register name="7" type="4">
+        <text>]</text>
+      </register>
+      <register name="8" type="4">
         <text>Depends on</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGZjL2Zvcm0tc2VjdGlvbiBBdHQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vaXplZC1zb3J0LWFydHdvcmtzIChtZW1vaXplIHNvcnQtYXJ0d29ya3MpCg==</text>
-      </register>
       <register name="9" type="4">
-        <text />
+        <text>Depends on</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
