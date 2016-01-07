@@ -46,7 +46,6 @@
         <mark key="^" line="224" column="0" />
         <mark key="." line="227" column="35" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452165687176" />
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/autoupdate.js" timestamp="1450795637858">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="32" />
@@ -71,8 +70,10 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/macros.clj" timestamp="1451577669681">
         <mark key="[" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" timestamp="1449070207851">
-        <mark key="[" line="74" column="47" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" timestamp="1452170537393">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="12" />
+        <mark key="." line="81" column="12" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/views/artwork.clj" timestamp="1450273489938">
         <mark key="[" line="335" column="30" />
@@ -107,8 +108,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1449438856030">
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1452170992593">
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1451495881831">
         <mark key="'" line="35" column="20" />
@@ -122,8 +123,11 @@
       <file name="/Dummy.txt" timestamp="1450713056903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1452168327224">
-        <mark key="[" line="63" column="29" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1452170461136">
+        <mark key="[" line="74" column="26" />
+        <mark key="]" line="78" column="23" />
+        <mark key="." line="78" column="23" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1450448197672">
         <mark key="[" line="380" column="20" />
@@ -131,11 +135,11 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="380" column="21" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452169779757">
-        <mark key="[" line="106" column="6" />
-        <mark key="]" line="105" column="23" />
-        <mark key="^" line="105" column="23" />
-        <mark key="." line="105" column="23" />
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452170378782">
+        <mark key="[" line="117" column="49" />
+        <mark key="]" line="117" column="49" />
+        <mark key="^" line="117" column="49" />
+        <mark key="." line="117" column="49" />
       </file>
       <file name="/a.regexp" timestamp="1451578919096">
         <mark key="[" line="0" column="0" />
@@ -169,6 +173,9 @@
         <mark key="]" line="63" column="28" />
         <mark key="." line="63" column="28" />
         <mark key="^" line="54" column="2" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/form_components.cljs" timestamp="1452170328622">
+        <mark key="[" line="324" column="39" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/search.cljs" timestamp="1451576695709">
         <mark key="[" line="51" column="14" />
@@ -294,44 +301,44 @@
       <jump line="50" column="14" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vaXplZC1zb3J0LWFydHdvcmtzIChtZW1vaXplIHNvcnQtYXJ0d29ya3MpCg==</text>
+      <register name="&quot;" type="4">
+        <text>markdown-editor</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>markdown-editor</text>
       </register>
       <register name="/" type="4">
         <text>fast</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobWF0Y2gtZmlsdGVyIGZpbHRlcnMtc2VsZWN0ZWQgYSBbOmFydHdvcmsvbG9jYXRpb24gOm9uZV0pCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1vaXplZC1zb3J0LWFydHdvcmtzIChtZW1vaXplIHNvcnQtYXJ0d29ya3MpCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text />
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">bWF0Y2gtZmlsdGVyIGZpbHRlcnMtc2VsZWN0ZWQgYSA=</text>
-      </register>
-      <register name="4" type="4">
-        <text>first</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CihkZWZtYWNybyBjb25zb2xlLXRpbWUKICAiSlMgY29uc29sZSBwcmV0dHkgcHJpbnRpbmcgdGhlIHRpbWUgdGFrZW4gdG8gZXZhbCBib2R5IgogIFtsYWJlbCAmIGJvZHldCiAgYChkbwogICAgICgudGltZSBqcy9jb25zb2xlIH5sYWJlbCkKICAgICAobGV0IFtyZXN1bHQjIChkbyB+QGJvZHkpXQogICAgICAgKC50aW1lRW5kIGpzL2NvbnNvbGUgfmxhYmVsKQogICAgICAgcmVzdWx0IykpKQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>type</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobWF0Y2gtZmlsdGVyIGZpbHRlcnMtc2VsZWN0ZWQgYSBbOmFydHdvcmsvdHlwZSA6bWFueV0pCg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="0" type="4">
         <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobWF0Y2gtZmlsdGVyIGZpbHRlcnMtc2VsZWN0ZWQgYSBbOmFydHdvcmsvc3RhdHVzIDpvbmVdKQo=</text>
+      <register name="1" type="4">
+        <text>markdown-editor</text>
+      </register>
+      <register name="2" type="4">
+        <text>markdown</text>
+      </register>
+      <register name="3" type="4">
+        <text>]</text>
+      </register>
+      <register name="4" type="4">
+        <text>Depends on</text>
+      </register>
+      <register name="5" type="4">
+        <text>Depends on</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIGZjL2Zvcm0tc2VjdGlvbiBBdHQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtZW1vaXplZC1zb3J0LWFydHdvcmtzIChtZW1vaXplIHNvcnQtYXJ0d29ya3MpCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text />
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">bWF0Y2gtZmlsdGVyIGZpbHRlcnMtc2VsZWN0ZWQgYSA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
