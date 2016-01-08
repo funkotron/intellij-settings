@@ -50,11 +50,6 @@
         <mark key="." line="63" column="28" />
         <mark key="^" line="54" column="2" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/transport.cljs" timestamp="1450282075729">
-        <mark key="[" line="184" column="39" />
-        <mark key="]" line="184" column="39" />
-        <mark key="." line="184" column="39" />
-      </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="16" column="12" />
@@ -67,6 +62,9 @@
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
+      </file>
+      <file name="/REPL.clj" timestamp="1452250382022">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
@@ -146,12 +144,6 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
-        <mark key="[" line="227" column="35" />
-        <mark key="]" line="227" column="35" />
-        <mark key="^" line="224" column="0" />
-        <mark key="." line="227" column="35" />
-      </file>
       <file name="/a.txt" timestamp="1450186953396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,12 +154,6 @@
         <mark key="[" line="19" column="64" />
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1450448197672">
-        <mark key="[" line="380" column="20" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
-        <mark key="^" line="380" column="21" />
       </file>
       <file name="$USER_HOME$/w/cnc/Procfile.txt" timestamp="1451410628376">
         <mark key="[" line="1" column="74" />
