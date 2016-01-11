@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/w/cnc/resources/www/css/icon.css" timestamp="1452513324202">
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="4" column="68" />
+        <mark key="." line="4" column="68" />
+      </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
         <mark key="]" line="100" column="68" />
@@ -21,11 +26,6 @@
         <mark key="." line="63" column="28" />
         <mark key="^" line="54" column="2" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1452268906367">
         <mark key="[" line="157" column="20" />
         <mark key="]" line="157" column="20" />
@@ -39,6 +39,9 @@
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/form_components.cljs" timestamp="1452513118912">
+        <mark key="[" line="462" column="49" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
@@ -60,11 +63,6 @@
       </file>
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
-        <mark key="[" line="19" column="64" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
       </file>
       <file name="$USER_HOME$/w/cnc/Procfile.txt" timestamp="1451410628376">
         <mark key="[" line="1" column="74" />
@@ -91,11 +89,6 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450355111725">
-        <mark key="[" line="532" column="0" />
-        <mark key="]" line="532" column="0" />
-        <mark key="." line="532" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
       </file>
@@ -111,11 +104,6 @@
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450793649710">
-        <mark key="[" line="26" column="6" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1452510679651">
         <mark key="[" line="499" column="4" />
         <mark key="]" line="500" column="24" />
@@ -125,11 +113,6 @@
         <mark key="]" line="94" column="25" />
         <mark key="^" line="94" column="2" />
         <mark key="." line="94" column="2" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/js/out/bootstrap.js" timestamp="1450800481478">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/features.cljs" timestamp="1450714726806">
         <mark key="[" line="21" column="24" />
@@ -170,31 +153,25 @@
       <file name="$USER_HOME$/w/cnc/Procfile" timestamp="1451414815210">
         <mark key="[" line="1" column="66" />
       </file>
+      <file name="/a.regexp" timestamp="1452513494866">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
         <mark key="]" line="83" column="1" />
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1451564712960">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/package.json" timestamp="1451409141352">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1452513497875">
+        <mark key="[" line="71" column="33" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1452511683797">
         <mark key="[" line="196" column="28" />
         <mark key="]" line="196" column="28" />
         <mark key="." line="196" column="28" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/js/out/manifest.json" timestamp="1450716079206">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/macros.clj" timestamp="1451577669681">
         <mark key="[" line="77" column="0" />
@@ -304,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>padding</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>padding</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -317,31 +294,31 @@
      basics/mobile-widths</text>
       </register>
       <register name="1" type="4">
-        <text>padding</text>
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text>-if-different</text>
+        <text>ttps://fonts.gstatic.com/s/materialicons/v10/2</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>https://fonts.googleapis.com/icon?family=Material+Icons</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>padding</text>
       </register>
       <register name="5" type="4">
-        <text>v</text>
+        <text>-if-different</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoanMvYWxlcnQgZXZlbnQpCg==</text>
+      <register name="8" type="4">
+        <text>v</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAocHJuICJIRUxMTyIgZXZlbnQpCg==</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
