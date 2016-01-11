@@ -65,9 +65,7 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1452520135727">
-        <mark key="[" line="197" column="16" />
-      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1452520135727" />
       <file name="/a.txt" timestamp="1452522452610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,10 +102,10 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450355111725">
-        <mark key="[" line="532" column="0" />
-        <mark key="]" line="532" column="0" />
-        <mark key="." line="532" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1452524262641">
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -176,6 +174,9 @@
         <mark key="." line="59" column="11" />
         <mark key="^" line="59" column="11" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" timestamp="1452524375250">
+        <mark key="[" line="296" column="4" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/search.cljs" timestamp="1451576695709">
         <mark key="[" line="51" column="14" />
       </file>
@@ -204,6 +205,11 @@
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artists.cljs" timestamp="1452523953150">
+        <mark key="[" line="85" column="86" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1452518409739">
         <mark key="[" line="464" column="0" />
@@ -324,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFs6YSB7OmhyZWYgKG5hdi9saW5rICIvYXJ0aXN0cy8iIGFydGlzdC1pZCAiL2VkaXQiKX0gImVkaXQiXQo=</text>
       </register>
       <register name="-" type="4">
         <text>:white</text>
@@ -336,31 +342,31 @@
         <text encoding="base64">ICAgICBbOmEgezpocmVmIChuYXYvbGluayAoc3RyICIvY29udGFjdHMvIiAoOmRiL2lkIGMpICIvYWN0aXZpdHkiKSl9IFs6aS5pY29uLm1hdGVyaWFsLWljb25zLmNsaWNrICJoaXN0b3J5Il0gIkRldGFpbGVkIEFjdGl2aXR5Il0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFs6YSB7OmhyZWYgKG5hdi9saW5rICIvYXJ0aXN0cy8iIGFydGlzdC1pZCAiL2VkaXQiKX0gImVkaXQiXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgWzouZXNzXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWzphIHs6aHJlZiAobmF2L2xpbmsgKHN0ciAiL2NvbnRhY3RzLyIgKDpkYi9pZCBjKSAiL2FjdGl2aXR5IikpfSBdCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:white</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgWzouZXNzXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgWzphIHs6aHJlZiAobmF2L2xpbmsgKHN0ciAiL2NvbnRhY3RzLyIgKDpkYi9pZCBjKSAiL2FjdGl2aXR5IikpfSBdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>h</text>
+        <text>:white</text>
       </register>
       <register name="7" type="4">
-        <text>ttps://fonts.gstatic.com/s/materialicons/v10/2</text>
+        <text>h</text>
       </register>
       <register name="8" type="4">
-        <text>https://fonts.googleapis.com/icon?family=Material+Icons</text>
+        <text>ttps://fonts.gstatic.com/s/materialicons/v10/2</text>
       </register>
       <register name="9" type="4">
-        <text>padding</text>
+        <text>https://fonts.googleapis.com/icon?family=Material+Icons</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
