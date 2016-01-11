@@ -30,10 +30,10 @@
         <mark key="]" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1452522473965">
-        <mark key="[" line="70" column="44" />
-        <mark key="]" line="70" column="44" />
-        <mark key="." line="70" column="44" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1452526104055">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452252625838">
         <mark key="[" line="107" column="0" />
@@ -102,10 +102,10 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1452524262641">
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1452525535748">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -121,6 +121,11 @@
       </file>
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1452526502477">
+        <mark key="[" line="135" column="35" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450793649710">
         <mark key="[" line="26" column="6" />
@@ -330,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFs6YSB7OmhyZWYgKG5hdi9saW5rICIvYXJ0aXN0cy8iIGFydGlzdC1pZCAiL2VkaXQiKX0gImVkaXQiXQo=</text>
+        <text encoding="base64">ICAgICA7OmNsYXNzLW5hbWUgKHdoZW4KICAgICA7ICAgICAgICAgICAgICAoPSAoc2Vzc2lvbi9nZXQgOmN1cnJlbnQtYXJ0d29yay1wYWdlLW5hbWUpCiAgICAgOyAgICAgICAgICAgICAgICAgImJhc2ljcyIpCiAgICAgOyAgICAgICAgICAgICAgImFjdGl2ZSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:white</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -342,31 +347,31 @@
         <text encoding="base64">ICAgICBbOmEgezpocmVmIChuYXYvbGluayAoc3RyICIvY29udGFjdHMvIiAoOmRiL2lkIGMpICIvYWN0aXZpdHkiKSl9IFs6aS5pY29uLm1hdGVyaWFsLWljb25zLmNsaWNrICJoaXN0b3J5Il0gIkRldGFpbGVkIEFjdGl2aXR5Il0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFs6YSB7OmhyZWYgKG5hdi9saW5rICIvYXJ0aXN0cy8iIGFydGlzdC1pZCAiL2VkaXQiKX0gImVkaXQiXQo=</text>
+        <text encoding="base64">ICAgICA7OmNsYXNzLW5hbWUgKHdoZW4KICAgICA7ICAgICAgICAgICAgICAoPSAoc2Vzc2lvbi9nZXQgOmN1cnJlbnQtYXJ0d29yay1wYWdlLW5hbWUpCiAgICAgOyAgICAgICAgICAgICAgICAgImJhc2ljcyIpCiAgICAgOyAgICAgICAgICAgICAgImFjdGl2ZSIpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgWzouZXNzXQo=</text>
+        <text encoding="base64">ICBDYW4gYmUgdXNlZCBpbiBVUkxzIGZvciBleGFtcGxlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWzphIHs6aHJlZiAobmF2L2xpbmsgKHN0ciAiL2NvbnRhY3RzLyIgKDpkYi9pZCBjKSAiL2FjdGl2aXR5IikpfSBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgbnVtYmVyCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text>numb</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAoanMvY29uc29sZS5sb2cgYXJ0KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFs6YSB7OmhyZWYgKG5hdi9saW5rICIvYXJ0aXN0cy8iIGFydGlzdC1pZCAiL2VkaXQiKX0gImVkaXQiXQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>:white</text>
-      </register>
-      <register name="7" type="4">
-        <text>h</text>
-      </register>
-      <register name="8" type="4">
-        <text>ttps://fonts.gstatic.com/s/materialicons/v10/2</text>
-      </register>
-      <register name="9" type="4">
-        <text>https://fonts.googleapis.com/icon?family=Material+Icons</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgWzouZXNzXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
