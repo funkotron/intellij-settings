@@ -8,9 +8,6 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1452689747892">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
         <mark key="]" line="100" column="68" />
@@ -33,10 +30,10 @@
         <mark key="]" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1452526104055">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1452691873506">
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="8" />
+        <mark key="." line="71" column="8" />
       </file>
       <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452688217800">
         <mark key="[" line="135" column="63" />
@@ -62,11 +59,11 @@
         <mark key="." line="53" column="28" />
         <mark key="^" line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/schemas.cljc" timestamp="1452686985323">
-        <mark key="[" line="81" column="69" />
-        <mark key="]" line="79" column="2" />
-        <mark key="." line="79" column="2" />
-        <mark key="^" line="79" column="2" />
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/schemas.cljc" timestamp="1452690572679">
+        <mark key="[" line="80" column="69" />
+        <mark key="]" line="78" column="2" />
+        <mark key="." line="78" column="2" />
+        <mark key="^" line="78" column="2" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1452531724149">
         <mark key="[" line="32" column="0" />
@@ -110,10 +107,10 @@
         <mark key="." line="35" column="24" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1452687266557">
-        <mark key="[" line="519" column="28" />
-        <mark key="]" line="590" column="62" />
-        <mark key="." line="590" column="0" />
-        <mark key="^" line="213" column="43" />
+        <mark key="[" line="518" column="28" />
+        <mark key="]" line="589" column="62" />
+        <mark key="." line="589" column="0" />
+        <mark key="^" line="212" column="43" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -354,10 +351,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lcortes</text>
+        <text>full?</text>
       </register>
       <register name="-" type="4">
-        <text>lcortes</text>
+        <text>full?</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -366,31 +363,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
       </register>
       <register name="1" type="4">
+        <text>full?</text>
+      </register>
+      <register name="2" type="4">
         <text>lcortes</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CihkZWYgbWQKICAoZC9xICdbOmZpbmQgWyhwdWxsID9lIFsqXSkgLi4uXSA6d2hlcmUgWz9lIDphcnR3b3JrL21lZGl1bS1kaXNwbGF5IF9dXSAoZGIvZ2V0LWRiKSkpCgooZmlsdGVyICMobm90IChuaWw/IChyZS1maW5kICMiLipbQmJdcmFzcy4qIiAlKSkpIChtYXAgKGZuIFttXSAoLT4gbSA6YXJ0d29yay9tZWRpdW0tZGlzcGxheSA6dHJhbnNsYXRhYmxlLXN0cmluZy9lbikpIG1kKSkKCihub3QtZW1wdHkKICAocmUtZmluZCAjIi4qW0JiXXJhc3MuKiIgImhlbGxvIGJhcyIpKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>filter</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">OzsgQWRkIGEgTWVkaXVtCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">KGQvcSAnWzpmaW5kIFsocHVsbCA/ZSBbKl0pIC4uLl0gOndoZXJlIFs/ZSA6bWVkaXVtL2tleSA6bWVkaXVtLmtleS9icmFzc11dIChkYi9nZXQtZGIpKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CihkZWYgQnJhbmQKICB7OmJyYW5kL2tleSAocy9lbnVtIDpicmFuZC1rZXkvY25jIDpicmFuZC1rZXkvY29sbmFnaGkpCiAgIHMvS2V5d29yZCBzL0FueX0pCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzL2xvY2F0aW9ucyIgIkxvY2F0aW9ucyJdCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>]</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
