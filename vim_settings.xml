@@ -35,11 +35,11 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452252625838">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="111" column="63" />
-        <mark key="^" line="111" column="63" />
-        <mark key="." line="111" column="63" />
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452688217800">
+        <mark key="[" line="135" column="63" />
+        <mark key="]" line="135" column="5" />
+        <mark key="." line="135" column="5" />
+        <mark key="^" line="135" column="5" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
@@ -343,10 +343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
+        <text encoding="base64">CihkZWYgbWQKICAoZC9xICdbOmZpbmQgWyhwdWxsID9lIFsqXSkgLi4uXSA6d2hlcmUgWz9lIDphcnR3b3JrL21lZGl1bS1kaXNwbGF5IF9dXSAoZGIvZ2V0LWRiKSkpCgooZmlsdGVyICMobm90IChuaWw/IChyZS1maW5kICMiLipbQmJdcmFzcy4qIiAlKSkpIChtYXAgKGZuIFttXSAoLT4gbSA6YXJ0d29yay9tZWRpdW0tZGlzcGxheSA6dHJhbnNsYXRhYmxlLXN0cmluZy9lbikpIG1kKSkKCihub3QtZW1wdHkKICAocmUtZmluZCAjIi4qW0JiXXJhc3MuKiIgImhlbGxvIGJhcyIpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>filter</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -355,31 +355,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CihkZWYgbWQKICAoZC9xICdbOmZpbmQgWyhwdWxsID9lIFsqXSkgLi4uXSA6d2hlcmUgWz9lIDphcnR3b3JrL21lZGl1bS1kaXNwbGF5IF9dXSAoZGIvZ2V0LWRiKSkpCgooZmlsdGVyICMobm90IChuaWw/IChyZS1maW5kICMiLipbQmJdcmFzcy4qIiAlKSkpIChtYXAgKGZuIFttXSAoLT4gbSA6YXJ0d29yay9tZWRpdW0tZGlzcGxheSA6dHJhbnNsYXRhYmxlLXN0cmluZy9lbikpIG1kKSkKCihub3QtZW1wdHkKICAocmUtZmluZCAjIi4qW0JiXXJhc3MuKiIgImhlbGxvIGJhcyIpKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CihkZWYgQnJhbmQKICB7OmJyYW5kL2tleSAocy9lbnVtIDpicmFuZC1rZXkvY25jIDpicmFuZC1rZXkvY29sbmFnaGkpCiAgIHMvS2V5d29yZCBzL0FueX0pCg==</text>
+      <register name="2" type="4">
+        <text>filter</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzL2xvY2F0aW9ucyIgIkxvY2F0aW9ucyJdCg==</text>
+        <text encoding="base64">OzsgQWRkIGEgTWVkaXVtCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>]</text>
+      <register name="4" type="2">
+        <text encoding="base64">KGQvcSAnWzpmaW5kIFsocHVsbCA/ZSBbKl0pIC4uLl0gOndoZXJlIFs/ZSA6bWVkaXVtL2tleSA6bWVkaXVtLmtleS9icmFzc11dIChkYi9nZXQtZGIpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>^:interceptors [auth/check-session</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFsiL2xvY2F0aW9ucyIgbG9jYXRpb25zLWRhc2hib2FyZCBeOmludGVyY2VwdG9ycyBbYXV0aC9jaGVjay1zZXNzaW9uXV0K</text>
+        <text encoding="base64">CihkZWYgQnJhbmQKICB7OmJyYW5kL2tleSAocy9lbnVtIDpicmFuZC1rZXkvY25jIDpicmFuZC1rZXkvY29sbmFnaGkpCiAgIHMvS2V5d29yZCBzL0FueX0pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>artworks</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzL2xvY2F0aW9ucyIgIkxvY2F0aW9ucyJdCg==</text>
       </register>
       <register name="8" type="4">
-        <text>span</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CihkZWYgbG9jYXRpb24tZmlsdGVycwogIFt7OmxhYmVsICIyIE1vbnRocyIKICAgIDpwcmVkICAoZm4gW2FdIChqcy9jb25zb2xlLmxvZyBhKSB0cnVlKQogICAgOmJnICAgICJyZ2JhKDI1NSwgMjM3LCAxNDAsIDAuMjYpIn1dKQ==</text>
+        <text>^:interceptors [auth/check-session</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
@@ -475,6 +475,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
