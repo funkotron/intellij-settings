@@ -8,7 +8,6 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="$USER_HOME$/w/cnc/datomic/maintenance.clj" timestamp="1452683034311" />
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
         <mark key="]" line="100" column="68" />
@@ -59,6 +58,11 @@
         <mark key="]" line="53" column="28" />
         <mark key="." line="53" column="28" />
         <mark key="^" line="49" column="37" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/schemas.cljc" timestamp="1452684258386">
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1452531724149">
         <mark key="[" line="32" column="0" />
@@ -337,7 +341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzL2xvY2F0aW9ucyIgIkxvY2F0aW9ucyJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -349,31 +353,31 @@
         <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzIl0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CihkZWYgQnJhbmQKICB7OmJyYW5kL2tleSAocy9lbnVtIDpicmFuZC1rZXkvY25jIDpicmFuZC1rZXkvY29sbmFnaGkpCiAgIHMvS2V5d29yZCBzL0FueX0pCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzL2xvY2F0aW9ucyIgIkxvY2F0aW9ucyJdCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>]</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>^:interceptors [auth/check-session</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFsiL2xvY2F0aW9ucyIgbG9jYXRpb25zLWRhc2hib2FyZCBeOmludGVyY2VwdG9ycyBbYXV0aC9jaGVjay1zZXNzaW9uXV0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>artworks</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>span</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CihkZWYgbG9jYXRpb24tZmlsdGVycwogIFt7OmxhYmVsICIyIE1vbnRocyIKICAgIDpwcmVkICAoZm4gW2FdIChqcy9jb25zb2xlLmxvZyBhKSB0cnVlKQogICAgOmJnICAgICJyZ2JhKDI1NSwgMjM3LCAxNDAsIDAuMjYpIn1dKQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFs6ZGl2IFs6aDEgIkxPQ0FUSU9OUyJdXQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFs6ZGl2IFs6aDEgIkxPQ0FUSU9OUyJdXQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
