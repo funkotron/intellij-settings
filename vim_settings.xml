@@ -8,6 +8,7 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
+      <file name="$USER_HOME$/w/cnc/datomic/maintenance.clj" timestamp="1452683034311" />
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
         <mark key="]" line="100" column="68" />
@@ -64,14 +65,12 @@
         <mark key="]" line="32" column="48" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1452520135727" />
       <file name="/a.txt" timestamp="1452522452610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" timestamp="1452527530690" />
       <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
         <mark key="[" line="19" column="64" />
         <mark key="]" line="19" column="64" />
