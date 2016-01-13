@@ -8,6 +8,9 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
+      <file name="/a.dummy" timestamp="1452689747892">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1451423293023">
         <mark key="[" line="100" column="36" />
         <mark key="]" line="100" column="68" />
@@ -187,6 +190,11 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" timestamp="1452524375250">
         <mark key="[" line="296" column="4" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/config.clj" timestamp="1452689740664">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/search.cljs" timestamp="1451576695709">
         <mark key="[" line="51" column="14" />
       </file>
@@ -198,6 +206,9 @@
       </file>
       <file name="$USER_HOME$/w/cnc/Procfile" timestamp="1451414815210">
         <mark key="[" line="1" column="66" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1452689753739">
+        <mark key="[" line="17" column="20" />
       </file>
       <file name="/a.regexp" timestamp="1452522450384">
         <mark key="[" line="0" column="0" />
@@ -342,11 +353,11 @@
       <jump line="349" column="34" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CihkZWYgbWQKICAoZC9xICdbOmZpbmQgWyhwdWxsID9lIFsqXSkgLi4uXSA6d2hlcmUgWz9lIDphcnR3b3JrL21lZGl1bS1kaXNwbGF5IF9dXSAoZGIvZ2V0LWRiKSkpCgooZmlsdGVyICMobm90IChuaWw/IChyZS1maW5kICMiLipbQmJdcmFzcy4qIiAlKSkpIChtYXAgKGZuIFttXSAoLT4gbSA6YXJ0d29yay9tZWRpdW0tZGlzcGxheSA6dHJhbnNsYXRhYmxlLXN0cmluZy9lbikpIG1kKSkKCihub3QtZW1wdHkKICAocmUtZmluZCAjIi4qW0JiXXJhc3MuKiIgImhlbGxvIGJhcyIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>lcortes</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>lcortes</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -354,32 +365,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>lcortes</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CihkZWYgbWQKICAoZC9xICdbOmZpbmQgWyhwdWxsID9lIFsqXSkgLi4uXSA6d2hlcmUgWz9lIDphcnR3b3JrL21lZGl1bS1kaXNwbGF5IF9dXSAoZGIvZ2V0LWRiKSkpCgooZmlsdGVyICMobm90IChuaWw/IChyZS1maW5kICMiLipbQmJdcmFzcy4qIiAlKSkpIChtYXAgKGZuIFttXSAoLT4gbSA6YXJ0d29yay9tZWRpdW0tZGlzcGxheSA6dHJhbnNsYXRhYmxlLXN0cmluZy9lbikpIG1kKSkKCihub3QtZW1wdHkKICAocmUtZmluZCAjIi4qW0JiXXJhc3MuKiIgImhlbGxvIGJhcyIpKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>filter</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">OzsgQWRkIGEgTWVkaXVtCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">KGQvcSAnWzpmaW5kIFsocHVsbCA/ZSBbKl0pIC4uLl0gOndoZXJlIFs/ZSA6bWVkaXVtL2tleSA6bWVkaXVtLmtleS9icmFzc11dIChkYi9nZXQtZGIpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CihkZWYgQnJhbmQKICB7OmJyYW5kL2tleSAocy9lbnVtIDpicmFuZC1rZXkvY25jIDpicmFuZC1rZXkvY29sbmFnaGkpCiAgIHMvS2V5d29yZCBzL0FueX0pCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFtuYXYtbGluayAiL2FydHdvcmtzL2xvY2F0aW9ucyIgIkxvY2F0aW9ucyJdCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>]</text>
-      </register>
       <register name="9" type="4">
-        <text>^:interceptors [auth/check-session</text>
+        <text>]</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
