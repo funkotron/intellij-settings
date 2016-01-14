@@ -47,8 +47,11 @@
         <mark key="." line="135" column="55" />
         <mark key="^" line="135" column="5" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1452770143056">
-        <mark key="[" line="114" column="40" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1452772002903">
+        <mark key="[" line="114" column="26" />
+        <mark key="]" line="114" column="25" />
+        <mark key="^" line="114" column="25" />
+        <mark key="." line="114" column="25" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
@@ -74,10 +77,8 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="85" column="11" />
       </file>
-      <file name="/ClojureDebugFile.clj" timestamp="1452771180081">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/ClojureDebugFile.clj" timestamp="1452772087837">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1452701861644">
         <mark key="[" line="47" column="0" />
