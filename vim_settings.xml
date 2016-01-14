@@ -21,9 +21,9 @@
         <mark key="^" line="100" column="68" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452768769006">
-        <mark key="[" line="314" column="23" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
+        <mark key="[" line="315" column="23" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/README.md" timestamp="1451423534243">
         <mark key="[" line="63" column="27" />
@@ -46,6 +46,9 @@
         <mark key="]" line="135" column="55" />
         <mark key="." line="135" column="55" />
         <mark key="^" line="135" column="5" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1452770143056">
+        <mark key="[" line="114" column="40" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
@@ -70,6 +73,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="85" column="11" />
+      </file>
+      <file name="/ClojureDebugFile.clj" timestamp="1452771180081">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" timestamp="1452701861644">
         <mark key="[" line="47" column="0" />
@@ -363,11 +371,11 @@
       <jump line="349" column="34" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="&quot;" type="4">
+        <text>map val</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>map val</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -375,32 +383,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="1" type="4">
+        <text>map val</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
+      <register name="2" type="4">
+        <text>first</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>(first edits)</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
+      </register>
+      <register name="8" type="4">
         <text>true</text>
       </register>
-      <register name="6" type="4">
-        <text>collapse</text>
-      </register>
-      <register name="7" type="4">
-        <text>brass</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIFs6ZGl2IChwci1zdHIgZWRpdHMpXQo=</text>
-      </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>collapse</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
