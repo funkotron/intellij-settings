@@ -47,11 +47,8 @@
         <mark key="." line="135" column="55" />
         <mark key="^" line="135" column="5" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1452772002903">
-        <mark key="[" line="114" column="26" />
-        <mark key="]" line="114" column="25" />
-        <mark key="^" line="114" column="25" />
-        <mark key="." line="114" column="25" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1452776412169">
+        <mark key="^" line="115" column="25" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
@@ -102,10 +99,11 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="1" column="65" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" timestamp="1452708980154">
-        <mark key="[" line="93" column="26" />
-        <mark key="]" line="93" column="26" />
-        <mark key="." line="93" column="26" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" timestamp="1452776477896">
+        <mark key="'" line="122" column="15" />
+        <mark key="[" line="122" column="13" />
+        <mark key="]" line="122" column="13" />
+        <mark key="." line="122" column="13" />
         <mark key="^" line="100" column="20" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1452268817373">
@@ -270,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="66" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="73" column="11" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="177" column="20" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="278" column="43" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
@@ -370,13 +367,14 @@
       <jump line="330" column="57" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
       <jump line="27" column="17" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
       <jump line="349" column="34" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
+      <jump line="122" column="15" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map val</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>map val</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -385,31 +383,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
       </register>
       <register name="1" type="4">
-        <text>map val</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>first</text>
+        <text>get-type</text>
       </register>
       <register name="3" type="4">
+        <text>map val</text>
+      </register>
+      <register name="4" type="4">
+        <text>first</text>
+      </register>
+      <register name="5" type="4">
         <text>(first edits)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
       </register>
-      <register name="8" type="4">
-        <text>true</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>collapse</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
