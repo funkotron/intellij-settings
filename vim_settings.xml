@@ -20,10 +20,10 @@
         <mark key="." line="100" column="68" />
         <mark key="^" line="100" column="68" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452783819534">
-        <mark key="[" line="319" column="23" />
-        <mark key="]" line="319" column="23" />
-        <mark key="." line="319" column="23" />
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452787567148">
+        <mark key="[" line="335" column="38" />
+        <mark key="]" line="335" column="36" />
+        <mark key="." line="335" column="36" />
         <mark key="^" line="321" column="4" />
       </file>
       <file name="$USER_HOME$/w/cnc/README.md" timestamp="1451423534243">
@@ -42,11 +42,11 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452708477109">
-        <mark key="[" line="135" column="55" />
-        <mark key="]" line="135" column="55" />
-        <mark key="." line="135" column="55" />
-        <mark key="^" line="135" column="5" />
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1452787827759">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="136" column="55" />
+        <mark key="." line="136" column="55" />
+        <mark key="^" line="136" column="5" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1452776412169">
         <mark key="^" line="115" column="25" />
@@ -100,12 +100,12 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="1" column="65" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" timestamp="1452784411527">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" timestamp="1452787504579">
         <mark key="'" line="122" column="15" />
-        <mark key="[" line="67" column="3" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="5" />
+        <mark key="[" line="148" column="47" />
+        <mark key="]" line="148" column="47" />
+        <mark key="." line="148" column="47" />
+        <mark key="^" line="147" column="32" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1452268817373">
         <mark key="[" line="158" column="14" />
@@ -371,44 +371,44 @@
       <jump line="122" column="15" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAob3Igb3V0cHV0ICIiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>-left (em 2)</text>
       </register>
       <register name="-" type="4">
-        <text>lowercase</text>
+        <text>-left (em 2)</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBbOiYub3RoZXIgezpiYWNrZ3JvdW5kLWNvbG9yIDpyZWR9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHJlbW92ZS13YXRjaCBzdGFydCA6c3RhcnQpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAob3Igb3V0cHV0ICIiKQo=</text>
+      <register name="1" type="4">
+        <text>-left (em 2)</text>
       </register>
       <register name="2" type="4">
-        <text>lowercase</text>
+        <text>start</text>
       </register>
       <register name="3" type="4">
-        <text>other</text>
+        <text>start :</text>
       </register>
       <register name="4" type="4">
+        <text>start</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAob3Igb3V0cHV0ICIiKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>lowercase</text>
+      </register>
+      <register name="8" type="4">
         <text>other</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>other</text>
-      </register>
-      <register name="6" type="4">
-        <text>[</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgWzpkaXYgKGZpcnN0IG1haW4tZW50aXR5KSBbZGlzcGxheSBtYWluLWVudGl0eV1dCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
