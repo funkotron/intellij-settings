@@ -20,10 +20,10 @@
         <mark key="." line="100" column="68" />
         <mark key="^" line="100" column="68" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452703992251">
-        <mark key="[" line="314" column="30" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1452768769006">
+        <mark key="[" line="314" column="23" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/README.md" timestamp="1451423534243">
         <mark key="[" line="63" column="27" />
@@ -363,8 +363,8 @@
       <jump line="349" column="34" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -375,32 +375,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2NoZW1hICAgICAgc2NoZW1hcy9BcnR3b3JrCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="2" type="4">
-        <text>collapse</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
       </register>
-      <register name="3" type="4">
-        <text>brass</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIFs6ZGl2IChwci1zdHIgZWRpdHMpXQo=</text>
+        <text encoding="base64">ICAgWzouY29sbGFwc2VkCiAgICBbOi50cmFuc2FjdGlvbi1kZXRhaWwKICAgICB7OmRpc3BsYXkgOm5vbmV9XV0K</text>
       </register>
       <register name="5" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="6" type="4">
-        <text>block</text>
+        <text>collapse</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFtsb2FkZWQtdHhlcyBAdHhlc10K</text>
+      <register name="7" type="4">
+        <text>brass</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF57OmtleSAiYWN0aXZpdHktZmVlZCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgIFs6ZGl2IChwci1zdHIgZWRpdHMpXQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7WzpkaXYgInQ6ICIgdF0K</text>
+      <register name="9" type="4">
+        <text>false</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
