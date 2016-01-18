@@ -42,6 +42,7 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1453127505862" />
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1453121624781">
         <mark key="^" line="128" column="25" />
       </file>
@@ -365,7 +366,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KHB1bGwgP2UgWypdKSA=</text>
+        <text encoding="base64">ICAoCiAgICAoZC9lbnRpdHkKICAgICAgKGQvYXMtb2YpCiAgICAgIDE3NTkyMTg2MDY5MDI5KSk=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KHB1bGwgP2UgWypdKSA=</text>
@@ -377,31 +378,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFs6ZGl2IChwci1zdHIgaWQpXQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KHB1bGwgP2UgWypdKSA=</text>
+        <text encoding="base64">ICAoCiAgICAoZC9lbnRpdHkKICAgICAgKGQvYXMtb2YpCiAgICAgIDE3NTkyMTg2MDY5MDI5KSk=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">KHB1bGwgP2UgWypdKSA=</text>
+      </register>
+      <register name="3" type="4">
         <text>13194139566933</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(d/tempid :db.part/user)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>Elisa Salazar</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>-left (em 2)</text>
       </register>
-      <register name="7" type="4">
-        <text>start</text>
-      </register>
       <register name="8" type="4">
-        <text>start :</text>
+        <text>start</text>
       </register>
       <register name="9" type="4">
-        <text>start</text>
+        <text>start :</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
