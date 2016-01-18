@@ -119,11 +119,10 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1452687266557">
-        <mark key="[" line="518" column="28" />
-        <mark key="]" line="589" column="62" />
-        <mark key="." line="589" column="0" />
-        <mark key="^" line="212" column="43" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453117665620">
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="326" column="0" />
+        <mark key="." line="326" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -140,8 +139,8 @@
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1452526502477">
-        <mark key="[" line="135" column="35" />
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1453117518453">
+        <mark key="[" line="141" column="34" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
@@ -371,8 +370,8 @@
       <jump line="122" column="15" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(d/tempid :db.part/user)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(d/tempid :db.part/user)</text>
@@ -381,34 +380,34 @@
         <text>actions</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHJlbW92ZS13YXRjaCBzdGFydCA6c3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoc3RyIChhcnQtPmZpbGVuYW1lIEBhcnQgc2l6ZSkgIi4iIGV4dGVuc2lvbikK</text>
       </register>
-      <register name="1" type="4">
-        <text>(d/tempid :db.part/user)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>Elisa Salazar</text>
+        <text>(d/tempid :db.part/user)</text>
       </register>
       <register name="3" type="4">
-        <text>-left (em 2)</text>
+        <text>Elisa Salazar</text>
       </register>
       <register name="4" type="4">
-        <text>start</text>
+        <text>-left (em 2)</text>
       </register>
       <register name="5" type="4">
-        <text>start :</text>
-      </register>
-      <register name="6" type="4">
         <text>start</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>start :</text>
+      </register>
+      <register name="7" type="4">
+        <text>start</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAob3Igb3V0cHV0ICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>lowercase</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAob3Igb3V0cHV0ICIiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
