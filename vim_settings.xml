@@ -147,7 +147,7 @@
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1453117518453">
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1453299119638">
         <mark key="[" line="141" column="34" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
@@ -225,9 +225,6 @@
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1452689753739">
         <mark key="[" line="17" column="20" />
-      </file>
-      <file name="/a.regexp" timestamp="1452522450384">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
