@@ -85,6 +85,9 @@
         <mark key="]" line="48" column="37" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1453380086846">
+        <mark key="'" line="226" column="30" />
+      </file>
       <file name="/a.txt" timestamp="1452522452610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -267,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="11" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="177" column="20" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="278" column="43" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="392" column="29" filename="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/schema.clj" />
@@ -367,6 +369,7 @@
       <jump line="27" column="17" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
       <jump line="349" column="34" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
       <jump line="122" column="15" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" />
+      <jump line="226" column="30" filename="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
