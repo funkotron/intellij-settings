@@ -130,10 +130,9 @@
         <mark key="^" line="35" column="24" />
         <mark key="." line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453117665620">
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="326" column="0" />
-        <mark key="." line="326" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453382955307">
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -150,10 +149,10 @@
       <file name="$USER_HOME$/w/cnc_mongo_migration/src/cnc_mongo_migration/artworks.clj" timestamp="1448968938513">
         <mark key="[" line="269" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1453299119638">
-        <mark key="[" line="141" column="34" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1453383109796">
+        <mark key="[" line="141" column="8" />
+        <mark key="]" line="141" column="23" />
+        <mark key="." line="141" column="23" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/stock/consignment.cljs" timestamp="1452701619742">
         <mark key="[" line="26" column="12" />
@@ -235,11 +234,10 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
       </file>
-      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1452513497875">
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="71" column="35" />
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1453383712007">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="98" column="56" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/package.json" timestamp="1451409141352">
         <mark key="[" line="1" column="11" />
@@ -373,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDtbZmMvYnV0dG9uIChoYW5kbGVyLWZuIChnZXQtdHhlcykpICJVcGRhdGUiXQo=</text>
+        <text encoding="base64">ICAgIDwhLS0gRml4ZWREYXRhVGFibGUgLS0+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImxpYi9maXhlZC1kYXRhLXRhYmxlLm1pbi5jc3MiIG1lZGlhPSJzY3JlZW4iPgoKICAgIDwhLS0gTG9ncyAtLT4KICAgIDwhLS08c2NyaXB0IHNyYz0ibGliL2xvZ2dseS5taW4uanMiIGFzeW5jPjwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>nil</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -385,31 +383,31 @@
         <text encoding="base64">ICAgIChyZXNldCEgYWN0aXZpdHktdXNlci1pZCBuaWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDtbZmMvYnV0dG9uIChoYW5kbGVyLWZuIChnZXQtdHhlcykpICJVcGRhdGUiXQo=</text>
+        <text encoding="base64">ICAgIDwhLS0gRml4ZWREYXRhVGFibGUgLS0+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImxpYi9maXhlZC1kYXRhLXRhYmxlLm1pbi5jc3MiIG1lZGlhPSJzY3JlZW4iPgoKICAgIDwhLS0gTG9ncyAtLT4KICAgIDwhLS08c2NyaXB0IHNyYz0ibGliL2xvZ2dseS5taW4uanMiIGFzeW5jPjwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iZmxhZy1pY29uL2Nzcy9mbGFnLWljb24ubWluLmNzcyI+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>nil</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImpzL2NuYy5qcz97e1ZFUlNJT059fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIDtbOmRpdiAiVVNFUklEIiAocHItc3RyIEBhY3Rpdml0eS11c2VyLWlkKV0K</text>
+      <register name="4" type="4">
+        <text>[</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbOnRkICIxIl0K</text>
+      <register name="5" type="4">
+        <text>+</text>
       </register>
       <register name="6" type="4">
-        <text>To</text>
+        <text>]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAodmVjIG1pc3NpbmcpCg==</text>
+      <register name="8" type="4">
+        <text>9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgKGQvcSAnWzpmaW5kID9lID9hID92ID9vcAogICAgICAgICA6aW4gP2xvZyA/dHgKICAgICAgICAgOndoZXJlIFsodHgtaWRzID9sb2cpIFs/dHggLi4uXV0KICAgICAgICAgWyh0eC1kYXRhID9sb2cgP3R4KSBbWz9lID9hICJKYW1lc1YuTWFjZG9uYWxkQHNvdGhlYnlzLmNvbSIgXyA/b3BdXV1dCiAgICAgICAoZC9sb2cgKGRiL2dldC1jb25uKSkgMTMxOTQxMzk1NjcxMTApCgogIChkL3EgJ1s6ZmluZCAocHVsbCA/ZSBbKl0pIC4gOmluICQgP2VdIChkL2hpc3RvcnkgKGRiL2dldC1kYikpIDE3NTkyMTg2MDY5MDI5KQoKICAoZC90LT50eCAzMzc5OCkKCiAgKGQvcSAnWzpmaW5kID9lID9hID92IDppbiAkIDp3aGVyZSBbP2UgP2EgP3YgMTMxOTQxMzk1NjcxMTAgP2FkZGVkXV0gKGQvaGlzdG9yeSAoZGIvZ2V0LWRiKSkpCg==</text>
+        <text>-</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
