@@ -42,8 +42,8 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1453130111044">
-        <mark key="[" line="147" column="0" />
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1453391896790">
+        <mark key="[" line="130" column="53" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
@@ -228,6 +228,11 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1452689753739">
         <mark key="[" line="17" column="20" />
       </file>
+      <file name="/a.regexp" timestamp="1453391788299">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
         <mark key="]" line="83" column="1" />
@@ -366,7 +371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRml4ZWREYXRhVGFibGUgLS0+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImxpYi9maXhlZC1kYXRhLXRhYmxlLm1pbi5jc3MiIG1lZGlhPSJzY3JlZW4iPgoKICAgIDwhLS0gTG9ncyAtLT4KICAgIDwhLS08c2NyaXB0IHNyYz0ibGliL2xvZ2dseS5taW4uanMiIGFzeW5jPjwvc2NyaXB0Pi0tPgo=</text>
+        <text encoding="base64">Um9ib3RvCg==</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -378,31 +383,31 @@
         <text encoding="base64">ICAgIChyZXNldCEgYWN0aXZpdHktdXNlci1pZCBuaWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRml4ZWREYXRhVGFibGUgLS0+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImxpYi9maXhlZC1kYXRhLXRhYmxlLm1pbi5jc3MiIG1lZGlhPSJzY3JlZW4iPgoKICAgIDwhLS0gTG9ncyAtLT4KICAgIDwhLS08c2NyaXB0IHNyYz0ibGliL2xvZ2dseS5taW4uanMiIGFzeW5jPjwvc2NyaXB0Pi0tPgo=</text>
+        <text encoding="base64">Um9ib3RvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iZmxhZy1pY29uL2Nzcy9mbGFnLWljb24ubWluLmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gRml4ZWREYXRhVGFibGUgLS0+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImxpYi9maXhlZC1kYXRhLXRhYmxlLm1pbi5jc3MiIG1lZGlhPSJzY3JlZW4iPgoKICAgIDwhLS0gTG9ncyAtLT4KICAgIDwhLS08c2NyaXB0IHNyYz0ibGliL2xvZ2dseS5taW4uanMiIGFzeW5jPjwvc2NyaXB0Pi0tPgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iZmxhZy1pY29uL2Nzcy9mbGFnLWljb24ubWluLmNzcyI+Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9ImpzL2NuYy5qcz97e1ZFUlNJT059fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>+</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>]</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>_</text>
       </register>
-      <register name="8" type="4">
-        <text>9</text>
-      </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>9</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
