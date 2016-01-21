@@ -59,7 +59,7 @@
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" timestamp="1453205890516">
         <mark key="[" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1453394902512">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1453397449751">
         <mark key="[" line="455" column="3" />
         <mark key="]" line="455" column="3" />
         <mark key="." line="455" column="3" />
@@ -110,7 +110,6 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/core.cljs" timestamp="1453136581199" />
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1453211584010">
         <mark key="[" line="193" column="53" />
         <mark key="]" line="284" column="19" />
@@ -164,6 +163,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1453397390052">
+        <mark key="[" line="503" column="39" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/organisations.cljs" timestamp="1453211888639">
         <mark key="[" line="41" column="33" />
         <mark key="]" line="64" column="0" />
@@ -215,11 +217,11 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/search.cljs" timestamp="1451576695709">
         <mark key="[" line="51" column="14" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1453395711094">
-        <mark key="[" line="80" column="141" />
-        <mark key="]" line="80" column="141" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" timestamp="1453397516492">
+        <mark key="[" line="80" column="133" />
+        <mark key="]" line="80" column="133" />
         <mark key="^" line="360" column="26" />
-        <mark key="." line="80" column="141" />
+        <mark key="." line="80" column="133" />
       </file>
       <file name="$USER_HOME$/w/cnc/Procfile" timestamp="1451414815210">
         <mark key="[" line="1" column="66" />
@@ -227,16 +229,14 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1452689753739">
         <mark key="[" line="17" column="20" />
       </file>
-      <file name="/a.regexp" timestamp="1453391788299">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/timbre.cljc" timestamp="1450187430488">
         <mark key="[" line="77" column="27" />
         <mark key="]" line="83" column="1" />
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/resources/www/index.html" timestamp="1453396680460">
+        <mark key="[" line="31" column="54" />
       </file>
       <file name="$USER_HOME$/w/cnc/package.json" timestamp="1451409141352">
         <mark key="[" line="1" column="11" />
@@ -370,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(:image/filepicker-u)</text>
+        <text>https://cdn.filestack.io/api/file/</text>
       </register>
       <register name="-" type="4">
-        <text>(:image/filepicker-u)</text>
+        <text>https://cdn.filestack.io/api/file/</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -382,31 +382,31 @@
         <text encoding="base64">ICAgIChyZXNldCEgYWN0aXZpdHktdXNlci1pZCBuaWwpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>(:image/filepicker-u)</text>
+        <text>https://cdn.filestack.io/api/file/</text>
       </register>
       <register name="2" type="4">
-        <text>rl art</text>
+        <text>(:image/filepicker-u)</text>
       </register>
       <register name="3" type="4">
-        <text>d1wtqaffaaj63z.cloudfront.net/images/R0000403.jpg</text>
+        <text>rl art</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>d1wtqaffaaj63z.cloudfront.net/images/R0000403.jpg</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>g</text>
       </register>
       <register name="7" type="4">
-        <text>m</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>m</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
