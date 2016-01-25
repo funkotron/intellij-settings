@@ -58,7 +58,7 @@
         <mark key="'" line="246" column="30" />
         <mark key="[" line="65" column="52" />
       </file>
-      <file name="/a.txt" timestamp="1453474409946">
+      <file name="/a.txt" timestamp="1453737350057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
@@ -69,8 +69,10 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/core.cljs" timestamp="1453736319755">
-        <mark key="[" line="349" column="25" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/core.cljs" timestamp="1453737491171">
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1453472496975">
         <mark key="[" line="244" column="46" />
@@ -304,8 +306,8 @@
       <jump line="345" column="20" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXNzaWduZWVzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDs7IERlZmF1bHQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXNzaWduZWVzIA==</text>
@@ -314,34 +316,34 @@
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KGRlZiBjb250YWN0CiAgWzpjb250YWN0L25hbWUgOmNvbnRhY3Qvc3VybmFtZV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29tcGxldGUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXNzaWduZWVzIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIDs7IERlZmF1bHQK</text>
       </register>
-      <register name="2" type="4">
-        <text>contact</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29tcGxldGUK</text>
       </register>
       <register name="3" type="4">
-        <text>contact</text>
+        <text encoding="base64">YXNzaWduZWVzIA==</text>
       </register>
       <register name="4" type="4">
         <text>contact</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CihkZWZuIHNpbmdsZS11c2VyLWxpc3QgW2wgYWxsLXVzZXJzIGxhYmVsXQogICkK</text>
+      <register name="5" type="4">
+        <text>contact</text>
       </register>
       <register name="6" type="4">
-        <text>assignees</text>
+        <text>contact</text>
       </register>
-      <register name="7" type="4">
-        <text>content</text>
+      <register name="7" type="2">
+        <text encoding="base64">CihkZWZuIHNpbmdsZS11c2VyLWxpc3QgW2wgYWxsLXVzZXJzIGxhYmVsXQogICkK</text>
       </register>
       <register name="8" type="4">
-        <text>medium</text>
+        <text>assignees</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>content</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</text>
