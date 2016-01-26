@@ -64,6 +64,10 @@
         <mark key="]" line="48" column="37" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1453469039507">
+        <mark key="'" line="246" column="30" />
+        <mark key="[" line="65" column="52" />
+      </file>
       <file name="/a.txt" timestamp="1453737350057">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,8 +120,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/buckets.cljc" timestamp="1453473895526">
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/buckets.cljc" timestamp="1453809755468">
         <mark key="'" line="36" column="23" />
+        <mark key="[" line="24" column="51" />
         <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1453742403016">
@@ -158,7 +163,8 @@
         <mark key="^" line="335" column="29" />
         <mark key="." line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" timestamp="1453395658322">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" timestamp="1453809745341">
+        <mark key="'" line="24" column="47" />
         <mark key="[" line="296" column="4" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/config.clj" timestamp="1452689740664">
@@ -216,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="21" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="191" column="5" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="243" column="31" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="273" column="43" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
@@ -316,6 +321,7 @@
       <jump line="345" column="20" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
       <jump line="622" column="21" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" />
       <jump line="435" column="4" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
+      <jump line="24" column="47" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
