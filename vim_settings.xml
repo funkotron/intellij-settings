@@ -91,11 +91,11 @@
         <mark key="." line="244" column="46" />
         <mark key="^" line="244" column="49" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453814679445">
-        <mark key="[" line="319" column="56" />
-        <mark key="]" line="319" column="56" />
-        <mark key="." line="319" column="56" />
-        <mark key="^" line="315" column="25" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453818615062">
+        <mark key="[" line="307" column="22" />
+        <mark key="]" line="307" column="44" />
+        <mark key="." line="307" column="22" />
+        <mark key="^" line="307" column="21" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -122,10 +122,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/buckets.cljc" timestamp="1453814342114">
+      <file name="$USER_HOME$/w/cnc/src/cljc/cnc/buckets.cljc" timestamp="1453818404373">
         <mark key="'" line="35" column="23" />
-        <mark key="[" line="20" column="23" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="19" />
         <mark key="^" line="30" column="23" />
+        <mark key="." line="17" column="19" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1453742403016">
         <mark key="'" line="435" column="4" />
@@ -327,10 +329,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ATniBxcFoToCWRQyuP0tUz</text>
+        <text>config/original-url
+                        (:image/s3-id image)</text>
       </register>
       <register name="-" type="4">
-        <text>ATniBxcFoToCWRQyuP0tUz</text>
+        <text>5360</text>
       </register>
       <register name="/" type="4">
         <text>Dealer</text>
@@ -339,31 +342,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
       </register>
       <register name="1" type="4">
-        <text>ATniBxcFoToCWRQyuP0tUz</text>
+        <text>config/original-url
+                        (:image/s3-id image)</text>
       </register>
       <register name="2" type="4">
+        <text>5360</text>
+      </register>
+      <register name="3" type="4">
+        <text>ATniBxcFoToCWRQyuP0tUz</text>
+      </register>
+      <register name="4" type="4">
         <text>s</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFs6dHIgezpiYWNrZ3JvdW5kLWNvbG9yIDp3aGl0ZX1dCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">KGQvdHJhbnNhY3QgKGRiL2dldC1jb25uKSBbe1s6ZGIvcmV0cmFjdCBbezpkYi9pZCAxNzU5MjE4NjA3NTE4NH1dXX1dKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmRiLmZuL3JldHJhY3RFbnRpdHkgMTc1OTIxODYwNzUxOTBdCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>90</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IChMb25kb24p</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0RlYWxlci9NdXNldW0vZw==</text>
