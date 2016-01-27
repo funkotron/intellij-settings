@@ -1,6 +1,6 @@
 <keymap version="1" name="adam" parent="Mac OS X 10.5+">
   <action id=":cursive.actions.paredit/backward">
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id=":cursive.actions.paredit/backward-down">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
@@ -22,14 +22,11 @@
   <action id=":cursive.actions.paredit/close-paren-and-newline">
     <keyboard-shortcut first-keystroke="shift alt 0" />
   </action>
-  <action id=":cursive.actions.paredit/close-square-and-newline">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-  </action>
   <action id=":cursive.actions.paredit/copy-as-kill">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id=":cursive.actions.paredit/forward">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id=":cursive.actions.paredit/forward-down">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -90,9 +87,6 @@
   <action id=":cursive.actions.paredit/wrap-quotes">
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
-  <action id=":cursive.actions.paredit/wrap-square">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-  </action>
   <action id=":cursive.repl.actions/execute-immediately" />
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta l" />
@@ -110,7 +104,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id=":cursive.repl.actions/sync-files">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
