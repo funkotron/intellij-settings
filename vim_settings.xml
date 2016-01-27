@@ -56,6 +56,9 @@
         <mark key="." line="622" column="21" />
         <mark key="^" line="622" column="35" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" timestamp="1453900521690">
+        <mark key="'" line="28" column="9" />
+      </file>
       <file name="/ClojureDebugFile.clj" timestamp="1452772087837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,8 +156,8 @@
       <file name="/Dummy.txt" timestamp="1450713056903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1453735340833">
-        <mark key="[" line="68" column="30" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1453900945695">
+        <mark key="[" line="48" column="38" />
         <mark key="]" line="65" column="49" />
         <mark key="." line="65" column="49" />
         <mark key="^" line="65" column="49" />
@@ -225,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="5" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="243" column="31" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="273" column="43" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="213" column="51" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
@@ -325,6 +327,7 @@
       <jump line="622" column="21" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" />
       <jump line="435" column="4" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
       <jump line="24" column="47" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
+      <jump line="28" column="9" filename="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -335,7 +338,7 @@
         <text>5360</text>
       </register>
       <register name="/" type="4">
-        <text>Dealer</text>
+        <text>edit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
@@ -373,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>edit</last-search>
       <last-offset />
-      <last-pattern>Dealer</last-pattern>
+      <last-pattern>edit</last-pattern>
       <last-replace>Museum</last-replace>
       <last-substitute>Dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>artwork-tit</entry>
         <entry>title</entry>
         <entry>all-art</entry>
         <entry>all</entry>
@@ -403,6 +405,7 @@
         <entry>form-section</entry>
         <entry>user</entry>
         <entry>Dealer</entry>
+        <entry>edit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvUHJvZ3Jlc3MvZw==</entry>
