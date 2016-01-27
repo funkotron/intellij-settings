@@ -23,9 +23,9 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453735535335">
-        <mark key="'" line="358" column="20" />
-        <mark key="[" line="120" column="27" />
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453906391635">
+        <mark key="'" line="115" column="20" />
+        <mark key="[" line="385" column="3" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
         <mark key="^" line="120" column="0" />
@@ -55,17 +55,17 @@
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" timestamp="1453205890516">
         <mark key="[" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/admin/core.cljs" timestamp="1453904932536">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/admin/core.cljs" timestamp="1453906616070">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1453739867180">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1453906082679">
         <mark key="'" line="622" column="21" />
-        <mark key="[" line="622" column="21" />
-        <mark key="]" line="622" column="21" />
-        <mark key="." line="622" column="21" />
-        <mark key="^" line="622" column="35" />
+        <mark key="[" line="173" column="10" />
+        <mark key="]" line="170" column="14" />
+        <mark key="." line="170" column="14" />
+        <mark key="^" line="170" column="14" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" timestamp="1453900521690">
         <mark key="'" line="28" column="9" />
@@ -108,11 +108,9 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1453472496975">
-        <mark key="[" line="244" column="46" />
-        <mark key="]" line="244" column="46" />
-        <mark key="." line="244" column="46" />
-        <mark key="^" line="244" column="49" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1453905598461" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1453906289449">
+        <mark key="[" line="250" column="37" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453818615062">
         <mark key="[" line="307" column="22" />
@@ -151,12 +149,6 @@
         <mark key="]" line="17" column="19" />
         <mark key="^" line="30" column="23" />
         <mark key="." line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1453742403016">
-        <mark key="'" line="435" column="4" />
-        <mark key="[" line="445" column="5" />
-        <mark key="]" line="443" column="0" />
-        <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/organisations.cljs" timestamp="1453211888639">
         <mark key="[" line="41" column="33" />
@@ -255,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="51" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="106" column="20" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="107" column="26" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="3" column="33" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
@@ -355,10 +346,11 @@
       <jump line="28" column="9" filename="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" />
       <jump line="12" column="33" filename="$USER_HOME$/w/cnc/project.clj" />
       <jump line="45" column="29" filename="$USER_HOME$/w/cnc/project.clj" />
+      <jump line="115" column="20" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtYXJ0d29yayAiYXJ0d29ya3MgZWRpdCIK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -370,32 +362,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtYXJ0d29yayAiYXJ0d29ya3MgZWRpdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLXZpZXctaGlnaC12YWx1ZS1jb250YWN0cyAiaGlnaCB2YWx1ZSBjb250YWN0cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWFjY2Vzcy1maW5hbmNpYWwgImZpbmFuY2lhbHMiCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLXZpZXctaGlnaC12YWx1ZS1jb250YWN0cyAiaGlnaCB2YWx1ZSBjb250YWN0cyIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWFjY2Vzcy12aXJnaW5zICJ2aXJnaW5zIgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>]</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>copied</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>config/original-url
                         (:image/s3-id image)</text>
-      </register>
-      <register name="8" type="4">
-        <text>5360</text>
-      </register>
-      <register name="9" type="4">
-        <text>ATniBxcFoToCWRQyuP0tUz</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
