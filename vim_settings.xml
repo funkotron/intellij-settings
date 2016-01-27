@@ -41,10 +41,10 @@
         <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/queries.cljc" timestamp="1449762164511">
-        <mark key="[" line="227" column="35" />
-        <mark key="]" line="227" column="35" />
-        <mark key="^" line="224" column="0" />
-        <mark key="." line="227" column="35" />
+        <mark key="[" line="291" column="35" />
+        <mark key="]" line="291" column="35" />
+        <mark key="^" line="288" column="0" />
+        <mark key="." line="291" column="35" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/autoupdate.js" timestamp="1450795637858">
         <mark key="[" line="35" column="0" />
@@ -82,11 +82,6 @@
         <mark key="." line="59" column="11" />
         <mark key="^" line="59" column="11" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1450355111725">
-        <mark key="[" line="532" column="0" />
-        <mark key="]" line="532" column="0" />
-        <mark key="." line="532" column="0" />
-      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/features.cljs" timestamp="1450714726806">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="24" />
@@ -103,7 +98,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1452170992593">
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1453920886452">
         <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1451495881831">
