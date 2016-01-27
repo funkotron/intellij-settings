@@ -14,7 +14,7 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/stock/purchase.cljs" timestamp="1452699826635">
         <mark key="[" line="26" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1453740915047">
+      <file name="/a.dummy" timestamp="1453904913159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1453904183647">
@@ -54,6 +54,11 @@
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" timestamp="1453205890516">
         <mark key="[" line="15" column="11" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/admin/core.cljs" timestamp="1453904932536">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1453739867180">
         <mark key="'" line="622" column="21" />
@@ -352,8 +357,8 @@
       <jump line="45" column="29" filename="$USER_HOME$/w/cnc/project.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -364,33 +369,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>a</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLXZpZXctaGlnaC12YWx1ZS1jb250YWN0cyAiaGlnaCB2YWx1ZSBjb250YWN0cyIK</text>
       </register>
-      <register name="3" type="4">
-        <text>copied</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWFjY2Vzcy12aXJnaW5zICJ2aXJnaW5zIgo=</text>
       </register>
       <register name="4" type="4">
+        <text>a</text>
+      </register>
+      <register name="5" type="4">
+        <text>]</text>
+      </register>
+      <register name="6" type="4">
+        <text>copied</text>
+      </register>
+      <register name="7" type="4">
         <text>config/original-url
                         (:image/s3-id image)</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>5360</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>ATniBxcFoToCWRQyuP0tUz</text>
-      </register>
-      <register name="7" type="4">
-        <text>s</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFs6dHIgezpiYWNrZ3JvdW5kLWNvbG9yIDp3aGl0ZX1dCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">KGQvdHJhbnNhY3QgKGRiL2dldC1jb25uKSBbe1s6ZGIvcmV0cmFjdCBbezpkYi9pZCAxNzU5MjE4NjA3NTE4NH1dXX1dKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
