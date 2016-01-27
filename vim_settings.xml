@@ -23,11 +23,11 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453906391635">
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453907752384">
         <mark key="'" line="115" column="20" />
-        <mark key="[" line="385" column="3" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="400" column="14" />
+        <mark key="]" line="400" column="14" />
+        <mark key="." line="400" column="14" />
         <mark key="^" line="120" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
@@ -349,11 +349,11 @@
       <jump line="115" column="20" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtYXJ0d29yayAiYXJ0d29ya3MgZWRpdCIK</text>
+      <register name="&quot;" type="4">
+        <text>:left</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>:left</text>
       </register>
       <register name="/" type="4">
         <text>1.6</text>
@@ -361,33 +361,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtYXJ0d29yayAiYXJ0d29ya3MgZWRpdCIK</text>
+      <register name="1" type="4">
+        <text>:left</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWFjY2Vzcy1maW5hbmNpYWwgImZpbmFuY2lhbHMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtYXJ0d29yayAiYXJ0d29ya3MgZWRpdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWFjY2Vzcy1maW5hbmNpYWwgImZpbmFuY2lhbHMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLXZpZXctaGlnaC12YWx1ZS1jb250YWN0cyAiaGlnaCB2YWx1ZSBjb250YWN0cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWVkaXQtY29udGFjdHMgImNvbnRhY3RzIGVkaXQiCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLXZpZXctaGlnaC12YWx1ZS1jb250YWN0cyAiaGlnaCB2YWx1ZSBjb250YWN0cyIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA6Y2FuLWFjY2Vzcy12aXJnaW5zICJ2aXJnaW5zIgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>a</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>]</text>
       </register>
-      <register name="8" type="4">
-        <text>copied</text>
-      </register>
       <register name="9" type="4">
-        <text>config/original-url
-                        (:image/s3-id image)</text>
+        <text>copied</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
