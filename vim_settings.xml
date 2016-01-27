@@ -17,6 +17,12 @@
       <file name="/a.dummy" timestamp="1453740915047">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1453904183647">
+        <mark key="'" line="45" column="29" />
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453735535335">
         <mark key="'" line="358" column="20" />
         <mark key="[" line="120" column="27" />
@@ -59,6 +65,11 @@
       <file name="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" timestamp="1453900521690">
         <mark key="'" line="28" column="9" />
       </file>
+      <file name="$USER_HOME$/w/cnc-data/build.boot" timestamp="1453904052498">
+        <mark key="[" line="44" column="7" />
+        <mark key="]" line="44" column="8" />
+        <mark key="." line="44" column="8" />
+      </file>
       <file name="/ClojureDebugFile.clj" timestamp="1452772087837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -73,6 +84,11 @@
       </file>
       <file name="/a.txt" timestamp="1453737350057">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc-data/project.clj" timestamp="1453904057599">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
@@ -190,6 +206,12 @@
         <mark key="." line="373" column="51" />
         <mark key="^" line="373" column="51" />
       </file>
+      <file name="$USER_HOME$/w/cnc-data/src/data/migration.clj" timestamp="1453903884735">
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="49" />
+        <mark key="^" line="47" column="49" />
+        <mark key="." line="47" column="49" />
+      </file>
       <file name="$USER_HOME$/w/cnc/Procfile" timestamp="1451414815210">
         <mark key="[" line="1" column="66" />
       </file>
@@ -228,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="31" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
-      <jump line="273" column="43" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="213" column="51" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="106" column="20" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="107" column="26" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
@@ -328,57 +348,58 @@
       <jump line="435" column="4" filename="$USER_HOME$/w/cnc/src/clj/styles/core.clj" />
       <jump line="24" column="47" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="28" column="9" filename="$USER_HOME$/w/cnc/src/clj/styles/views/tasks.clj" />
+      <jump line="12" column="33" filename="$USER_HOME$/w/cnc/project.clj" />
+      <jump line="45" column="29" filename="$USER_HOME$/w/cnc/project.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config/original-url
-                        (:image/s3-id image)</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>5360</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>edit</text>
+        <text>1.6</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
       </register>
       <register name="1" type="4">
+        <text>a</text>
+      </register>
+      <register name="2" type="4">
+        <text>]</text>
+      </register>
+      <register name="3" type="4">
+        <text>copied</text>
+      </register>
+      <register name="4" type="4">
         <text>config/original-url
                         (:image/s3-id image)</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>5360</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>ATniBxcFoToCWRQyuP0tUz</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>s</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFs6dHIgezpiYWNrZ3JvdW5kLWNvbG9yIDp3aGl0ZX1dCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">KGQvdHJhbnNhY3QgKGRiL2dldC1jb25uKSBbe1s6ZGIvcmV0cmFjdCBbezpkYi9pZCAxNzU5MjE4NjA3NTE4NH1dXX1dKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbOmRiLmZuL3JldHJhY3RFbnRpdHkgMTc1OTIxODYwNzUxOTBdCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>90</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0RlYWxlci9NdXNldW0vZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>edit</last-search>
+      <last-search>1.6</last-search>
       <last-offset />
-      <last-pattern>edit</last-pattern>
+      <last-pattern>1.6</last-pattern>
       <last-replace>Museum</last-replace>
       <last-substitute>Dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -386,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
         <entry>all-art</entry>
         <entry>all</entry>
         <entry encoding="base64">XDxhbGxcPg==</entry>
@@ -406,6 +426,7 @@
         <entry>user</entry>
         <entry>Dealer</entry>
         <entry>edit</entry>
+        <entry>1.6</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvUHJvZ3Jlc3MvZw==</entry>
@@ -424,10 +445,10 @@
         <entry encoding="base64">JzwsJz5zL2NvbG91ci9iZy9n</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2hlaWdodC9n</entry>
         <entry encoding="base64">JzwsJz5zL1xuLy9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1RyYXkvTWVudS9n</entry>
         <entry encoding="base64">JzwsJz5EZWFsZXIvTXVzZXVtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0RlYWxlci9NdXNldW0vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
