@@ -14,12 +14,12 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453985773635">
-        <mark key="'" line="119" column="20" />
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
-        <mark key="^" line="410" column="2" />
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453986740775">
+        <mark key="'" line="57" column="10" />
+        <mark key="[" line="75" column="3" />
+        <mark key="]" line="57" column="10" />
+        <mark key="." line="57" column="10" />
+        <mark key="^" line="57" column="10" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
         <mark key="[" line="4" column="19" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="26" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="3" column="33" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="152" column="19" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
       <jump line="153" column="3" filename="$USER_HOME$/w/cnc/src/clj/cnc/db.clj" />
@@ -282,6 +281,7 @@
       <jump line="45" column="29" filename="$USER_HOME$/w/cnc/project.clj" />
       <jump line="115" column="20" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
       <jump line="76" column="6" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
+      <jump line="57" column="10" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
