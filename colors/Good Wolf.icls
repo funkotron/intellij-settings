@@ -1,17 +1,18 @@
 <scheme name="Good Wolf" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="PragmataPro" />
   <colors>
     <option name="CARET_COLOR" value="a9dff" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1b1a" />
-    <option name="GUTTER_BACKGROUND" value="998f84" />
+    <option name="GUTTER_BACKGROUND" value="1c1b1a" />
     <option name="INDENT_GUIDE" value="" />
+    <option name="LINE_NUMBERS_COLOR" value="88633f" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
+    <option name="SELECTION_BACKGROUND" value="eb9b24" />
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
@@ -64,8 +65,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff4f79" />
-        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+        <option name="FOREGROUND" value="1c1b1a" />
+        <option name="BACKGROUND" value="aeee00" />
+        <option name="ERROR_STRIPE_COLOR" value="ff2c4b" />
       </value>
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
@@ -123,6 +125,14 @@
       <value>
         <option name="FOREGROUND" value="f8f6f2" />
         <option name="BACKGROUND" value="1c1b1a" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f2f0ec" />
+        <option name="BACKGROUND" value="88633f" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
