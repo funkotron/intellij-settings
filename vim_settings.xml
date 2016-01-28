@@ -76,12 +76,22 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" timestamp="1453991739071">
+        <mark key="[" line="195" column="23" />
+        <mark key="]" line="195" column="23" />
+        <mark key="." line="195" column="23" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/core.cljs" timestamp="1453737491171">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1453905598461" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1453992213086">
+        <mark key="[" line="164" column="25" />
+        <mark key="]" line="164" column="13" />
+        <mark key="." line="164" column="13" />
+        <mark key="^" line="164" column="13" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1453985428302">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -92,8 +102,8 @@
         <mark key="]" line="141" column="23" />
         <mark key="." line="141" column="23" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/transport.cljs" timestamp="1453917261265">
-        <mark key="[" line="90" column="39" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/transport.cljs" timestamp="1453992622031">
+        <mark key="[" line="301" column="49" />
         <mark key="]" line="90" column="38" />
         <mark key="." line="90" column="38" />
         <mark key="^" line="90" column="38" />
@@ -285,43 +295,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZmhhbmRsZXIgbmV3LXRyYW5zcG9ydCBbcmVxXSAoc2Vzc2lvbi9wdXQhIDpjdXJyZW50LXBhZ2UgIyd0cmFuc3BvcnQvbmV3LXBhZ2UpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>artists</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzpkYi5mbi9yZXRyYWN0RW50aXR5IDE3NTkyMTg2MDc1MTkwXQo=</text>
+        <text encoding="base64">KGRlZmhhbmRsZXIgbmV3LXRyYW5zcG9ydCBbcmVxXSAoc2Vzc2lvbi9wdXQhIDpjdXJyZW50LXBhZ2UgIyd0cmFuc3BvcnQvbmV3LXBhZ2UpKQo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>end</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAocHJpbnRsbiAiaGVsbG8iKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>png</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>medium</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>small</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgKHJlbW92ZS13YXRjaCB1c2VycyA6dXNlcnMpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKGJhc2ljcy9jbGVhcmZpeCA6LmFkbWluLXVzZXItcm93KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
