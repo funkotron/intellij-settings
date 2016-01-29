@@ -31,10 +31,11 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1454066300425">
-        <mark key="[" line="146" column="14" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1454066963329">
+        <mark key="[" line="146" column="42" />
+        <mark key="]" line="146" column="42" />
+        <mark key="." line="146" column="42" />
+        <mark key="^" line="152" column="1" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/admin/core.cljs" timestamp="1453909219932">
         <mark key="[" line="20" column="14" />
@@ -282,11 +283,11 @@
       <jump line="57" column="10" filename="$USER_HOME$/w/cnc/src/clj/styles/components.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoPSBlbWFpbCkK</text>
+      <register name="&quot;" type="4">
+        <text>email</text>
       </register>
       <register name="-" type="4">
-        <text>artworks</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>artists</text>
@@ -294,32 +295,32 @@
       <register name="0" type="4">
         <text>]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoPSBlbWFpbCkK</text>
+      <register name="1" type="4">
+        <text>email</text>
       </register>
       <register name="2" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAoPSBlbWFpbCkK</text>
+      </register>
+      <register name="4" type="4">
         <text>artworks</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>end</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAocHJpbnRsbiAiaGVsbG8iKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>png</text>
       </register>
-      <register name="7" type="4">
-        <text>medium</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">KHJlc3RhcnQgOnN0YWdpbmcpCg==</text>
-      </register>
       <register name="9" type="4">
-        <text>small</text>
+        <text>medium</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
