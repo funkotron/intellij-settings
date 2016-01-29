@@ -31,6 +31,11 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1454071603027">
+        <mark key="[" line="150" column="85" />
+        <mark key="]" line="150" column="85" />
+        <mark key="." line="150" column="85" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/admin/core.cljs" timestamp="1453909219932">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="16" column="0" />
@@ -79,12 +84,6 @@
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1453996077174">
-        <mark key="[" line="164" column="25" />
-        <mark key="]" line="164" column="13" />
-        <mark key="." line="164" column="13" />
-        <mark key="^" line="164" column="13" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1454070820840">
         <mark key="[" line="98" column="45" />
@@ -278,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>email</text>
+        <text>second</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>second</text>
       </register>
       <register name="/" type="4">
         <text>artists</text>
@@ -290,31 +289,31 @@
         <text>]</text>
       </register>
       <register name="1" type="4">
-        <text>email</text>
+        <text>second</text>
       </register>
       <register name="2" type="4">
+        <text>email</text>
+      </register>
+      <register name="3" type="4">
         <text>&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAoPSBlbWFpbCkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>artworks</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>end</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAocHJpbnRsbiAiaGVsbG8iKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>png</text>
-      </register>
       <register name="9" type="4">
-        <text>medium</text>
+        <text>png</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
