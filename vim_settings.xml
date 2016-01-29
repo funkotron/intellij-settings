@@ -31,12 +31,7 @@
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1453984138659">
-        <mark key="[" line="130" column="47" />
-        <mark key="]" line="130" column="47" />
-        <mark key="^" line="130" column="76" />
-        <mark key="." line="130" column="47" />
-      </file>
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1454064496014" />
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/admin/core.cljs" timestamp="1453909219932">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="16" column="0" />
@@ -284,7 +279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>artworks</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
         <text>artworks</text>
@@ -292,8 +287,8 @@
       <register name="/" type="4">
         <text>artists</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KGRlZmhhbmRsZXIgbmV3LXRyYW5zcG9ydCBbcmVxXSAoc2Vzc2lvbi9wdXQhIDpjdXJyZW50LXBhZ2UgIyd0cmFuc3BvcnQvbmV3LXBhZ2UpKQo=</text>
+      <register name="0" type="4">
+        <text>]</text>
       </register>
       <register name="1" type="4">
         <text>artworks</text>
