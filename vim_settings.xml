@@ -8,9 +8,9 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1453986740775">
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1454347785005">
         <mark key="'" line="57" column="10" />
-        <mark key="[" line="75" column="3" />
+        <mark key="[" line="176" column="37" />
         <mark key="]" line="57" column="10" />
         <mark key="." line="57" column="10" />
         <mark key="^" line="57" column="10" />
@@ -26,9 +26,9 @@
         <mark key="." line="71" column="8" />
       </file>
       <file name="$USER_HOME$/w/cnc-data/src/data/schema.clj" timestamp="1454343163679">
-        <mark key="[" line="482" column="48" />
-        <mark key="]" line="492" column="0" />
-        <mark key="." line="492" column="0" />
+        <mark key="[" line="483" column="48" />
+        <mark key="]" line="493" column="0" />
+        <mark key="." line="493" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1454085237745">
         <mark key="[" line="139" column="55" />
@@ -41,11 +41,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1453992950728">
-        <mark key="'" line="618" column="21" />
-        <mark key="[" line="645" column="52" />
-        <mark key="]" line="170" column="14" />
-        <mark key="." line="170" column="14" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" timestamp="1454347326535">
+        <mark key="'" line="603" column="21" />
         <mark key="^" line="170" column="14" />
       </file>
       <file name="$USER_HOME$/w/cnc-data/build.boot" timestamp="1453904052498">
@@ -66,9 +63,6 @@
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" timestamp="1453983872814">
-        <mark key="[" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/electron/core.cljs" timestamp="1451475132067">
         <mark key="[" line="19" column="64" />
@@ -95,22 +89,16 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1453818615062">
-        <mark key="[" line="307" column="22" />
-        <mark key="]" line="307" column="44" />
-        <mark key="." line="307" column="22" />
-        <mark key="^" line="307" column="21" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454347157928">
+        <mark key="[" line="199" column="101" />
+        <mark key="]" line="308" column="44" />
+        <mark key="." line="308" column="22" />
+        <mark key="^" line="308" column="21" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1453383109796">
         <mark key="[" line="141" column="8" />
         <mark key="]" line="141" column="23" />
         <mark key="." line="141" column="23" />
-      </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/transport.cljs" timestamp="1454343820327">
-        <mark key="[" line="268" column="131" />
-        <mark key="]" line="313" column="36" />
-        <mark key="." line="313" column="36" />
-        <mark key="^" line="313" column="36" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/server.clj" timestamp="1450793649710">
         <mark key="[" line="26" column="6" />
@@ -173,17 +161,17 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1454083897641">
-        <mark key="[" line="346" column="104" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1454348235430">
+        <mark key="[" line="428" column="25" />
         <mark key="]" line="465" column="131" />
         <mark key="^" line="465" column="123" />
         <mark key="." line="465" column="123" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/systems.clj" timestamp="1454344273975">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="41" column="66" />
-        <mark key="^" line="41" column="66" />
-        <mark key="." line="41" column="66" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/systems.clj" timestamp="1454347086183">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="39" column="66" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/manifest.json" timestamp="1450716079206">
         <mark key="[" line="13" column="19" />
@@ -295,43 +283,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGRlZiB0cmFuc3BvcnQtZnJlZWZvcm0KICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIFtjL2VkaXQtYWRkcmVzcyAoci9jdXJzb3IgcmEgWzp0cmFuc3BvcnQvYWRkcmVzc10pXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>artwork</text>
       </register>
       <register name="/" type="4">
         <text>new-transport</text>
       </register>
-      <register name="0" type="4">
-        <text>}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIFtjL2xvY2F0aW9uLWRldGFpbHMgKHIvY3Vyc29yIHJhIFs6bG9jYXRpb24vZGV0YWlsc10pXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGRlZiB0cmFuc3BvcnQtZnJlZWZvcm0KICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIFtjL2VkaXQtYWRkcmVzcyAoci9jdXJzb3IgcmEgWzp0cmFuc3BvcnQvYWRkcmVzc10pXQo=</text>
       </register>
       <register name="2" type="4">
-        <text>}</text>
+        <text>artwork</text>
       </register>
       <register name="3" type="4">
-        <text>useum}</text>
+        <text>innerHeigh</text>
       </register>
       <register name="4" type="4">
-        <text>ico</text>
+        <text encoding="base64">CihkZWZuIG5ldy1hZGRyZXNzIFthZGRyXQogIChsZXQgW1tjb3VudHJpZXMgY2xvc2VdIChzdGF0ZS9jb3VudHJpZXMpCiAgICAgICAgZWRpdC1hZGRyZXNzIChyL2F0b20gZmFsc2UpCiAgICAgICAgZWRpdC1jb3VudHJ5PyAoci9hdG9tIGZhbHNlKV0KICAgIChyaC9jbG9zZS13aXRoCiAgICAgIGNsb3NlCiAgICAgIChmbiBbYWRkcl0KICAgICAgICAoaWYgKG9yIEBlZGl0LWFkZHJlc3MgKG5vdCBAYWRkcikpKQogICAgICAgIFs6ZGl2LmVkaXQtYWRkcmVzcy5lZGl0YWJsZS1saXN0LWl0ZW0KICAgICAgICAgW2ZjL3NlbGVjdCAoci9jdXJzb3IgYWRkciBbOmFkZHJlc3MvdHlwZV0pICJ0eXBlIiBbOmhvbWUgOmJ1c2luZXNzXSA6b3AtPmlkIHN0ciA6b3AtPnN0ciBuYW1lIDpzdHItPmlkIHN0cl0KICAgICAgICAgW2ZjL3RleHQtaW5wdXRzIGFkZHIKICAgICAgICAgICJGaXJzdCBsaW5lIiBbOmFkZHJlc3MvZmlyc3QtbGluZV0KICAgICAgICAgICJTZWNvbmQgbGluZSIgWzphZGRyZXNzL3NlY29uZC1saW5lXQogICAgICAgICAgIkNpdHkiIFs6YWRkcmVzcy9jaXR5XQogICAgICAgICAgIlN0YXRlIiBbOmFkZHJlc3Mvc3RhdGVdCiAgICAgICAgICAiWmlwIENvZGUiIFs6YWRkcmVzcy96aXAtY29kZV1dCiAgICAgICAgIChpZiAob3IgQGVkaXQtY291bnRyeT8gKG5vdCAoOmFkZHJlc3MvY291bnRyeSBAYWRkcikpKQogICAgICAgICAgIFtmYy9taW5pLWVudGl0eS1zZWFyY2gKICAgICAgICAgICAgImNvdW50cnkiIEBjb3VudHJpZXMKICAgICAgICAgICAgKGZuIFtxdWVyeS1zdHJpbmcgY10gKHV0aWwvaWdub3JlLWNhc2Utc3Vicz8gcXVlcnktc3RyaW5nIChzdHIgKDpjb3VudHJ5L2tleSBjKSAiICIgKDpjb3VudHJ5L25hbWUgYykpKSkKICAgICAgICAgICAgZGlzcGxheS1jb3VudHJ5CiAgICAgICAgICAgIChmbiBbY10KICAgICAgICAgICAgICAoc3dhcCEgYWRkciBhc3NvYyA6YWRkcmVzcy9jb3VudHJ5IGMpCiAgICAgICAgICAgICAgKHJlc2V0ISBlZGl0LWNvdW50cnk/IGZhbHNlKSldCiAgICAgICAgICAgWzpkaXYKICAgICAgICAgICAgWzpzcGFuLmNvdW50cnktbmFtZSAoOmNvdW50cnkvbmFtZSAoOmFkZHJlc3MvY291bnRyeSBAYWRkcikpXQogICAgICAgICAgICBbbXVpL0ljb25CdXR0b24gezppY29uQ2xhc3NOYW1lICJtYXRlcmlhbC1pY29ucyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6b24tY2xpY2sgICAgICAoaGFuZGxlci1mbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHN3YXAhIGVkaXQtY291bnRyeT8gbm90KSl9ICJlZGl0Il1dKV0KICAgICAgICA7OyBFZGl0IGFkZHJlc3MgYnV0dG9uCiAgICAgICAgWzpkaXYKICAgICAgICAgW2FkZHJlc3MgQGFkZHJdCiAgICAgICAgIFttdWkvSWNvbkJ1dHRvbiB7Omljb25DbGFzc05hbWUgIm1hdGVyaWFsLWljb25zIgogICAgICAgICAgICAgICAgICAgICAgICAgIDpvbi1jbGljayAgICAgIChoYW5kbGVyLWZuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc3dhcCEgZWRpdC1hZGRyZXNzPyBub3QpKX0gImVkaXQiXV0pKSkp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICBbIi9uZXcvOmFydHdvcmstZGItaWQiIG5ldy10cmFuc3BvcnQtZm9yLWFydHdvcmtdCg==</text>
+        <text encoding="base64">KGRlZiB0cmFuc3BvcnQtZnJlZWZvcm0KICApCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDtbbWRsL2xpbmsgezpvcHRpb25zIFs6cmFpc2VkIDpyaXBwbGUgOmNvbG9yZWRdCiAgICAgICAgICA7ICAgICAgICAgICA6aHJlZiAgICAobmF2L2xpbmsgIi90cmFuc3BvcnQvbmV3LyIgaWQpfQogICAgICAgICAgOyAiZWRpdCJdCg==</text>
+      <register name="6" type="4">
+        <text>}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOzsgSWYgd2UgaGF2ZSBjb21lIGZyb20gYW4gYXJ0d29yayBwYWdlLCBpbml0aWFsaXNlIHdpdGggdGhhdCBhcnR3b3JrIGFuZCByZW1vdmUgaXQgZnJvbSBzdGF0ZQo=</text>
+      <register name="7" type="4">
+        <text>useum}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIFs6ZGl2IChwci1zdHIgQChyL2N1cnNvciByYSBbOnRyYW5zcG9ydC9hcnR3b3Jrc10pKV0K</text>
+      <register name="8" type="4">
+        <text>ico</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIFs6ZGl2IChwci1zdHIgQChyL2N1cnNvciByYSBbOnRyYW5zcG9ydC9hcnR3b3Jrc10pKV0K</text>
+        <text encoding="base64">ICAgICBbIi9uZXcvOmFydHdvcmstZGItaWQiIG5ldy10cmFuc3BvcnQtZm9yLWFydHdvcmtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
