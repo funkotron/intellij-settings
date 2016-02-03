@@ -40,7 +40,6 @@
         <mark key="." line="220" column="74" />
       </file>
       <file name="$USER_HOME$/w/cnc-data/src/data/schema.clj" timestamp="1454504345263">
-        <mark key="[" line="490" column="4" />
         <mark key="]" line="487" column="0" />
         <mark key="." line="487" column="0" />
       </file>
@@ -241,11 +240,11 @@
         <mark key="^" line="465" column="123" />
         <mark key="." line="465" column="123" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/systems.clj" timestamp="1454347086183">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="39" column="66" />
-        <mark key="." line="34" column="24" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/systems.clj" timestamp="1454508996009">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/manifest.json" timestamp="1450716079206">
         <mark key="[" line="13" column="19" />
@@ -359,11 +358,11 @@
       <jump line="163" column="66" filename="$USER_HOME$/w/cnc/project.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2FsZXJ0ICg6aW1hZ2UvcHVibGlzaGVkPyAobnRoICg6YXJ0d29yay9pbWFnZXMgQGFydCkgaW5kZXgpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>artwork</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>artwork</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -371,32 +370,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICh3aGVuIChpZGVudGljYWw/ICg6ZGIvaWQgaW1hZ2UpICg6ZGIvaWQgKDphcnR3b3JrL21haW4taW1hZ2UgQGFydCkpKSBbOnNwYW4ua2V5aW1hZ2UgWzppLm1hdGVyaWFsLWljb25zICJzdGFyIl0gIm1haW4iXSkK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>artwork</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2FsZXJ0ICg6aW1hZ2UvcHVibGlzaGVkPyAobnRoICg6YXJ0d29yay9pbWFnZXMgQGFydCkgaW5kZXgpKSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>main</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAoZGVmIG1lbWJlcnMKCiAgICAobGV0IFttcyAoZm9yIFttICg6bGlzdC9pdGVtcyAoZC90b3VjaCAoZC9lbnRpdHkgKGRiL2dldC1kYikgMTc1OTIxODYwODU5NDQpKSldCiAgICAgICAgICAgICAgIChkL3RvdWNoIG0pKV0KICAgICAgKFRocmVhZC9zbGVlcCAxMDAwKQogICAgICAoZm9yIFttIG1zXQogICAgICAgIChwcm4gbSkKCiAgICAgICAgOyhhc3NvYyBtIDpjb250YWN0L2JyYW5kcyBbezpicmFuZC9rZXkgOmJyYW5kLWtleS9jb2xuYWdoaX1dKSkKICAgICAgICAgICAgICApCgogICAgKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBtZW1iZXJzCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(d/q '[:find [?e] :where [?e :brand]] (db/get-db))</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>contact</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>t</text>
       </register>
-      <register name="8" type="4">
-        <text>c</text>
-      </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
