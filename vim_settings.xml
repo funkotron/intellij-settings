@@ -102,8 +102,11 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" timestamp="1453983872814">
-        <mark key="[" line="25" column="29" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" timestamp="1454500301137">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="145" column="50" />
+        <mark key="^" line="145" column="50" />
+        <mark key="." line="145" column="50" />
       </file>
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
