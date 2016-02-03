@@ -131,11 +131,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454503781158">
-        <mark key="[" line="412" column="25" />
-        <mark key="]" line="410" column="146" />
-        <mark key="." line="410" column="0" />
-        <mark key="^" line="412" column="24" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454505426232">
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="." line="332" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -361,7 +360,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICh3aGVuIChpZGVudGljYWw/ICg6ZGIvaWQgaW1hZ2UpICg6ZGIvaWQgKDphcnR3b3JrL21haW4taW1hZ2UgQGFydCkpKSBbOnNwYW4ua2V5aW1hZ2UgWzppLm1hdGVyaWFsLWljb25zICJzdGFyIl0gIm1haW4iXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2FsZXJ0ICg6aW1hZ2UvcHVibGlzaGVkPyAobnRoICg6YXJ0d29yay9pbWFnZXMgQGFydCkgaW5kZXgpKSkK</text>
       </register>
       <register name="-" type="4">
         <text>main</text>
@@ -372,32 +371,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICh3aGVuIChpZGVudGljYWw/ICg6ZGIvaWQgaW1hZ2UpICg6ZGIvaWQgKDphcnR3b3JrL21haW4taW1hZ2UgQGFydCkpKSBbOnNwYW4ua2V5aW1hZ2UgWzppLm1hdGVyaWFsLWljb25zICJzdGFyIl0gIm1haW4iXSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGpzL2FsZXJ0ICg6aW1hZ2UvcHVibGlzaGVkPyAobnRoICg6YXJ0d29yay9pbWFnZXMgQGFydCkgaW5kZXgpKSkK</text>
+      </register>
+      <register name="2" type="4">
         <text>main</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAoZGVmIG1lbWJlcnMKCiAgICAobGV0IFttcyAoZm9yIFttICg6bGlzdC9pdGVtcyAoZC90b3VjaCAoZC9lbnRpdHkgKGRiL2dldC1kYikgMTc1OTIxODYwODU5NDQpKSldCiAgICAgICAgICAgICAgIChkL3RvdWNoIG0pKV0KICAgICAgKFRocmVhZC9zbGVlcCAxMDAwKQogICAgICAoZm9yIFttIG1zXQogICAgICAgIChwcm4gbSkKCiAgICAgICAgOyhhc3NvYyBtIDpjb250YWN0L2JyYW5kcyBbezpicmFuZC9rZXkgOmJyYW5kLWtleS9jb2xuYWdoaX1dKSkKICAgICAgICAgICAgICApCgogICAgKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBtZW1iZXJzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>(d/q '[:find [?e] :where [?e :brand]] (db/get-db))</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>contact</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
-      </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>c</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
