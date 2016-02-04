@@ -123,12 +123,8 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454604288824">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454606372307">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="368" column="25" />
-        <mark key="]" line="330" column="33" />
-        <mark key="." line="330" column="33" />
-        <mark key="^" line="330" column="143" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
@@ -357,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assoc</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>assoc</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5raW5nXD4=</text>
@@ -369,31 +365,31 @@
         <text encoding="base64">ICAiU3dhcCB0aGUgZW50aXR5IHdpdGggZ2l2ZW4gaWQgd2l0aCB0aGUgc3VjY2Vzc2l2ZSByYW5rZWQgaXRlbSBpbiB0aGUgcmFua3MgYXRvbSBycyIK</text>
       </register>
       <register name="1" type="4">
+        <text>index</text>
+      </register>
+      <register name="2" type="4">
         <text>assoc</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIChsb2cvZGVidWcgIk5FWFRSQU5LSUQiIG5leHQtcmFuay1pZCkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>]</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDteezprZXkgKHN0ciBhcnR3b3JrLWltYWdlLWluZGV4ICg6ZGIvaWQgaW1hZ2UpKX0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>(= path :artwork/images)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>cursor</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>successive</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGRlYnVnICJSQU5YIiBAcnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
