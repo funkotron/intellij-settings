@@ -99,9 +99,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454592746601">
-        <mark key="i" line="411" column="64" />
-        <mark key="[" line="434" column="39" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454594109287">
+        <mark key="[" line="368" column="9" />
+        <mark key="]" line="368" column="9" />
+        <mark key="." line="368" column="9" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ranking.cljs" timestamp="1454590058238">
         <mark key="[" line="45" column="42" />
@@ -293,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
+        <text>cursor</text>
       </register>
       <register name="-" type="4">
-        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
+        <text>cursor</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -305,31 +306,31 @@
         <text encoding="base64">ICAiU3dhcCB0aGUgZW50aXR5IHdpdGggZ2l2ZW4gaWQgd2l0aCB0aGUgc3VjY2Vzc2l2ZSByYW5rZWQgaXRlbSBpbiB0aGUgcmFua3MgYXRvbSBycyIK</text>
       </register>
       <register name="1" type="4">
-        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
+        <text>cursor</text>
       </register>
       <register name="2" type="4">
+        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
+      </register>
+      <register name="3" type="4">
         <text>successive</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGRlYnVnICJSQU5YIiBAcnMpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAoZGVidWcgIkZXRCIgaW5kZXggbmV4dC1yYW5rIG5leHQtcmFuay1pZCkK</text>
-      </register>
-      <register name="5" type="4">
-        <text>@</text>
       </register>
       <register name="6" type="4">
         <text>@</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF8gKGRlYnVnICJJRElNRyIgaWQtPmltZykK</text>
+      <register name="7" type="4">
+        <text>@</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF8gKGRlYnVnICJBSU5ERVgiIGFpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF8gKGRlYnVnICJJRElNRyIgaWQtPmltZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF8gKGRlYnVnICJPUkRFUkVESU1BR0VTOiIgKGZpcnN0IG9yZGVyZWQtaW1hZ2VzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIF8gKGRlYnVnICJBSU5ERVgiIGFpbmRleCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
