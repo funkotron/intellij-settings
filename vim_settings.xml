@@ -99,10 +99,19 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454597296243">
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454602165967">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="403" column="24" />
+        <mark key="]" line="329" column="33" />
+        <mark key="." line="329" column="33" />
+        <mark key="^" line="329" column="143" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ranking.cljs" timestamp="1454601875475">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1454519079635">
         <mark key="]" line="139" column="23" />
@@ -185,10 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="46" filename="$USER_HOME$/w/unicorn/src/unicorn/client/app.cljs" />
-      <jump line="55" column="27" filename="$USER_HOME$/w/unicorn/src/unicorn/client/app.cljs" />
-      <jump line="161" column="28" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
-      <jump line="19" column="12" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
       <jump line="37" column="3" filename="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" />
       <jump line="24" column="32" filename="$USER_HOME$/w/lib/ws-ldn-2/src/clj/ws_ldn_2/day1/async.clj" />
       <jump line="45" column="0" filename="$USER_HOME$/w/unicorn/src/unicorn/client/app.cljs" />
@@ -285,55 +290,59 @@
       <jump line="445" column="97" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="438" column="63" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
       <jump line="0" column="0" filename="/REPL.clj" />
+      <jump line="60" column="8" filename="$USER_HOME$/w/cnc/src/cljs/cnc/ranking.cljs" />
+      <jump line="33" column="0" filename="$USER_HOME$/w/cnc/src/cljs/cnc/ranking.cljs" />
+      <jump line="329" column="78" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
+      <jump line="24" column="29" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>assoc</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>assoc</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text encoding="base64">XDxyYW5raW5nXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiU3dhcCB0aGUgZW50aXR5IHdpdGggZ2l2ZW4gaWQgd2l0aCB0aGUgc3VjY2Vzc2l2ZSByYW5rZWQgaXRlbSBpbiB0aGUgcmFua3MgYXRvbSBycyIK</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text>assoc</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDteezprZXkgKHN0ciBhcnR3b3JrLWltYWdlLWluZGV4ICg6ZGIvaWQgaW1hZ2UpKX0K</text>
+        <text encoding="base64">ICAgIChsb2cvZGVidWcgIk5FWFRSQU5LSUQiIG5leHQtcmFuay1pZCkK</text>
       </register>
       <register name="3" type="4">
-        <text>(= path :artwork/images)</text>
+        <text>]</text>
       </register>
-      <register name="4" type="4">
-        <text>cursor</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDteezprZXkgKHN0ciBhcnR3b3JrLWltYWdlLWluZGV4ICg6ZGIvaWQgaW1hZ2UpKX0K</text>
       </register>
       <register name="5" type="4">
-        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
+        <text>(= path :artwork/images)</text>
       </register>
       <register name="6" type="4">
+        <text>cursor</text>
+      </register>
+      <register name="7" type="4">
+        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
+      </register>
+      <register name="8" type="4">
         <text>successive</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKGRlYnVnICJSQU5YIiBAcnMpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAoZGVidWcgIkZXRCIgaW5kZXggbmV4dC1yYW5rIG5leHQtcmFuay1pZCkK</text>
-      </register>
-      <register name="9" type="4">
-        <text>@</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search encoding="base64">XDxyYW5raW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern encoding="base64">XDxyYW5raW5nXD4=</last-pattern>
       <last-replace>Museum</last-replace>
       <last-substitute>Dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -341,7 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def</entry>
         <entry>width</entry>
         <entry>commen</entry>
         <entry>\n</entry>
@@ -361,6 +369,7 @@
         <entry>transpor</entry>
         <entry>new-transport</entry>
         <entry>data</entry>
+        <entry encoding="base64">XDxyYW5raW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvUHJvZ3Jlc3MvZw==</entry>
