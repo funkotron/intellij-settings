@@ -97,13 +97,13 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454521792931">
-        <mark key="'" line="451" column="97" />
-        <mark key="i" line="435" column="64" />
-        <mark key="[" line="453" column="65" />
-        <mark key="]" line="453" column="89" />
-        <mark key="." line="453" column="89" />
-        <mark key="^" line="453" column="89" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454583663950">
+        <mark key="'" line="454" column="97" />
+        <mark key="i" line="438" column="64" />
+        <mark key="[" line="421" column="33" />
+        <mark key="]" line="424" column="48" />
+        <mark key="." line="424" column="48" />
+        <mark key="^" line="424" column="48" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljc/cnc/utils.cljc" timestamp="1454519079635">
         <mark key="]" line="139" column="23" />
