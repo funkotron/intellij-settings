@@ -20,6 +20,12 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1454416789317">
+        <mark key="'" line="57" column="10" />
+        <mark key="]" line="57" column="10" />
+        <mark key="." line="57" column="10" />
+        <mark key="^" line="57" column="10" />
+      </file>
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.json" timestamp="1450790864297">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="16" column="12" />
@@ -123,18 +129,19 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454606372307">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454928687781">
         <mark key="'" line="24" column="29" />
+        <mark key="]" line="325" column="23" />
+        <mark key="^" line="325" column="23" />
+        <mark key="." line="325" column="23" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ranking.cljs" timestamp="1454601875475">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ranking.cljs" timestamp="1454928435655">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1452708461973">
         <mark key="[" line="30" column="0" />
@@ -352,8 +359,8 @@
       <jump line="24" column="29" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PT09PT09PQogICg6cmVxdWlyZSBbY25jLnV0aWxzIDphcyB1dGlsXSkpCj4+Pj4+Pj4gRXh0cmFjdCByYW5rLWl0ZW1zIGZuICYgT25seSByYW5rIHRoZSBhcnR3b3JrcyB0YWIK</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -364,32 +371,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAiU3dhcCB0aGUgZW50aXR5IHdpdGggZ2l2ZW4gaWQgd2l0aCB0aGUgc3VjY2Vzc2l2ZSByYW5rZWQgaXRlbSBpbiB0aGUgcmFua3MgYXRvbSBycyIK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">PT09PT09PQogICg6cmVxdWlyZSBbY25jLnV0aWxzIDphcyB1dGlsXSkpCj4+Pj4+Pj4gRXh0cmFjdCByYW5rLWl0ZW1zIGZuICYgT25seSByYW5rIHRoZSBhcnR3b3JrcyB0YWIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCA3ZTY0OTY3MjFiMjRmMTgyY2VlZThhMjA5Nzg4YzE5NDQ0MWY3NjFlCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>index</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>assoc</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIChsb2cvZGVidWcgIk5FWFRSQU5LSUQiIG5leHQtcmFuay1pZCkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>]</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDteezprZXkgKHN0ciBhcnR3b3JrLWltYWdlLWluZGV4ICg6ZGIvaWQgaW1hZ2UpKX0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>(= path :artwork/images)</text>
       </register>
-      <register name="7" type="4">
-        <text>cursor</text>
-      </register>
-      <register name="8" type="4">
-        <text>(d/q '[:find [?e] :where [?e :db/ident _]] (db/get-db))</text>
-      </register>
       <register name="9" type="4">
-        <text>successive</text>
+        <text>cursor</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
