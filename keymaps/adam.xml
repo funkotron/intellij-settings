@@ -112,6 +112,10 @@
   <action id="Console.Execute.Multiline" />
   <action id="EditorSplitLine" />
   <action id="KotlinShellExecute" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
