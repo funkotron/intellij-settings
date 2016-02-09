@@ -45,6 +45,9 @@
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/w/cedar/src/cljs/cedar/core.cljs" timestamp="1455030062602">
+        <mark key="[" line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
       </file>
@@ -67,6 +70,12 @@
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="9" />
         <mark key="." line="44" column="9" />
+      </file>
+      <file name="$USER_HOME$/w/cedar/src/clj/cedar/handler.clj" timestamp="1455030145989">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="/ClojureDebugFile.clj" timestamp="1452772087837">
         <mark key="[" line="0" column="0" />
