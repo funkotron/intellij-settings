@@ -94,10 +94,12 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" timestamp="1455017344290">
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" timestamp="1455021290655">
+        <mark key="'" line="274" column="54" />
+        <mark key="[" line="251" column="29" />
+        <mark key="]" line="274" column="54" />
+        <mark key="^" line="274" column="54" />
+        <mark key="." line="274" column="54" />
       </file>
       <file name="$USER_HOME$/w/cnc/.gitignore" timestamp="1451423222826">
         <mark key="[" line="13" column="12" />
@@ -117,10 +119,12 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1455016727321">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" timestamp="1455021482901">
+        <mark key="'" line="275" column="75" />
+        <mark key="[" line="268" column="46" />
+        <mark key="]" line="282" column="27" />
+        <mark key="." line="282" column="27" />
+        <mark key="^" line="282" column="27" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1454938592060">
         <mark key="[" line="404" column="39" />
@@ -263,19 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="61" filename="$USER_HOME$/w/cnc/project.clj" />
-      <jump line="306" column="9" filename="$USER_HOME$/w/cnc/src/clj/styles/views/artwork.clj" />
-      <jump line="296" column="7" filename="$USER_HOME$/w/cnc/src/clj/styles/views/artwork.clj" />
-      <jump line="277" column="37" filename="$USER_HOME$/w/cnc/src/clj/styles/views/artwork.clj" />
-      <jump line="315" column="40" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
-      <jump line="316" column="40" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
-      <jump line="317" column="17" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artworks.cljs" />
-      <jump line="29" column="12" filename="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" />
-      <jump line="30" column="10" filename="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" />
-      <jump line="31" column="7" filename="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" />
-      <jump line="32" column="7" filename="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" />
-      <jump line="90" column="1" filename="$USER_HOME$/w/organic/src/cljs/organic/core.cljs" />
-      <jump line="17" column="32" filename="$USER_HOME$/w/cnc/src/cljs/cnc/views.cljs" />
       <jump line="41" column="41" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="46" column="29" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="118" column="16" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
@@ -363,55 +354,68 @@
       <jump line="258" column="54" filename="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" />
       <jump line="254" column="37" filename="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" />
       <jump line="257" column="31" filename="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" />
+      <jump line="282" column="27" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="257" column="10" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="266" column="43" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="287" column="10" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="276" column="52" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="4" column="29" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="5" column="36" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="241" column="7" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="245" column="62" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="274" column="80" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="275" column="75" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/lists/core.cljs" />
+      <jump line="276" column="25" filename="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" />
+      <jump line="273" column="54" filename="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGdldC1yZXN1bHRzIHJlc3BvbnNlX2JvZHlfdXJsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5raW5nXD4=</text>
+        <text encoding="base64">IHI=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocHJuICJIRUFERVJTOiIgKHBybi1zdHIgaGVhZGVycykpCiAgICAgICAgICAgICAgICAgICAgKHBybiAiU1RBVFVTOiIgKHBybi1zdHIgc3RhdHVzKSkKICAgICAgICAgICAgICAgICAgICAocHJuICJCT0RZOiIgKHBybi1zdHIgKGpzb24vcGFyc2Utc3RyaW5nIGJvZHkgdHJ1ZSkpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGdldC1yZXN1bHRzIHJlc3BvbnNlX2JvZHlfdXJsKQo=</text>
+      <register name="1" type="4">
+        <text>(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>close! r</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CihkZWZuIGdldC1yZXN1bHRzCiAgW3Jlc3VsdHMtdXJsXQogIDs7IFRPRE86IHJldHVybiB0aGVzZSB0byB0aGUgdXNlcgogIChwcm4gIlJFU1VMVFM6OiIgKGdldC1yZXN1bHRzIHJlc3VsdHMtdXJsKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiU3VjY2VzczogTWFpbGNoaW1wIGxpc3Qgc3luY2VkLiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKHBybiAiUkVTVUxUUyIgcmVzcG9uc2VfYm9keV91cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGdldC1yZXN1bHRzIHJlc3BvbnNlX2JvZHlfdXJsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAocHJuICJHRVRUSU5HIFJFU1VMVFNAISEhISIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKHBybiAiRU5UUlJZWSIgKHBybi1zdHIgZW50cnkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4tIHRhci1lbnRyaWVzCiAgIkdldCBhIGxhenktc2VxIG9mIGVudHJpZXMgaW4gYSB0YXJmaWxlLiIKICBbXlRhckFyY2hpdmVJbnB1dFN0cmVhbSB0aW5dCiAgKHdoZW4tbGV0IFtlbnRyeSAoLmdldE5leHRUYXJFbnRyeSB0aW4pXQogICAgKGNvbnMgZW50cnkgKGxhenktc2VxICh0YXItZW50cmllcyB0aW4pKSkpKQoK</text>
+        <text encoding="base64">CihkZWZuIGdldC1yZXN1bHRzCiAgW3Jlc3VsdHMtdXJsXQogIDs7IFRPRE86IHJldHVybiB0aGVzZSB0byB0aGUgdXNlcgogIChwcm4gIlJFU1VMVFM6OiIgKGdldC1yZXN1bHRzIHJlc3VsdHMtdXJsKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OyhkZWZuIHVudGFyCjsgIFtpbnB1dC1maWxlIGRlc3QtZGlyXQo7ICAoY29tcHJlc3Npb24vdW50YXIgaW5wdXQtZmlsZSBkZXN0LWRpcikpCjsKOyhkZWZuIGd1bnppcAo7ICBbaW5wdXQtZmlsZSBqc29uLWRpcl0KOyAgKGxldCBbaW5wdXQtZmlsZSAoZnMvZmlsZSBpbnB1dC1maWxlKQo7ICAgICAgICBwYXJ0cyAoZnMvc3BsaXQgaW5wdXQtZmlsZSkKOyAgICAgICAgZGVzdCAoZnMvZmlsZSBqc29uLWRpcgo7ICAgICAgICAgICAgICAgICAgICAgIDsocmVkdWNlIGZzL2ZpbGUgKGJ1dGxhc3QgcGFydHMpKQo7ICAgICAgICAgICAgICAgICAgICAgIChmaXJzdCAoZnMvc3BsaXQtZXh0IChsYXN0IHBhcnRzKSkpKV0KOyAgICAod2l0aC1vcGVuIFtmLWluIChCdWZmZXJlZElucHV0U3RyZWFtLgo7ICAgICAgICAgICAgICAgICAgICAgICAoR1pJUElucHV0U3RyZWFtLgo7ICAgICAgICAgICAgICAgICAgICAgICAgIChpby9pbnB1dC1zdHJlYW0gaW5wdXQtZmlsZSkpKV0KOyAgICAgICh3aXRoLW9wZW4gW2Ytb3V0IChpby9vdXRwdXQtc3RyZWFtIGRlc3QpXQo7ICAgICAgICAoaW8vY29weSBmLWluIGYtb3V0KSkpKSkKOwo7KGRlZm4gZ3VuemlwLWFsbCBbXQo7ICAobGV0IFt0YXItZGlyIChmcy9maWxlICJ0bXAvdGFyIikKOyAgICAgICAganNvbi1kaXIgKGZzL2ZpbGUgInRtcC9qc29uIildCjsgICAgKGRvc2VxIFt0YXItZmlsZSAoZnMvbGlzdC1kaXIgdGFyLWRpcildCjsgICAgICAodW50YXIgdGFyLWZpbGUganNvbi1kaXIpKSkpCjsKOyhkZWZuIHdyaXRlLWd6aXAgW3Jlc3VsdHMtdXJsXQo7ICAod2l0aC1vcGVuIFt3ICgtPiAidG1wL3Rhci9vdXRwdXQudGFyLmd6Igo7ICAgICAgICAgICAgICAgICAgICBjbG9qdXJlLmphdmEuaW8vb3V0cHV0LXN0cmVhbQo7ICAgICAgICAgICAgICAgICAgICBjbG9qdXJlLmphdmEuaW8vd3JpdGVyKV0KOyAgICAod2l0aC1vcGVuIFtyIChCdWZmZXJlZElucHV0U3RyZWFtLgo7ICAgICAgICAgICAgICAgICAgICAoR1pJUElucHV0U3RyZWFtLgo7ICAgICAgICAgICAgICAgICAgICAgIChjbG9qdXJlLmphdmEuaW8vaW5wdXQtc3RyZWFtIHJlc3VsdHMtdXJsKSkpXQo7ICAgICAgKGlvL2NvcHkgciB3KSkpKQo7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKHBybiAiUkVTVUxUUyIgcmVzcG9uc2VfYm9keV91cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYW5raW5nXD4=</last-search>
+      <last-search encoding="base64">IHI=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5raW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">IHI=</last-pattern>
       <last-replace>Museum</last-replace>
       <last-substitute>Dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -419,7 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
         <entry>commen</entry>
         <entry>\n</entry>
         <entry>*images</entry>
@@ -439,6 +442,7 @@
         <entry>new-transport</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxyYW5raW5nXD4=</entry>
+        <entry encoding="base64">IHI=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvUHJvZ3Jlc3MvZw==</entry>
