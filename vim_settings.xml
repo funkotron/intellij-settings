@@ -45,10 +45,10 @@
       <file name="$USER_HOME$/w/cnc/resources/www/manifest.cljs" timestamp="1450793638726">
         <mark key="[" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/w/cedar/src/cljs/cedar/core.cljs" timestamp="1455032558626">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="23" />
+      <file name="$USER_HOME$/w/cedar/src/cljs/cedar/core.cljs" timestamp="1455037138394">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
@@ -377,8 +377,8 @@
       <jump line="273" column="54" filename="$USER_HOME$/w/cnc/src/clj/cnc/mailchimp.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>users</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHs6aWQgODI4MjM5NTZ9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>users</text>
@@ -389,29 +389,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAocHJuICJIRUFERVJTOiIgKHBybi1zdHIgaGVhZGVycykpCiAgICAgICAgICAgICAgICAgICAgKHBybiAiU1RBVFVTOiIgKHBybi1zdHIgc3RhdHVzKSkKICAgICAgICAgICAgICAgICAgICAocHJuICJCT0RZOiIgKHBybi1zdHIgKGpzb24vcGFyc2Utc3RyaW5nIGJvZHkgdHJ1ZSkpKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHs6aWQgODI4MjM5NTZ9Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>users</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgOnRleHQtYWxpZ24gOmNlbnRlcgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>close! r</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiU3VjY2VzczogTWFpbGNoaW1wIGxpc3Qgc3luY2VkLiIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGdldC1yZXN1bHRzIHJlc3BvbnNlX2JvZHlfdXJsKQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgKGdldC1yZXN1bHRzIHJlc3BvbnNlX2JvZHlfdXJsKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
