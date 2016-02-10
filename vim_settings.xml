@@ -282,6 +282,12 @@
         <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/login.cljs" timestamp="1455101836618" />
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1455125006812">
+        <mark key="[" line="595" column="11" />
+        <mark key="]" line="595" column="10" />
+        <mark key="." line="595" column="10" />
+        <mark key="^" line="595" column="10" />
+      </file>
       <file name="$USER_HOME$/w/cnc/test/clj/cnc/ranking_test.clj" timestamp="1454941012610">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -400,7 +406,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbnMtZGFzaGJvYXJkPyAoc2Vzc2lvbi9nZXQgOmxvY2F0aW9ucy1kYXNoYm9hcmQ/KQo=</text>
+        <text encoding="base64">ICAgICAgOzs7IFRPRE86IG1vcmUgc3RhdGVzIHRoYW4gdHJ1ZSBvciBmYWxzZQo=</text>
       </register>
       <register name="-" type="4">
         <text>Contact</text>
@@ -412,31 +418,31 @@
         <text>}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbnMtZGFzaGJvYXJkPyAoc2Vzc2lvbi9nZXQgOmxvY2F0aW9ucy1kYXNoYm9hcmQ/KQo=</text>
+        <text encoding="base64">ICAgICAgOzs7IFRPRE86IG1vcmUgc3RhdGVzIHRoYW4gdHJ1ZSBvciBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZmhhbmRsZXIgbG9jYXRpb25zLWRhc2hib2FyZCBbcmVxXQogICAgICAgICAgICAoc2Vzc2lvbi9wdXQhIDpsb2NhdGlvbnMtZGFzaGJvYXJkPyB0cnVlKQogICAgICAgICAgICAoc2Vzc2lvbi9wdXQhIDpjdXJyZW50LXBhZ2UgIydhcnR3b3Jrcy9hcnR3b3JrKSkK</text>
+        <text encoding="base64">ICAoanMvYWxlcnQgKHNlc3Npb24vZ2V0IDpjbGllbnQvaWQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6bG9jYXRpb25zLWRhc2hib2FyZD8gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbnMtZGFzaGJvYXJkPyAoc2Vzc2lvbi9nZXQgOmxvY2F0aW9ucy1kYXNoYm9hcmQ/KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICA7WyIvbG9jYXRpb25zIiBsb2NhdGlvbnMtZGFzaGJvYXJkXQo=</text>
+        <text encoding="base64">KGRlZmhhbmRsZXIgbG9jYXRpb25zLWRhc2hib2FyZCBbcmVxXQogICAgICAgICAgICAoc2Vzc2lvbi9wdXQhIDpsb2NhdGlvbnMtZGFzaGJvYXJkPyB0cnVlKQogICAgICAgICAgICAoc2Vzc2lvbi9wdXQhIDpjdXJyZW50LXBhZ2UgIydhcnR3b3Jrcy9hcnR3b3JrKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHNlc3Npb24vcHV0ISA6bG9jYXRpb25zLWRhc2hib2FyZD8gZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGRlZiBnZXQtY2xpZW50LXBhZ2UgW13Cp8KnwqfCp8KnwqfCpwogICh3aGVuIChhdXRoL2NoZWNrLWNsaWVudC10b2tlbiAoc2Vzc2lvbi9nZXQgOmNsaWVudC9pZCkgKHNlc3Npb24vZ2V0IDpjbGllbnQvdG9rZW4pKSkKICAoc2Vzc2lvbi9nZXQgOmNsaWVudC1wYWdlKSkK</text>
+        <text encoding="base64">ICAgICA7WyIvbG9jYXRpb25zIiBsb2NhdGlvbnMtZGFzaGJvYXJkXQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KGRlZiBnZXQtY2xpZW50LXBhZ2UgW13Cp8KnwqfCp8KnwqfCpwogICh3aGVuIChhdXRoL2NoZWNrLWNsaWVudC10b2tlbiAoc2Vzc2lvbi9nZXQgOmNsaWVudC9pZCkgKHNlc3Npb24vZ2V0IDpjbGllbnQvdG9rZW4pKSkKICAoc2Vzc2lvbi9nZXQgOmNsaWVudC1wYWdlKSkK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICJhcnR3b3JrIiBjb21tb24vYXJ0d29yay1waWNrZXIK</text>
-      </register>
-      <register name="8" type="4">
-        <text>Contact</text>
-      </register>
-      <register name="9" type="4">
-        <text>google</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
