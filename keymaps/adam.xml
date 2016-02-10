@@ -22,6 +22,9 @@
   <action id=":cursive.actions.paredit/close-paren-and-newline">
     <keyboard-shortcut first-keystroke="shift alt 0" />
   </action>
+  <action id=":cursive.actions.paredit/close-square-and-newline">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id=":cursive.actions.paredit/copy-as-kill">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
@@ -86,6 +89,9 @@
   </action>
   <action id=":cursive.actions.paredit/wrap-quotes">
     <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-square">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id=":cursive.repl.actions/execute-immediately" />
   <action id=":cursive.repl.actions/load-file">
