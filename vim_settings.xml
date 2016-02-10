@@ -17,6 +17,12 @@
       <file name="/a.dummy" timestamp="1455115975291">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1454949616675">
+        <mark key="'" line="164" column="66" />
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1455108498097">
         <mark key="[" line="321" column="26" />
       </file>
@@ -125,7 +131,7 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1455115403970">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1455116966838">
         <mark key="'" line="293" column="36" />
         <mark key="[" line="294" column="15" />
         <mark key="]" line="293" column="36" />
@@ -286,12 +292,11 @@
         <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/login.cljs" timestamp="1455101836618" />
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1455107827205">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1455117108009">
         <mark key="'" line="229" column="20" />
-        <mark key="[" line="111" column="26" />
-        <mark key="]" line="229" column="20" />
-        <mark key="^" line="229" column="20" />
-        <mark key="." line="229" column="20" />
+        <mark key="[" line="582" column="9" />
+        <mark key="]" line="589" column="0" />
+        <mark key="." line="589" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/test/clj/cnc/ranking_test.clj" timestamp="1454941012610">
         <mark key="[" line="38" column="0" />
@@ -411,7 +416,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICJhcnR3b3JrIiBjb21tb24vYXJ0d29yay1waWNrZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Contact</text>
@@ -423,31 +428,31 @@
         <text>}</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">KGRlZiBnZXQtY2xpZW50LXBhZ2UgW13Cp8KnwqfCp8KnwqfCpwogICh3aGVuIChhdXRoL2NoZWNrLWNsaWVudC10b2tlbiAoc2Vzc2lvbi9nZXQgOmNsaWVudC9pZCkgKHNlc3Npb24vZ2V0IDpjbGllbnQvdG9rZW4pKSkKICAoc2Vzc2lvbi9nZXQgOmNsaWVudC1wYWdlKSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICJhcnR3b3JrIiBjb21tb24vYXJ0d29yay1waWNrZXIK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>Contact</text>
       </register>
-      <register name="3" type="4">
-        <text>google</text>
-      </register>
-      <register name="4" type="4">
-        <text>google</text>
-      </register>
       <register name="5" type="4">
+        <text>google</text>
+      </register>
+      <register name="6" type="4">
+        <text>google</text>
+      </register>
+      <register name="7" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKGxvZy9kZWJ1ZyAocHItc3RyIGNvbnRleHQpKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgOnRleHQtYWxpZ24gOmNlbnRlcgo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>(</text>
-      </register>
-      <register name="9" type="4">
-        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
