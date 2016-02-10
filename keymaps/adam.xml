@@ -90,9 +90,6 @@
   <action id=":cursive.actions.paredit/wrap-quotes">
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
-  <action id=":cursive.actions.paredit/wrap-square">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-  </action>
   <action id=":cursive.repl.actions/execute-immediately" />
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift meta l" />
