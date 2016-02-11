@@ -8,7 +8,7 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="4" column="68" />
       </file>
-      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1455202752037">
+      <file name="$USER_HOME$/w/cnc/project.clj" timestamp="1455203618658">
         <mark key="'" line="174" column="66" />
         <mark key="[" line="161" column="47" />
         <mark key="]" line="163" column="0" />
@@ -120,6 +120,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" timestamp="1455203824961">
+        <mark key="'" line="385" column="23" />
+        <mark key="[" line="343" column="42" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/tasks/edit.cljs" timestamp="1453900945695">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="65" column="49" />
@@ -191,10 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="16" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" />
-      <jump line="59" column="38" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" />
-      <jump line="17" column="26" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/common.cljs" />
-      <jump line="108" column="61" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" />
       <jump line="109" column="66" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" />
       <jump line="12" column="26" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" />
       <jump line="19" column="21" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/licenses.cljs" />
@@ -291,6 +291,10 @@
       <jump line="336" column="14" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/file.cljs" />
       <jump line="293" column="36" filename="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" />
       <jump line="229" column="20" filename="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" />
+      <jump line="10" column="27" filename="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" />
+      <jump line="368" column="34" filename="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" />
+      <jump line="11" column="29" filename="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" />
+      <jump line="385" column="23" filename="$USER_HOME$/w/cnc/src/cljs/cnc/schema_form.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -300,7 +304,7 @@
         <text>Lastname</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IHI=</text>
+        <text encoding="base64">XDxxdWVyaWVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJGaXJzdCBsaW5lIiBbOmFkZHJlc3MvZmlyc3QtbGluZV0KICAgICAgICAgICAgICAgICJTZWNvbmQgbGluZSIgWzphZGRyZXNzL3NlY29uZC1saW5lXQogICAgICAgICAgICAgICAgIkNpdHkiIFs6YWRkcmVzcy9jaXR5XQogICAgICAgICAgICAgICAgIlN0YXRlIiBbOmFkZHJlc3Mvc3RhdGVdCiAgICAgICAgICAgICAgICAiWmlwIENvZGUiIFs6YWRkcmVzcy96aXAtY29kZV1dCg==</text>
@@ -337,9 +341,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IHI=</last-search>
+      <last-search encoding="base64">XDxxdWVyaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IHI=</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyaWVzXD4=</last-pattern>
       <last-replace>Museum</last-replace>
       <last-substitute>Dealer</last-substitute>
       <last-dir>1</last-dir>
@@ -347,8 +351,6 @@
     </search>
     <history>
       <history-search>
-        <entry>commen</entry>
-        <entry>\n</entry>
         <entry>*images</entry>
         <entry>Tray</entry>
         <entry>fast</entry>
@@ -367,6 +369,8 @@
         <entry>data</entry>
         <entry encoding="base64">XDxyYW5raW5nXD4=</entry>
         <entry encoding="base64">IHI=</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
+        <entry encoding="base64">XDxxdWVyaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N1Y2Nlc3MvUHJvZ3Jlc3MvZw==</entry>
