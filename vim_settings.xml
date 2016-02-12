@@ -37,8 +37,8 @@
         <mark key="]" line="141" column="23" />
         <mark key="." line="141" column="23" />
       </file>
-      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1453923961595">
-        <mark key="[" line="130" column="74" />
+      <file name="$USER_HOME$/w/cnc/dev/user.clj" timestamp="1455271567792">
+        <mark key="[" line="130" column="57" />
         <mark key="]" line="130" column="76" />
         <mark key="^" line="130" column="76" />
         <mark key="." line="130" column="76" />
@@ -106,7 +106,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1453921548197" />
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1455271521322">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/auth.clj" timestamp="1452253886631">
         <mark key="[" line="96" column="49" />
       </file>
@@ -143,7 +145,6 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/stock/purchase.cljs" timestamp="1452699826635">
         <mark key="[" line="26" column="55" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/activity.clj" timestamp="1453923995537" />
       <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1453742403016">
         <mark key="'" line="435" column="4" />
         <mark key="[" line="445" column="5" />
@@ -230,7 +231,6 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/stock/presale.cljs" timestamp="1452699809532">
         <mark key="[" line="30" column="52" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/activity.cljs" timestamp="1453924061594" />
       <file name="/a.regexp" timestamp="1451578919096">
         <mark key="[" line="0" column="0" />
       </file>
