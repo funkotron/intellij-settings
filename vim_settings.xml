@@ -268,8 +268,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1455628313617">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/contacts.cljs" timestamp="1455630623591">
         <mark key="[" line="343" column="81" />
+        <mark key="]" line="343" column="80" />
+        <mark key="^" line="343" column="80" />
+        <mark key="." line="343" column="80" />
       </file>
       <file name="$USER_HOME$/w/cnc/resources/www/js/out/manifest.json" timestamp="1450716079206">
         <mark key="[" line="13" column="19" />
