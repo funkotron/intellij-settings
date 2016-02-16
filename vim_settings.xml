@@ -145,10 +145,9 @@
         <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/app.cljs" timestamp="1455552985948">
-        <mark key="'" line="306" column="18" />
         <mark key="[" line="53" column="5" />
         <mark key="]" line="53" column="6" />
-        <mark key="^" line="367" column="61" />
+        <mark key="^" line="377" column="61" />
         <mark key="." line="53" column="6" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_edit.cljs" timestamp="1455549983066">
