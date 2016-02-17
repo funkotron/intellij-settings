@@ -19,8 +19,8 @@
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/common.cljs" timestamp="1455717477413">
-        <mark key="[" line="55" column="32" />
+      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/common.cljs" timestamp="1455722912901">
+        <mark key="[" line="50" column="22" />
       </file>
       <file name="$USER_HOME$/w/cnc-pub/project.clj" timestamp="1455548580234">
         <mark key="[" line="105" column="48" />
@@ -49,6 +49,9 @@
         <mark key="[" line="47" column="33" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/pages.cljs" timestamp="1455722906102">
+        <mark key="[" line="20" column="73" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/db.cljs" timestamp="1447851607352">
         <mark key="[" line="37" column="19" />
