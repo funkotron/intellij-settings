@@ -22,12 +22,9 @@
       <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/common.cljs" timestamp="1455722912901">
         <mark key="[" line="50" column="22" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1455724318622">
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1455725902629">
         <mark key="'" line="369" column="14" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="452" column="25" />
-        <mark key="^" line="442" column="13" />
-        <mark key="." line="452" column="25" />
+        <mark key="[" line="493" column="2" />
       </file>
       <file name="$USER_HOME$/w/cnc-pub/project.clj" timestamp="1455548580234">
         <mark key="[" line="105" column="48" />
@@ -95,7 +92,7 @@
         <mark key="]" line="44" column="9" />
         <mark key="." line="44" column="9" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/public_assets/pages.cljs" timestamp="1455724467962">
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/public_assets/pages.cljs" timestamp="1455725296806">
         <mark key="[" line="53" column="7" />
         <mark key="]" line="53" column="7" />
         <mark key="." line="53" column="7" />
@@ -185,8 +182,8 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/stock/consignment.cljs" timestamp="1452701619742">
         <mark key="[" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/artwork.cljs" timestamp="1455718874419">
-        <mark key="[" line="66" column="5" />
+      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/artwork.cljs" timestamp="1455725471795">
+        <mark key="[" line="65" column="65" />
         <mark key="]" line="56" column="101" />
         <mark key="^" line="56" column="101" />
         <mark key="." line="56" column="101" />
@@ -212,9 +209,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1450713056903">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/api.cljs" timestamp="1455722272966">
-        <mark key="[" line="11" column="4" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/pendings.cljs" timestamp="1455296046565">
         <mark key="[" line="110" column="106" />
@@ -386,8 +380,8 @@
       <jump line="6" column="12" filename="$USER_HOME$/w/cnc-pub/resources/public/css/site.styl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dXR0b24ubWRsLWJ1dHRvbi5tZGwtYnV0dG9uLS1jb2xvcmVkLm1kbC1qcy1idXR0b24ubWRsLWpzLXJpcHBsZS1lZmZlY3QubWRsLWJ1dHRvbi0tcmFpc2VkIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgOzsgSG9tZXBhZ2UgU3R5bGVzCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dXR0b24ubWRsLWJ1dHRvbi5tZGwtYnV0dG9uLS1jb2xvcmVkLm1kbC1qcy1idXR0b24ubWRsLWpzLXJpcHBsZS1lZmZlY3QubWRsLWJ1dHRvbi0tcmFpc2VkIA==</text>
@@ -398,32 +392,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtU2VjdXJpdHktUG9saWN5IgogICAgICAgICAgY29udGVudD0iZGVmYXVsdC1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJyBodHRwOi8vKi5jbG91ZGZyb250Lm5ldCBodHRwOi8vKi5jb2xsY29ydGVzLmNvbSBodHRwOi8vd3d3LmdldG1kbC5pbyBodHRwczovLyouY2xvdWRmcm9udC5uZXQgaHR0cDovL2FwaS5maWxlcGlja2VyLmlvIGh0dHBzOi8vZGlhbG9nLmZpbGVwaWNrZXIuaW8gaHR0cHM6Ly8qLmNsb3VkZnJvbnQubmV0LyBodHRwczovL3d3dy5maWxlcGlja2VyLmlvIGh0dHBzOi8vczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20gaHR0cHM6Ly9jbG91ZGZyb250LmxvZ2dseS5jb20vanMvbG9nZ2x5LnRyYWNrZXItMi4xLm1pbi5qcyBodHRwczovLyouZ29vZ2xlLmNvbSBodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tIGh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbSBodHRwczovL2ZvbnRzLmdzdGF0aWMuY29tIGRhdGE6IGdhcDogaHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20gJ3Vuc2FmZS1ldmFsJzsgc3R5bGUtc3JjICdzZWxmJyAndW5zYWZlLWlubGluZScgaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tIGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb207IG1lZGlhLXNyYyAqOyBjb25uZWN0LXNyYyAnc2VsZicgd3M6Ly8qOjgwODAgd3M6Ly9jaHNrLyAqIHdzOi8vbG9jYWxob3N0OjM0NDk7Ij4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dXR0b24ubWRsLWJ1dHRvbi5tZGwtYnV0dG9uLS1jb2xvcmVkLm1kbC1qcy1idXR0b24ubWRsLWpzLXJpcHBsZS1lZmZlY3QubWRsLWJ1dHRvbi0tcmFpc2VkIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgOzsgSG9tZXBhZ2UgU3R5bGVzCg==</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text encoding="base64">dXR0b24ubWRsLWJ1dHRvbi5tZGwtYnV0dG9uLS1jb2xvcmVkLm1kbC1qcy1idXR0b24ubWRsLWpzLXJpcHBsZS1lZmZlY3QubWRsLWJ1dHRvbi0tcmFpc2VkIA==</text>
       </register>
       <register name="3" type="4">
-        <text>.mdl-button--colored</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text encoding="base64">YnV0dG9uLm1kbC1idXR0b24ubWRsLWJ1dHRvbi0tY29sb3JlZC5tZGwtanMtYnV0dG9uLm1kbC1qcy1yaXBwbGUtZWZmZWN0Lm1kbC1idXR0b24tLXJhaXNlZCA=</text>
+        <text>.mdl-button--colored</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">YnV0dG9uLm1kbC1idXR0b24ubWRsLWJ1dHRvbi0tY29sb3JlZC5tZGwtanMtYnV0dG9uLm1kbC1qcy1yaXBwbGUtZWZmZWN0Lm1kbC1idXR0b24tLXJhaXNlZCA=</text>
+      </register>
+      <register name="6" type="4">
         <text>cnc-upload.mdl-button.mdl-js-button.mdl-js-ripple-effect.mdl-button--raised</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgWzpoMiAiSG9tZSBwYWdlIHNsaWRlcyJdCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZGVmYXVsdC1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJyBodHRwOi8vKi5jbG91ZGZyb250Lm5ldCBodHRwOi8vKi5jb2xsY29ydGVzLmNvbSBodHRwOi8vd3d3LmdldG1kbC5pbyBodHRwczovLyouY2xvdWRmcm9udC5uZXQgaHR0cDovL2FwaS5maWxlcGlja2VyLmlvIGh0dHBzOi8vZGlhbG9nLmZpbGVwaWNrZXIuaW8gaHR0cHM6Ly8qLmNsb3VkZnJvbnQubmV0LyBodHRwczovL3d3dy5maWxlcGlja2VyLmlvIGh0dHBzOi8vczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20gaHR0cHM6Ly9jbG91ZGZyb250LmxvZ2dseS5jb20vanMvbG9nZ2x5LnRyYWNrZXItMi4xLm1pbi5qcyBodHRwczovLyouZ29vZ2xlLmNvbSBodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tIGh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbSBodHRwczovL2ZvbnRzLmdzdGF0aWMuY29tIGRhdGE6IGdhcDogaHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20gJ3Vuc2FmZS1ldmFsJzsgc3R5bGUtc3JjICdzZWxmJyAndW5zYWZlLWlubGluZScgaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tIGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb207IG1lZGlhLXNyYyAqOyA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
