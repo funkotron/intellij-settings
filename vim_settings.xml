@@ -20,7 +20,7 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/common.cljs" timestamp="1455717477413">
-        <mark key="[" line="54" column="32" />
+        <mark key="[" line="55" column="32" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/components.clj" timestamp="1455625800991">
         <mark key="'" line="369" column="14" />
@@ -40,9 +40,9 @@
         <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/w/cnc-pub/resources/css/site.styl" timestamp="1455714987665">
-        <mark key="[" line="113" column="21" />
-        <mark key="]" line="152" column="16" />
-        <mark key="." line="152" column="16" />
+        <mark key="[" line="114" column="21" />
+        <mark key="]" line="153" column="16" />
+        <mark key="." line="153" column="16" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1455545089670">
         <mark key="[" line="218" column="24" />
@@ -174,8 +174,11 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/stock/consignment.cljs" timestamp="1452701619742">
         <mark key="[" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/artwork.cljs" timestamp="1455717441829">
+      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/artwork.cljs" timestamp="1455718874419">
         <mark key="[" line="66" column="5" />
+        <mark key="]" line="56" column="101" />
+        <mark key="^" line="56" column="101" />
+        <mark key="." line="56" column="101" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1455290071423">
         <mark key="[" line="437" column="20" />
