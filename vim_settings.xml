@@ -42,6 +42,11 @@
         <mark key="]" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/w/cnc-pub/resources/css/site.styl" timestamp="1455713607346">
+        <mark key="[" line="148" column="15" />
+        <mark key="]" line="148" column="16" />
+        <mark key="." line="148" column="16" />
+      </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1455545089670">
         <mark key="[" line="218" column="24" />
         <mark key="]" line="222" column="74" />
@@ -81,6 +86,9 @@
         <mark key="[" line="24" column="11" />
         <mark key="]" line="3" column="40" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/w/cnc-pub/build.boot" timestamp="1455714103203">
+        <mark key="[" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/w/cnc-data/build.boot" timestamp="1454593051814">
         <mark key="[" line="44" column="8" />
