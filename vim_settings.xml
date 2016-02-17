@@ -149,11 +149,11 @@
         <mark key="." line="234" column="26" />
         <mark key="^" line="235" column="15" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1452708461973">
+      <file name="$USER_HOME$/w/cnc/src/clj/cnc/run.clj" timestamp="1455711775673">
         <mark key="[" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cljs/cnc_pub/about.cljs" timestamp="1455635792370">
-        <mark key="[" line="25" column="13" />
+      <file name="$USER_HOME$/w/cnc-pub/src/cljs/cnc_pub/about.cljs" timestamp="1455711854922">
+        <mark key="[" line="32" column="27" />
         <mark key="]" line="3" column="40" />
         <mark key="^" line="3" column="39" />
         <mark key="." line="3" column="39" />
@@ -213,12 +213,6 @@
       </file>
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/ws.cljs" timestamp="1452689753739">
         <mark key="[" line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cljs/cnc_pub/artwork.cljs" timestamp="1455555369813">
-        <mark key="'" line="79" column="3" />
-        <mark key="[" line="96" column="11" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1455206937656">
         <mark key="[" line="0" column="0" />
