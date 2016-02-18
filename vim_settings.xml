@@ -24,8 +24,14 @@
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/common.cljs" timestamp="1455794759636">
-        <mark key="[" line="40" column="10" />
+      <file name="$USER_HOME$/w/cnc-pub/src/cnc_pub/common.cljs" timestamp="1455819675128">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="167" column="37" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1455816110879">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/w/cnc-pub/project.clj" timestamp="1455548580234">
         <mark key="[" line="105" column="48" />
@@ -37,7 +43,12 @@
         <mark key="]" line="16" column="12" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1455814148797">
+      <file name="$USER_HOME$/w/cnc-pub/resources/css/site.styl" timestamp="1455817859651">
+        <mark key="[" line="195" column="5" />
+        <mark key="]" line="195" column="5" />
+        <mark key="." line="195" column="5" />
+      </file>
+      <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/artwork_view.cljs" timestamp="1455815782806">
         <mark key="[" line="218" column="24" />
         <mark key="]" line="222" column="74" />
         <mark key="." line="222" column="74" />
@@ -88,7 +99,7 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/public_assets/pages.cljs" timestamp="1455635560301">
         <mark key="[" line="74" column="18" />
       </file>
-      <file name="$USER_HOME$/w/cnc-pub/resources/index.html" timestamp="1455720843899">
+      <file name="$USER_HOME$/w/cnc-pub/resources/index.html" timestamp="1455815478357">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
@@ -209,7 +220,7 @@
       <file name="$USER_HOME$/w/cnc/src/cljs/cnc/view/pendings.cljs" timestamp="1455296046565">
         <mark key="[" line="110" column="106" />
       </file>
-      <file name="$USER_HOME$/w/cnc/src/clj/styles/views/artwork.clj" timestamp="1455814722204" />
+      <file name="$USER_HOME$/w/cnc/src/clj/styles/views/artwork.clj" timestamp="1455816126164" />
       <file name="$USER_HOME$/w/cnc/src/clj/cnc/config.clj" timestamp="1452689740664">
         <mark key="[" line="8" column="51" />
         <mark key="]" line="8" column="51" />
@@ -377,44 +388,50 @@
       <jump line="6" column="12" filename="$USER_HOME$/w/cnc-pub/resources/public/css/site.styl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtU2VjdXJpdHktUG9saWN5IgogICAgICAgICAgY29udGVudD0iZGVmYXVsdC1zcmMgJ3NlbGYnICd1bnNhZmUtaW5saW5lJyBodHRwOi8vKi5jbG91ZGZyb250Lm5ldCBodHRwOi8vKi5jb2xsY29ydGVzLmNvbSBodHRwOi8vd3d3LmdldG1kbC5pbyBodHRwczovLyouY2xvdWRmcm9udC5uZXQgaHR0cDovL2FwaS5maWxlcGlja2VyLmlvIGh0dHBzOi8vZGlhbG9nLmZpbGVwaWNrZXIuaW8gaHR0cHM6Ly8qLmNsb3VkZnJvbnQubmV0LyBodHRwczovL3d3dy5maWxlcGlja2VyLmlvIGh0dHBzOi8vczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20gaHR0cHM6Ly9jbG91ZGZyb250LmxvZ2dseS5jb20vanMvbG9nZ2x5LnRyYWNrZXItMi4xLm1pbi5qcyBodHRwczovLyouZ29vZ2xlLmNvbSBodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tIGh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbSBodHRwczovL2ZvbnRzLmdzdGF0aWMuY29tIGRhdGE6IGdhcDogaHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20gJ3Vuc2FmZS1ldmFsJzsgc3R5bGUtc3JjICdzZWxmJyAndW5zYWZlLWlubGluZScgaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tIGh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb207IG1lZGlhLXNyYyAqOyBjb25uZWN0LXNyYyAnc2VsZicgd3M6Ly8qOjgwODAgd3M6Ly9jaHNrLyAqIHdzOi8vbG9jYWxob3N0OjM0NDk7Ij4K</text>
+      <register name="0" type="4">
+        <text>}</text>
       </register>
-      <register name="1" type="4">
-        <text>false</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LmNuYy1jb250ZW50CiAgcGFkZGluZy10b3AgNzBweAo=</text>
+        <text>;
+;(defn images-slider [images]
+;  [:div.full-after-header.artwork-images
+;   {:style {:position :relative}}
+;
+;   [flickity {:images      images
+;              :fullscreen? (atom false)}]])</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vIEZ1bmN0aW9ucwoKd2luZG93LWhlaWdodC13aXRob3V0LW1lbnUoeCkKICBhID0gdW5pdCgxMDB2aCwgcHgpCiAgYSAtIHg=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">O1t7OmltYWdlL3MzLWlkICI2M2YzNmVhOC04ZmEwLTRkNmItOWVmYy1kZWEwZTcyZjEzODgiLCA6aW1hZ2UvZmlsZXBpY2tlci11cmwgImh0dHBzJTNBLy93d3cuZmlsZXBpY2tlci5pby9hcGkvZmlsZS9GSGh0V0RWVFNLcEdKMER6QXR3WCJ9IHs6aW1hZ2UvczMtaWQgIjMxNTBkODQxLWYwMTItNDllOC05OTIwLTc1ZjhmYmRiODhjYSIsIDppbWFnZS9maWxlcGlja2VyLXVybCAiaHR0cHMlM0EvL3d3dy5maWxlcGlja2VyLmlvL2FwaS9maWxlL0FPOUxxeVhSc21uMUxVU09xa01YIn1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChzd2FwISBzdGF0ZS9zdGF0ZSBhc3NvYyA6cGFnZS1zZWFyY2gtdmlzaWJsZT8gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoanMvYWxlcnQgIkZVSUxMIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIDs7IElmIHdlIGFyZSBvbiB0aGUgaG9tZXBhZ2UgdXNlIGEgdHJhbnNwYXJlbnQgYmFja2dyb3VuZC1jb2xvcgo=</text>
+        <text encoding="base64">ICBbOmRpdiAocHItc3RyIGltYWdlcyldCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDkwMHB4Owo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgICAgIHotaW5kZXggIDEwMAogICAgICAgIHBvc2l0aW9uIGZpeGVkCiAgICAgICAgdG9wICAgICAgMAogICAgICAgIGxlZnQgICAgIDAKICAgICAgICB3aWR0aCAgICAxMDAlCiAgICAgICAgaGVpZ2h0ICAgMTAwJQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgWzouZ2FsbGVyeS5mdWxsCiAgICAgICB7OnotaW5kZXggIDEwMAogICAgICAgIDpwb3NpdGlvbiAiZml4ZWQiCiAgICAgICAgOnRvcCAgICAgIDAKICAgICAgICA6bGVmdCAgICAgMAogICAgICAgIDp3aWR0aCAgICAocGVyY2VudCAxMDApCiAgICAgICAgOmhlaWdodCAgIChwZXJjZW50IDEwMCl9CiAgICAgICBbOi5nYWxsZXJ5LWNlbGwgezpoZWlnaHQgKHBlcmNlbnQgMTAwKX1dXV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbOmltZyB7OmhlaWdodCAocGVyY2VudCAxMDApfV1dXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
