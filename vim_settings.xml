@@ -188,8 +188,11 @@
         <mark key="^" line="88" column="69" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/w/a1/src/cljs/a1/core.cljs" timestamp="1483703460110">
-        <mark key="[" line="10" column="27" />
+      <file name="$USER_HOME$/w/a1/src/cljs/a1/core.cljs" timestamp="1483704755311">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/w/cnc/src/clj/styles/core.clj" timestamp="1455290071423">
         <mark key="[" line="437" column="20" />
@@ -389,8 +392,8 @@
       <jump line="6" column="12" filename="$USER_HOME$/w/cnc-pub/resources/public/css/site.styl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -399,7 +402,7 @@
         <text>alert</text>
       </register>
       <register name="0" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
